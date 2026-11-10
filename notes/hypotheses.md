@@ -93,3 +93,25 @@ Files: results/step3/analysis.log, labels_unblinded.csv, unit_stats.jsonl; scrip
 - Hand check: I judged 30 random packets blind; 24/30 agree with the agents on one-job-either, 3 disagreements each way.
 - Density matters within type (denser units are labelled one job less often), as in the already-clean replication.
 - Limits: positive pole only; half the edited neurons have their largest activation at the negative pole.
+
+## Step 4 generation check (2026-11-10, in progress)
+36 MATH train practice problems, 1 sample each, 8,192-token cap (deviation from 32,768), post's sampling incl.
+presence penalty 1.5; results/gen_eval.jsonl; scripts/gen_eval.py.
+
+| Condition | Looped by the cap | Finished | Correct |
+| --- | --- | --- | --- |
+| unedited | 26/36 | 1 | 1 |
+| published edit | 3/36 | 8 | 8 |
+| our top 64 (write ranking, our direction, alpha 6) | 5/36 | 1 | 1 |
+| all columns, our direction, alpha 6 | 6/36 | 1 | 1 |
+
+Our edits remove loops about as well as the published one (5/36 vs 3/36, p = 0.71) but do not make the model
+finish within the cap (1/36 vs 8/36, p = 0.028). Reading 4 random problems: text under our edits is coherent
+math reasoning that keeps second-guessing ("Wait, ...") without exact repetition. The proxy did not predict this.
+Queued: published neurons with our direction, and our neurons with the published direction, to see whether the
+direction or the neuron choice carries the finishing effect.
+
+## Difference-of-means directions (rollout-level contrasts; results/directions_cosines.txt)
+Cosine with the loop direction: incorrect-vs-correct 0.76 / 0.77 (L15 / L19), cut-vs-finished 0.79 / 0.80,
+unedited-vs-edited text 0.99 / 0.99. Cosine with the published u: loop 0.73 / 0.75, incorrect 0.70 / 0.69,
+cut 0.72 / 0.70. Only 15 correct and 14 finished rollouts among the 200.
