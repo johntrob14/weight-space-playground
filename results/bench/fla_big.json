@@ -1,0 +1,19 @@
+{
+ "tag": "fla_big",
+ "tf": {},
+ "gen": {
+  "32x512": {
+   "s": 75.655770778656,
+   "tok_per_s": 216.55981865460356,
+   "peak_MiB": 2873
+  },
+  "64x512": {
+   "oom": true
+  },
+  "128x256": {
+   "oom": true
+  }
+ },
+ "cached_vs_full_top1_agree": 0.96875,
+ "cached_vs_full_logit_max_abs_diff": 0.375
+}

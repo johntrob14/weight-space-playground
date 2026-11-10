@@ -1,0 +1,7 @@
+{
+ "tag": "nofla",
+ "tf": {},
+ "gen": {},
+ "cached_vs_full_top1_agree": 1.0,
+ "cached_vs_full_logit_max_abs_diff": 0.3125
+}

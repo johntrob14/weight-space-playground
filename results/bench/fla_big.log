@@ -1,0 +1,5 @@
+fla_big: cached token-by-token vs full pass, last 32 positions: top-1 agree 0.969, max |logit diff| 0.375
+   gen   32x512:   75.7s,   217 tok/s total, peak 2873 MiB
+   gen   64x512: OOM
+   gen  128x256: OOM
+done

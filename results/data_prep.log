@@ -1,0 +1,22 @@
+            n   cut   loop  closed  correct  n_gen_median  n_gen_max  tokens_total
+model                                                                             
+edited    200  0.35  0.305   0.760    0.460       23820.5      32768       4415404
+unedited  200  0.93  0.915   0.065    0.075       32768.0      32768       6198182
+
+cut x loop:
+ loop            False  True 
+model    cut                
+edited   False    113     17
+         True      26     44
+unedited False     13      1
+         True       4    182
+
+loop onset (generated-token index), looped generations:
+          count     mean     std     min     10%      25%      50%      75%      90%      max
+model                                                                                        
+edited     61.0  23440.0  8557.0  5780.0  9307.0  15865.0  26372.0  30969.0  32277.0  32502.0
+unedited  183.0   7344.0  4088.0  1985.0  3176.0   4618.0   6474.0   8783.0  12775.0  21219.0
+
+repeat fraction before onset (looped) / overall (not looped):
+  unedited: pre-onset mean 0.146 (n=183); non-looped mean 0.055 (n=17)
+  edited: pre-onset mean 0.301 (n=61); non-looped mean 0.135 (n=139)

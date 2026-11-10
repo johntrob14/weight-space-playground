@@ -2,3 +2,7 @@ ext/
 .venv/
 __pycache__/
 logs/
+results/acts/state.pt
+results/acts/state.pt.tmp
+results/data/gens.pt
+results/bench/*.pt
