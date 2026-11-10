@@ -1,0 +1,7 @@
+variant,n,looped,looped_ci,finished,correct,mean_repeat,median_tokens
+none,36,26,0.56-0.84,1,1,0.37,8192
+published,36,3,0.03-0.22,8,8,0.089,8192
+write_top64_a6,36,5,0.06-0.29,1,1,0.139,8192
+full_owndir_a6,36,6,0.08-0.32,1,1,0.177,8192
+act_top64_a6,36,5,0.06-0.29,2,2,0.17,8192
+random64_0_a6,36,18,0.34-0.66,2,2,0.256,8192
