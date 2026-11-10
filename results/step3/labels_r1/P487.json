@@ -1,0 +1,9 @@
+{
+ "id": "P487",
+ "explanation": "No single trigger: marked tokens include repeated letters and exclamation marks in informal text ('SSSS', '!!', '!'), the fragment 'Sim' in names, the 'ies' of \\implies in math, a space or '$' starting a math result, and a run-on 'Read' in 'moneyRead More'.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0,
+ "cover_moderate": 0,
+ "repetition_related": false
+}

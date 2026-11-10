@@ -1,0 +1,9 @@
+{
+ "id": "P510",
+ "explanation": "No describable trigger: marked tokens are a mix of ' of' in re-read quoted problem text, newlines, digits in math expressions, and unrelated web-text words (' and', ' workshops', ' on', ' With', ' Kentucky', ' is', ',').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.2,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

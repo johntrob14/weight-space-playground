@@ -1,0 +1,9 @@
+{
+ "id": "P349",
+ "explanation": "Several unrelated token triggers: the verb 'come' in 'come to / come into' (come to an end, come into its own), the possessive 'its' after 'as/to', a hyphen plus 'c' starting a hyphenated word (Off-C|ampus, pre-c|andidate, EV-c|ertificate), plus 'makes' and 'those'. Moderate excerpts are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

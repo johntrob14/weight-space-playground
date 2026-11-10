@@ -1,0 +1,9 @@
+{
+ "id": "P365",
+ "explanation": "No single trigger. Small clusters only: ' $' introducing a price after a comma in product listings (two excerpts) and ' I' right after a closing quotation (two excerpts); the rest are assorted nouns and tokens (' trees', ' remote', ' clean', ' road', ' We').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

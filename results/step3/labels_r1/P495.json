@@ -1,0 +1,9 @@
+{
+ "id": "P495",
+ "explanation": "Several unrelated triggers: the century digit of a year inside legal case citations ('(1[[9]]92)', '(1[[9]]64)') and a date year; the demonstratives ' these'/' this' ('these files', 'this forum'); the name ' Parkinson'; and the chemical fragment ' Phen'/' phen' (phenyl, phenolic). Moderate excerpts are unrelated common words.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

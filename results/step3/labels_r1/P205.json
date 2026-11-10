@@ -1,0 +1,9 @@
+{
+ "id": "P205",
+ "explanation": "Fires on a variable, coefficient or digit at the start of an algebraic term that is being written again from earlier in the same derivation (z^4 ... z^4, a^2+b^2 over a^2+b^2, k^2ab, 3x^2 re-copied) or that starts a familiar symbol sequence such as 'a, b, c', 'a+b+c' or 'x_1+x_2+x_3'. A few digits inside numbers and a 'the' do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P404",
+ "explanation": "Fires on the word 'spider' / 'Spider' (Spider-Man, a literal spider). Weaker offshoots are tokens in other entertainment or proper names (Krysten Ritter, Jonas Brother, Lady luck, Spitzer); moderate excerpts are unrelated.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

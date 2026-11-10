@@ -1,0 +1,9 @@
+{
+ "id": "P052",
+ "explanation": "Mostly words inside the problem statement's wording when the reasoning re-quotes or re-reads it ('\"Reassigned to Denali\"', '\"placed into the bags\"', '\"now taken off\"', '\"Let $z = 2 +\"', '\"redistribute all the coins\"'). Other excerpts (legal text 'one count of attempted murder', 'DomainDoorman', news prose) do not clearly fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": true
+}

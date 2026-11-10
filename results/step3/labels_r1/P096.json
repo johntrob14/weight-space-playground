@@ -1,0 +1,9 @@
+{
+ "id": "P096",
+ "explanation": "Fires on the verb 'cause' (after can/may/could) in health and safety warnings where a substance or drug is said to produce a harmful effect; weaker on neighbouring warning-text tokens such as side-effect list bullets, 'side effects include', 'trigger', 'do not use if'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

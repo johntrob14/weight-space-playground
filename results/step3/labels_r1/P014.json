@@ -1,0 +1,9 @@
+{
+ "id": "P014",
+ "explanation": "Fires on the token immediately before a manner or degree adverb, i.e. where an '-ly' adverb is about to follow: 'are[[ treated]] fairly', 'taxes are[[ distributed]] fairly', '[[ more]] accurately', 'loudly[[ and]] proudly', '[[ driving]] aggressively', 'Perhaps[[ most]] strangely', '[[ responds]] well', 'quickly[[ and]] efficiently'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

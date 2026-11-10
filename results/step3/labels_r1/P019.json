@@ -1,0 +1,9 @@
+{
+ "id": "P019",
+ "explanation": "Fires in math reasoning, largely inside restated problem text, on tokens that begin a relation or expression attached to a just-named object: ' that' in 'points $(x,y,z)$ that satisfy', the backslash of '\\parallel' after a segment name ('BC \\parallel AC'), '=' after '|m - n|'. The other half are assorted starts of math expressions or quoted question words ('$', '\\sqrt', '\\lceil', 'How', ' product') with no tighter rule.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

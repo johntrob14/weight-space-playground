@@ -1,0 +1,9 @@
+{
+ "id": "P190",
+ "explanation": "In math reasoning, fires on the predicate or complement token right after a mathematical object is named in a statement of what it is, must be, or is to be done with it: 'is not an integer', 'is uniquely determined', 'would be', 'must be an integer', 'we want to maximize', 'we need to minimize', 'is bounded by'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

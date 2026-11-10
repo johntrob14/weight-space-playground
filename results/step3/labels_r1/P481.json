@@ -1,0 +1,9 @@
+{
+ "id": "P481",
+ "explanation": "The last number (or term) inside a bracketed group immediately before its closing delimiter in math text, most often the second coordinate of an ordered pair like (0,[[0]]) or (1, [[5]]) that begins a list of pairs, and also the content of \\sqrt{..} or a fraction denominator just before '}'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P367",
+ "explanation": "Tokens in math reasoning just before a value or identity is stated, concentrated in trigonometric contexts ('\\cos 81 \\approx', '\\cos(90^\\circ) =', 'the relation $\\sin x', 'Also $\\sin(A-B)', 'computing $\\arcsin'); several strong excerpts are generic non-trig reasoning tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

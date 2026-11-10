@@ -1,0 +1,9 @@
+{
+ "id": "P363",
+ "explanation": "The LaTeX 'sqrt' command (mostly n-th roots written \\sqrt[n]) in three strong and one moderate excerpt; the remaining excerpts are unrelated tokens in math reasoning and web text ('office', 'there', 'to', bullets, spaces before numbers).",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P158",
+ "explanation": "Mixture: (1) the word-initial token \" id\"/\" Id\" in words like idyllic, idled, idiom, Idioms, idaeus; (2) in math, the \"{\" after \\sqrt and the \"$,\" closing an equation before a continuing clause. One strong hit on \"match\" in matchas and the moderate excerpts (last, of, where, les) fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

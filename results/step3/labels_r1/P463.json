@@ -1,0 +1,9 @@
+{
+ "id": "P463",
+ "explanation": "Mixed: about half the strong excerpts are the comma inside a coordinate pair such as '(0,0)' or 'A=(2,3)' (with a couple of other tokens inside nested math brackets), while the top three are unrelated word fragments in proper names/phrases ('carte' blanche, 'Fell'ows, Louisville-J'eff'erson) and the moderate ones are newlines after short statements in reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

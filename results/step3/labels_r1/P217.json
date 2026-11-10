@@ -1,0 +1,9 @@
+{
+ "id": "P217",
+ "explanation": "Fires on the question mark ending a tentative alternative interpretation or hypothesis posed in math reasoning ('Could the expression be ...?', 'Is it possible they mean ...?', a candidate formula followed by '?'), which is usually immediately rejected with 'No'. Rare exceptions are a '$.' before 'No' and one web 'or'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

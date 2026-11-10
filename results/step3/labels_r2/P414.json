@@ -1,0 +1,9 @@
+{
+ "id": "P414",
+ "explanation": "In math reasoning, fires on tokens inside expressions where earlier values are being plugged in componentwise (coordinate differences like '1 - 2', gcd arguments, x_2 after x_1) and inside restated problem phrases ('turn to the right', 'What is the distance', 'volume and surface area'). The link between these is weak.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

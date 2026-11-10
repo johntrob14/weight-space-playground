@@ -1,0 +1,9 @@
+{
+ "id": "P400",
+ "explanation": "Fires on a collective subject ('all the pieces', 'the numbers', 'it all', 'things') or the word right after it, just before a verb saying how things collectively turn out: fell into place, fit together, came together, add up, match.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

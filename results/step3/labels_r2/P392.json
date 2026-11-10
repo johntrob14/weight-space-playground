@@ -1,0 +1,9 @@
+{
+ "id": "P392",
+ "explanation": "Fires on the subject noun or the copula/auxiliary immediately before a predicate describing an adverse state: at risk, lost, stolen, vulnerable, down, without electricity, exposed, overly dependent. At moderate levels it is a more generic auxiliary-before-predicate response (is asked, must be determined, might incur).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

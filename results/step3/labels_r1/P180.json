@@ -1,0 +1,9 @@
+{
+ "id": "P180",
+ "explanation": "Fires on the quantity word inside a measure or quantifier phrase in web text: 'a small amount', 'for one hour', 'a number of', 'a century of', 'only one of', 'couple of weeks', 'scores of pages', 'up to 2 days', '1-2 capsule', 'a lot of', 'less than a minute'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

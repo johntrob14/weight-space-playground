@@ -1,0 +1,9 @@
+{
+ "id": "P365",
+ "explanation": "No describable trigger: a couple of '$' price tokens after a comma, a couple of 'I' after a closing quotation ('\"Sour,\" I said'), and otherwise unrelated nouns and name fragments.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

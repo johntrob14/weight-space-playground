@@ -1,0 +1,9 @@
+{
+ "id": "P508",
+ "explanation": "No clear single trigger. Many excerpts are from math reasoning where the task's target or a quoted phrase of the problem is being stated (step headers 'Define the Condition:**', 'Identify the Target:**', 'Find [[the]] quotient', ends of quoted problem phrases), but the marked tokens differ widely and the web excerpts (' Dodge', 'query,', 'Quarterly statement\\n', ' War') are unrelated.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

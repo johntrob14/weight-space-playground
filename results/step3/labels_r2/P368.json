@@ -1,0 +1,9 @@
+{
+ "id": "P368",
+ "explanation": "Phrases expressing how much of something there is: 'high in' / 'low in' / 'low-fat' in nutrition text, 'increase in', 'reduces the amount of', 'small constant overhead', 'most of the fiber and'. Moderate excerpts are food ingredient lists.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

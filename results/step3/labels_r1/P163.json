@@ -1,0 +1,9 @@
+{
+ "id": "P163",
+ "explanation": "Three separate triggers: the token 'hyp'/'Hyp' beginning a word (hypotension, Hypalon, hypertext); the word ' dog'; and the blank line that follows a sentence restating the math problem, just before the first numbered heading or step. Moderate activations are assorted function words in web text and match none of these.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

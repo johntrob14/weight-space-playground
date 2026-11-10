@@ -1,0 +1,9 @@
+{
+ "id": "P477",
+ "explanation": "Fires on discourse markers that return to an earlier topic: 'back' in '(Now/So/Anyway,) back to ...', 'brings us (back) to', 'Anyway', 'Getting back to'. More weakly it fires on the line break or 'Okay,' immediately before such a redirection in math reasoning ('Wait', 'What if', \"let's go back\").",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P278",
+ "explanation": "Fires in math reasoning on the final token of a symbolic expression or equation side inside a stated relation, usually after 'implies', 'means' or 'if' (e.g. '$|A| = B$ implies', 'If $V = A$', 'g(x) = g(-x)').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

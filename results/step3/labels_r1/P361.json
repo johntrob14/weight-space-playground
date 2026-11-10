@@ -1,0 +1,9 @@
+{
+ "id": "P361",
+ "explanation": "A noun or adjective acting as the modifier in a compound noun phrase, just before the head noun, usually naming a domain or product category: 'property [tax] breaks', '[Camera] Features', 'Dairy [Processor] Grant', 'user [object] searches', 'block [cheese] price', '[student] activism'.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

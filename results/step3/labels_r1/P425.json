@@ -1,0 +1,9 @@
+{
+ "id": "P425",
+ "explanation": "The word laugh in all forms ('laugh', 'laughter', 'laughed', 'chuckle', 'laughable'); more weakly on related humor words ('humor', 'Comedy').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

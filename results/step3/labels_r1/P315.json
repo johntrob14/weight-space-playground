@@ -1,0 +1,9 @@
+{
+ "id": "P315",
+ "explanation": "The token just before, or at the start of, the numeric value of a trigonometric or complex-exponential evaluation: the '=' or '\\approx' space or the decimal point in 'cos 53 \\approx 0.6018', 'e^{i\\pi/3} = 1/2 + ...', '(cos 60, sin 60) = (0.5, ...'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P277",
+ "explanation": "Fires on a '-s' (or '/s', '-S') token: a hyphen joined to the first letter s of the second part of a hyphenated compound ('not-very-good-s|ounding', 'Twitter-s|avvy', 'set-s|crew', 'pre-s|ell'); once '-l'. Moderate excerpts are unrelated low-level tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

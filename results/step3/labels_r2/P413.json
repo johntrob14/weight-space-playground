@@ -1,0 +1,9 @@
+{
+ "id": "P413",
+ "explanation": "In narrative prose, fires at the point where a character's next action is about to be stated: infinitive 'to' after a person ('waiting for everyone to', 'asked my husband to', 'reached over to') or the subject pronoun/auxiliary before the action verb ('once she realized', 'but he just stopped'). Moderate math excerpts ('=' signs) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

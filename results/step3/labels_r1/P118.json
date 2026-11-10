@@ -1,0 +1,9 @@
+{
+ "id": "P118",
+ "explanation": "Strong activations are mainly on forms of 'call' (call, calls, called) in any sense: naming, phoning, 'called on', 'calls for', 'the call of'; two strong excerpts ('\\sin', 'Con(ventional)') do not fit. The moderate excerpts are unrelated tokens (spaces, 'of', '$', 'and') with no pattern.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

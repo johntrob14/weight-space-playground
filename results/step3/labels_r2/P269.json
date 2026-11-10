@@ -1,0 +1,9 @@
+{
+ "id": "P269",
+ "explanation": "Mixture: the word 'page'/'Pages' (settings page, page length, sports page), the word 'flash' (flash media, flash games), and assorted unrelated tokens (Double, About, Bed, Mir, approx, times).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

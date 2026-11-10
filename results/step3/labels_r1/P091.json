@@ -1,0 +1,9 @@
+{
+ "id": "P091",
+ "explanation": "The first token of a proper name, brand or distinctive term (Denali, Personhood, DST, Bolivar, Alienware, CHAdeMO, Feride), in most visible cases a re-mention of a name or word that appeared shortly before ('Simon Bolivar ... Simon [Bol]ivar', 'deny, deny absolutely, [deny]').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": true
+}

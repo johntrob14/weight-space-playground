@@ -1,0 +1,9 @@
+{
+ "id": "P087",
+ "explanation": "The onset of an enumerated block in structured reasoning: the newline right after a colon that introduces a list ('Given Information:[\\n]') and the word 'Step' opening a 'Step 1:' bullet. A few activations are elsewhere (a recipe item, a caret in an exponent rule).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P471",
+ "explanation": "In math reasoning, fires on a token at the start of an expression or phrase that is being restated from just before, typically right after 'Wait, $' or when a line/claim is repeated ('So $s$ cannot be', 'Wait, $y^2 - 4$ divides 12', 'from North', 'are music takers').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

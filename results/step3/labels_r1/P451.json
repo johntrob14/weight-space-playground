@@ -1,0 +1,9 @@
+{
+ "id": "P451",
+ "explanation": "Mainly the token 'special'/'Special' (TV special, Special Blend, Specialist, Saturday Night Specials) and separately the fragment 'Cit'/'cit' (Citrus, citric, Citigroup); the remaining excerpts (a digit in a fraction, name fragments, 'cheapest') are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

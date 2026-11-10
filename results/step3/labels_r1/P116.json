@@ -1,0 +1,9 @@
+{
+ "id": "P116",
+ "explanation": "Fires on a preposition (from, of, in) that places someone in, or moves them out of, an abstract state or condition: 'out [of] poverty', 'move us [from] an era of', 'stuck [in] a vicious cycle', 'freed [from] tyranny', 'freedom [from]', 'live [in] democracy', 'walk [in] confidence'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

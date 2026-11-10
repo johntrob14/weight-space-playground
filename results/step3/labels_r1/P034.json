@@ -1,0 +1,9 @@
+{
+ "id": "P034",
+ "explanation": "No single trigger: in math it fires on tokens just before a computed product/result ('\\sqrt{' before 49+4, '\\cdot 175', '= 210') and on the constant in a linear expression like '3x-6 = 0' / '5x-1 \\ge 0', and in web text on unrelated words ('at all costs', 'remembering at all times', 'Keep posting').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

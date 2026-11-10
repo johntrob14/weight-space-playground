@@ -1,0 +1,9 @@
+{
+ "id": "P010",
+ "explanation": "No describable trigger. The marked tokens are mostly function words and connectors (' the', ' are', ' a', ',', ' seven', ' complex', '}', ' On', ' half') in both math reasoning and web text, often before a technical or proper noun phrase, but with nothing specific in common.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

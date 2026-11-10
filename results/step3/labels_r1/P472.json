@@ -1,0 +1,9 @@
+{
+ "id": "P472",
+ "explanation": "Mixture: mostly word-internal or post-hyphen fragments at a 'p'/'P' boundary ('antip'athy, 'Megap'ixels, 'I-p'romise, 'Semi-P'recious, '.P'enseivat, ' P'oniżej), plus the space before the number 70 in arithmetic and a few unrelated tokens ('\\' before mathbb, fully-'fitted'); moderate excerpts are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

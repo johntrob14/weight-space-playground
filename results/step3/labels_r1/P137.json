@@ -1,0 +1,9 @@
+{
+ "id": "P137",
+ "explanation": "Fires on a short relational connector placed between two operands, right before the second one is stated: \"comes [from] $x-1\", \"\\impl[ies]\", \"Intersection [of]\", \"sum [is]\", \"\\[cap]\", \"zone-blockers [or] man-blockers\", \"Q2[:]\". Moderate examples (commas, periods, \"Let's\") fit only loosely.",
+ "category": "one_job",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

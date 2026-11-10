@@ -1,0 +1,9 @@
+{
+ "id": "P479",
+ "explanation": "Mostly fires on function words in technical biomedical/biological prose, especially in defining clauses ('cells that nurture', 'known as macrophages', 'a protein that gives', 'the fibre that feeds', 'encoding the MHC'); separately, two strong excerpts are the space after 'S.Ct.' in US legal case citations.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

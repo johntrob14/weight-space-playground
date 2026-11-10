@@ -1,0 +1,9 @@
+{
+ "id": "P504",
+ "explanation": "Two unrelated triggers: (1) a capitalised word-start fragment 'Cam' (also 'Caj', 'cour') beginning a name or unusual word (Camellia sinensis, Cambridgeshire, Camaran Street, Camille, Cajun, courgette); (2) in math reasoning, the words of a concluding classification statement ('So the [[function is]] continuous', \"it's [[a]] root\"). Moderate excerpts are mostly unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P059",
+ "explanation": "No clear trigger. About half of the strong excerpts are the last token of an equation right before '\\implies' / '\\Rightarrow' or the equation's end ('= 0 \\Rightarrow', '= 1 \\implies', '(x-8) \\implies'); the rest (word-initial 'Th', 'is', 'emitting', '-th', whitespace) and all moderate excerpts are unrelated.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

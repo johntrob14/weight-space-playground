@@ -1,0 +1,9 @@
+{
+ "id": "P386",
+ "explanation": "Fires on the token 'Ca'/'ca'/'C' at the start (or inside) of a word, mostly foreign or proper names: Caleta, Icahn, Lescaut, Caen, Castronovo, Caumont, Castrale, Caerwent, Calle Cuesta, Ctra; also caulk, caiman, CALENDAR.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

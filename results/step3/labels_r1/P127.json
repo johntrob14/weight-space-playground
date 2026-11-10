@@ -1,0 +1,9 @@
+{
+ "id": "P127",
+ "explanation": "Fires on the token just before a numeric measurement or amount is stated, after a quantity noun: 'height [of]', 'lifting [capacity] of', 'speeds [of] 35', 'SBP[]] <90', 'power output [is]', '[Height]/Weight:', 'charging power [(]175 kW', 'Disk [Space]:', 'average of', '[costs] $90'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P337",
+ "explanation": "An auxiliary or linking word just before a passive participle or an obligation/ability predicate: 'we are restricted', 'Martin was killed', 'was recently sentenced', 'you are required', 'may be taken', 'may be able', 'you're limited', 'have to', 'attempted to'. Moderate excerpts are weaker and only partly fit (will not be required, conspiracy to).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

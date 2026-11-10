@@ -1,0 +1,9 @@
+{
+ "id": "P341",
+ "explanation": "The space token immediately after '=' or '+' in an arithmetic line, just before the numeric result or next operand is written ('= 121', '= 65', '+ 50'). Offshoots: the second digit of a year (2|0|19, 2|0|13) and a few unrelated tokens (di|oc|eses, What, step).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

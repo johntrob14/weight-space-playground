@@ -1,0 +1,9 @@
+{
+ "id": "P379",
+ "explanation": "Mainly the word ' all' / ' All' in idiomatic uses ('you're all set', 'all about', 'all around us', 'All over the planet', 'All in all', 'all importantly'). The other three strong excerpts and all moderate excerpts are unrelated tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P476",
+ "explanation": "Fires on 'coming' and 'going' used in progressive/idiomatic senses ('coming of age', 'coming to terms', 'coming back', 'Coming Together', \"what's going on\", 'going to happen'), with a couple of related inceptive words ('follow-up', 'Start'). Most moderate excerpts are unrelated.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

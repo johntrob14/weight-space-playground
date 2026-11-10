@@ -1,0 +1,9 @@
+{
+ "id": "P017",
+ "explanation": "No clear trigger. The marked tokens are mostly ordinary nouns or particles that complete a phrase set up earlier in the sentence ('relied upon', 'the same height', 'bottom to top', '3 boys and 2 girls', 'Failure to produce the permit', '90 degrees'), but the contexts and token types are too varied to state a single job.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

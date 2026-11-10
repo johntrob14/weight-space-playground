@@ -1,0 +1,9 @@
+{
+ "id": "P179",
+ "explanation": "Fires in math-reasoning clauses that reconsider how the problem should be read, typically after 'Wait' / 'is it possible' / 'maybe': on the subject noun or connective of the hypothesis ('the [user] meant', 'the [question] meant', 'but rather', 'then $AB$ is', 'can be anything?') and on words inside re-quoted problem text. A few strong excerpts (a web-text 'It', tokens inside Asymptote code) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

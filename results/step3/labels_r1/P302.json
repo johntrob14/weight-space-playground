@@ -1,0 +1,9 @@
+{
+ "id": "P302",
+ "explanation": "No describable trigger. A few tokens recur (' seems' in 'This seems too simple' twice, ' As' twice, a digit before a divisibility bar twice), but the rest are unrelated words (' strong', 'med', ' keep', ' up', ' children', ' than', ' perfect').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

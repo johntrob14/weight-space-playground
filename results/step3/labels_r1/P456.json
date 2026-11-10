@@ -1,0 +1,9 @@
+{
+ "id": "P456",
+ "explanation": "Fires on the first word of fixed verb collocations about attention and contact: 'pay' in 'pay (close) attention' and 'in' in 'stay in contact' / 'keep in touch' / 'get in touch'. The other strong excerpts ('I made', 'Reminds', 'MANDATORY') and all moderate excerpts do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

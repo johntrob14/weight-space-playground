@@ -1,0 +1,9 @@
+{
+ "id": "P102",
+ "explanation": "Fires on the comma or article ('a', 'the') that precedes a civic institution or public facility noun, especially inside lists of them (libraries, museums, a school, a convent, a library, a bank, a hospital, a police station). Weaker variants are articles or name fragments before other places.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

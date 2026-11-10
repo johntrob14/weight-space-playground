@@ -1,0 +1,9 @@
+{
+ "id": "P304",
+ "explanation": "The dollar sign (or the token carrying it, such as ':$', ' ($') directly before a price, and a digit inside a dollar amount ('$1.05 billion'); one case is the space before a decimal after '\\approx'. The moderate excerpts are mostly unrelated words (' seen', ' no', ' Airport', '\\frac').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

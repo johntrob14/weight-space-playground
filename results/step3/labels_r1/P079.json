@@ -1,0 +1,9 @@
+{
+ "id": "P079",
+ "explanation": "No clear trigger: scattered tokens mostly in math working (digits acting as a base before an exponent, digits in '34 - c', 'In', 'the') and a few in web text ('Buy', 'of', 'to').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

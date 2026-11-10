@@ -1,0 +1,9 @@
+{
+ "id": "P250",
+ "explanation": "Fires on a function word that follows an examining/relating verb or noun and precedes the property to be named ('look at its roots', 'check its divisibility', 'with different properties', 'related by symmetry', 'factor by grouping', 'GCD of'), mostly in math reasoning. The pattern is loose.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

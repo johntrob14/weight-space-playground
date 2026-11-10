@@ -1,0 +1,9 @@
+{
+ "id": "P424",
+ "explanation": "Second token of a sentence-opening fronted construction: 'Not [only]', 'Regardless of [whether]', 'No matter [where]', 'Rare[ly] do I', 'Whether or [not]'; weaker on other sentence-initial framing words ('Whether', 'Naturally') and sentence boundaries.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

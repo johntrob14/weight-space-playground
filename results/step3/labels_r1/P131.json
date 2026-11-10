@@ -1,0 +1,9 @@
+{
+ "id": "P131",
+ "explanation": "Responds to \"best-case\" / \"worst-case\" scenario phrasing, strongest on the \"case\"/\"-case\" token after best/worst, and more weakly on neighbouring words about hypothetical scenarios or possible future pathways (\"scenario\", \"three possible trajectories\", \"two of those pathways\").",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

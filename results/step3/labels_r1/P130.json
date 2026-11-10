@@ -1,0 +1,9 @@
+{
+ "id": "P130",
+ "explanation": "Fires at the start of a title of a creative work (album, song, film, book, track, game): on the first word of the title or on the opening quote mark / list marker immediately before it, e.g. \"debut album [Good]ies\", \"documentary [Last] Days In Vietnam\", \"hit [“]Anymore\".",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

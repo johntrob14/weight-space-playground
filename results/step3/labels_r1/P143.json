@@ -1,0 +1,9 @@
+{
+ "id": "P143",
+ "explanation": "Appears to fire on tokens inside text that is repeating an earlier pattern or phrase: the repeated \\binom{...\\lfloor x \\rfloor} term, looping reasoning lines \"Wait, 30 is in $O$. So 30 [is] excluded\", repeated Asymptote \")--\" coordinates, \"heavy [weight]\" restated, repeated \"*   $x=5\" bullets. A few excerpts (comma in an author list, \"The term\", \"second quarter\") show no visible repetition.",
+ "category": "one_job",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P500",
+ "explanation": "Two unrelated triggers: (1) the first item of a comma-separated list in math text, typically where the problem wording is being quoted ('\"subsequence $a_{2k-1[[}$]], $a_{...', 'divided by [[2]], 3,', 'such that $[[a]], b, c') plus a couple of other math tokens; (2) the verb ' stay' in web text ('stay healthy', 'stay in power').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P382",
+ "explanation": "Three unrelated token triggers: 'link'/'links' as a noun, the token 'pop'/'Pop' (Popick, pop., poplars), and number words 'Two'/'three'. Moderate excerpts are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

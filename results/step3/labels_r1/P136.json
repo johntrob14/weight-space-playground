@@ -1,0 +1,9 @@
+{
+ "id": "P136",
+ "explanation": "Fires at the boundary between consecutive parallel entries in a list or table of numeric items: the newline or comma right after a number/price/equation that ends one entry and precedes the next similar entry (price ranges in table rows, \"Day 10, Day 13,\", number sequences, successive equation lines and bullet lines).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

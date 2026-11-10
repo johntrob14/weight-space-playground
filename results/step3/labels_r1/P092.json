@@ -1,0 +1,9 @@
+{
+ "id": "P092",
+ "explanation": "In step-by-step algebra, the token that opens the next expression in a derivation right after '=' or an implication arrow: an opening '(', the space before a number, or '\\frac{'. Weaker activations are on the '=' itself.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

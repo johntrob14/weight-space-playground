@@ -1,0 +1,9 @@
+{
+ "id": "P015",
+ "explanation": "Fires at the start of or inside a number that is being produced as a computed value: the space, minus sign or leading digit right after '=' in arithmetic ('= [[ ]]9072', '=[[ -]]11/8'), and an interior digit of the next term in a counting sequence where a carry occurs ('1694, 1[[7]]01', '994, 1[[0]]01'). A couple of web-text numbers (percentages, a journal volume) are the same position outside math.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P259",
+ "explanation": "Two unrelated triggers: the token 'pop' at the start of a word (populating, poplars, popular, populism, pop over), and the '$,' or '$.' punctuation closing an inline math definition such as 'Here $a = ...$,' in math reasoning. The moderate excerpts fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

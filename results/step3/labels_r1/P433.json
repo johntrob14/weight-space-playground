@@ -1,0 +1,9 @@
+{
+ "id": "P433",
+ "explanation": "Two unrelated triggers: 'long' (once 'short') in 'in the long term / long run', and the stem of a negative contraction (DIDN'T, Wouldn't, don't). Moderate excerpts fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

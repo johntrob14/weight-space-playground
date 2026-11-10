@@ -1,0 +1,9 @@
+{
+ "id": "P074",
+ "explanation": "The token just before a predicate declaring that a candidate fails: '$c=4$ [is] not a solution', 'C(8,0)[)$] do not satisfy', 'f(x)[)$] was wrong', '[it] doesn't work', 'solution [is] invalid'. Weaker activations occur before other negative or faulty-ness statements in prose ('would not want', 'may not', 'garbled').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

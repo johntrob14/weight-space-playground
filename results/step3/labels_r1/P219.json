@@ -1,0 +1,9 @@
+{
+ "id": "P219",
+ "explanation": "Fires on the first element of a compound or branded term built from an action verb: chiefly 'pay' (PayLo, paychecks, pay-phones, pay now, payable), and also fill-in, catch-up, add-on, Rent A Car, know-it-all, Click(Orlando). Both the 'pay' token itself and the verb-first compound position trigger it.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

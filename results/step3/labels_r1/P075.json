@@ -1,0 +1,9 @@
+{
+ "id": "P075",
+ "explanation": "In math reasoning, the word ('has', 'the', 'Its', 'with') that directly precedes a property noun of a mathematical object: 'rectangle [has] sides/area', 'find [the] length/area', '[Its] length', 'A(x) [has] roots', 'square [with] vertices'.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

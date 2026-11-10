@@ -1,0 +1,9 @@
+{
+ "id": "P188",
+ "explanation": "Fires on tokens inside non-prose technical strings: code and config identifiers ('_labels', '_maps', '++[i]', 'label('), URL path segments, and wiki-table cells. Weaker and occasional hits fall on the last word of a quoted math-problem phrase ('each [other]\"', 'in a [row]\"').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

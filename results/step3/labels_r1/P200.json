@@ -1,0 +1,9 @@
+{
+ "id": "P200",
+ "explanation": "Loosely, fires on an item that is followed by 'and' plus a second item in a pair or short list ('2 and 3', '1, 2, and 3', '-8 and 3', 'Alnwick and Hexham', 'face North, and'). The remaining strong excerpts (a matrix entry, a digit inside a product, 'opportunistic', an '=' in a gloss) and all moderate excerpts do not fit this.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

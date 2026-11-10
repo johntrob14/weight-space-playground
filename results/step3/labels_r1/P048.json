@@ -1,0 +1,9 @@
+{
+ "id": "P048",
+ "explanation": "The token right after a person's name or a work's title where the text goes on to describe that person or work: the comma in 'By Susan Rosenberg[[,]] Director of', 'written by Sue Fabisch[[,]]', 'On Gold Mountain[[,]] in 19..', 'Wild[[,]] the new film'. Weaker on name endings and verbs in author/creator bios.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

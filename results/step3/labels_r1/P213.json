@@ -1,0 +1,9 @@
+{
+ "id": "P213",
+ "explanation": "Fires on a letter token 's'/'S' (with or without a leading space, slash, period, comma or parenthesis) that begins a longer word: s-oldiers, s-ordid, S-omalia, s-uch, S-ells, s-acking, s-peed, s-iren, S-unny, s-ipping. The moderate excerpts are unrelated web tokens and do not show this trigger.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

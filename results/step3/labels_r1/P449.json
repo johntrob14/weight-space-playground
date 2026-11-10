@@ -1,0 +1,9 @@
+{
+ "id": "P449",
+ "explanation": "No describable trigger: scattered tokens including the closing '$.' of math lines, list-bullet whitespace, and arbitrary words in web text ('historically', 'now', 'interview', 'contribution').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

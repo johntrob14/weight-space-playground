@@ -1,0 +1,9 @@
+{
+ "id": "P186",
+ "explanation": "Fires on a word-internal subword token in the middle of an unusual, coined or brand-like word or name (Met[an]et, aqu[an]auts, b[ion]ics, Mon[ox]ious, democrac[yn]ow, Ch[emon]ics, Dig[ip]ower, Bi[ob]ank, Googl[enu]ke).",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

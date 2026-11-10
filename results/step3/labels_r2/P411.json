@@ -1,0 +1,9 @@
+{
+ "id": "P411",
+ "explanation": "No describable trigger: the marked tokens are 'it' as an object pronoun in a few cases, but otherwise unrelated digits, nouns and function words (60s, $2, invention, vascular, or, system, information, flags).",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

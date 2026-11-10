@@ -1,0 +1,9 @@
+{
+ "id": "P191",
+ "explanation": "Fires on the token 'ap'/'Ap'/'App' at the start of a word (apart, Apologies, applier, Appleton, Apalachicola, Appliance), and equally on 'Sp'/'SP' at the start of a word (Spock, SPOTIFY, Spencer); weaker activations are on similar p-containing word starts (spe, spr, Eph, P, /p).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

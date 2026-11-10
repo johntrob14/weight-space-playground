@@ -1,0 +1,9 @@
+{
+ "id": "P443",
+ "explanation": "Connector tokens between terms while expanding or multiplying out algebraic expressions in math reasoning: '+', '-', '=', the space or '$'/'{' just before the next term such as '3x^2', '8x', 'ax^3'. A few excerpts are other pre-operand positions (sequence value, matrix entry, factorisation).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

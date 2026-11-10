@@ -1,0 +1,9 @@
+{
+ "id": "P254",
+ "explanation": "Two unrelated groups: the indentation whitespace token at the start of a new bullet line in math reasoning (before '*   So' / '*Wait'), and short letter fragments inside or starting words and acronyms in web text ('IT' in ITM/ITUNES, 'CC' in CCNS, \"'en\", '-it'). Moderate excerpts are miscellaneous short fragments.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

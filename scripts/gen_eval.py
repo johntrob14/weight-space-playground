@@ -119,6 +119,7 @@ def main():
     tok, model = wsp.load("instruct", dtype=torch.bfloat16)
     model.model.visual = None
     model.eval().to("cuda")
+    wsp.enable_grouped_attention(model)      # same outputs, no per-token copy of the key/value cache
     ctx = variants.Context(model)
     enc = problems(tok, n, bs)
     eos = tok.convert_tokens_to_ids("<|im_end|>")

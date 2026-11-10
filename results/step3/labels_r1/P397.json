@@ -1,0 +1,9 @@
+{
+ "id": "P397",
+ "explanation": "Fires in financial/commercial text about benefits, offers, credits, fees and penalties, on the benefit/fee word or the preposition after it ('benefits to', 'benefit of', 'offer to extend credit', 'fees for', 'penalized for').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

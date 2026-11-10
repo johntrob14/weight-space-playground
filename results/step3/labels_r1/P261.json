@@ -1,0 +1,9 @@
+{
+ "id": "P261",
+ "explanation": "Fires on the second digit of a four-digit year (1[9]96, 2[0]05, 2[0]19) in text about European politics/history, and on the first token of European cultural proper names (Voltaire, Volterra, Richard Strauss, Spinoza).",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

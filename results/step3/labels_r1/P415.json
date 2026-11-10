@@ -1,0 +1,9 @@
+{
+ "id": "P415",
+ "explanation": "Fires on the second (or a later) digit of a multi-digit number, right after its first digit(s), mostly in prose: dates (July 27, August 17), counts (247 million, about 15 officers), percentages (47%), ordinals (14th, 44th).",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

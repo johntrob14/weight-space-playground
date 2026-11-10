@@ -1,0 +1,9 @@
+{
+ "id": "P093",
+ "explanation": "Mentions in prose of named elementary functions in math reasoning: sine/cosine (including 'sines/cosines', arcsine), square root ('Take square root', 'Sqrt', 'square roots'), and logarithms ('natural logs', 'base of the log').",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

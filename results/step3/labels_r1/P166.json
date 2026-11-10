@@ -1,0 +1,9 @@
+{
+ "id": "P166",
+ "explanation": "No describable single trigger. The nearest regularity is line-initial whitespace or newline tokens in deeply indented or repeated lines of math reasoning, but most excerpts are unrelated tokens ('$' closing a variable, ' (' before a Japanese gloss, ' The', a digit, 'Ps', '{', '<').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

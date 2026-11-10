@@ -1,0 +1,9 @@
+{
+ "id": "P069",
+ "explanation": "No clear single trigger. About half the strong examples are a capitalised word-start fragment at the beginning of a line or bullet ('Sub' in Subtraction/Substitution, 'Se', 'SE', 'P'), and the rest are assorted math tokens (a slash, a space before a number, a minus sign) and a Danish word.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

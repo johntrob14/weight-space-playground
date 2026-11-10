@@ -1,0 +1,9 @@
+{
+ "id": "P166",
+ "explanation": "No clear trigger: tokens are a mix of closing '$', '(', '{', '<', a digit, ' Ps', ' The', and long indentation whitespace at the start of deeply indented bullet lines. A weak tendency toward line-start whitespace/newlines in indented (sometimes repeating) math reasoning covers only a minority.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

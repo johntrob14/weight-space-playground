@@ -1,0 +1,9 @@
+{
+ "id": "P220",
+ "explanation": "Fires in math reasoning on a token inside the second or later item of a parallel series, where the text re-uses the template of the preceding item with one element changed ('Odd + Odd = Even. Even + Odd [=]', 'a perfect square, a [perfect] cube', 'All members of ... All [members] of', '\\phi(2) ... \\[phi](3)', 'If N=5, sum=25. If N=6, [sum]', '(i,0) to ([i],6)'). A couple of excerpts (a definition after a colon, an exponent) fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

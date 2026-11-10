@@ -1,0 +1,9 @@
+{
+ "id": "P282",
+ "explanation": "Fires on a token inside a phrase that repeats or parallels a just-preceding phrase: a second 'label(\"$y$\", (' or 'dir(' call in Asymptote code, 'Personhood' reused, 'there are no minor ... Just as there are no minor', 'iim-ahmedabad, iim-bangalore,', 'Wait, $\\sin(...)$. Wait, $\\sin', 'So $S$ must be ... So $S$ must be'.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

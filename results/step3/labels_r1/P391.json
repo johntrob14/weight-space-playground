@@ -1,0 +1,9 @@
+{
+ "id": "P391",
+ "explanation": "Two unrelated triggers: tokens in the middle of arithmetic (a digit inside a computed number, or '=' / '(' just before a numeric result), and words about searching or hiding ('searching for', 'hiding'). One hit ('flag pole') fits neither.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

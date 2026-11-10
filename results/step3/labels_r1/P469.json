@@ -1,0 +1,9 @@
+{
+ "id": "P469",
+ "explanation": "Fires inside arithmetic/algebra in math reasoning, most often on an interior digit of a multi-digit number being written out as a computed result (e.g. '2[4]01', '20[7]36', '-4[3]12'), and more weakly on operator, space or bracket tokens in the middle of expressions.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

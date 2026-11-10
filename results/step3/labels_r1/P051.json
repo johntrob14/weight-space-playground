@@ -1,0 +1,9 @@
+{
+ "id": "P051",
+ "explanation": "Two unrelated kinds of token: whitespace tokens (an extra space after a sentence-ending period before a number such as '.  1.6 million', '.  16GB', or indentation spaces before a list bullet in reasoning) and a letter fragment in the middle of an uncommon word (Un-r-avel, Pear-l, f-a-qs, dwe-e-bs, Shr-inks).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

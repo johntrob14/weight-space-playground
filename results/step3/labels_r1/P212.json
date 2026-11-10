@@ -1,0 +1,9 @@
+{
+ "id": "P212",
+ "explanation": "Fires at the boundary closing a completed statement: mainly the newline after a finished equation or conclusion in bulleted math reasoning, and in web text the closing quote-comma ',\"' that ends a quotation before its attribution. A few excerpts (\\theta, 'There', 'all', 'what') do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

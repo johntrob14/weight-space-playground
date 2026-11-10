@@ -1,0 +1,9 @@
+{
+ "id": "P265",
+ "explanation": "Fires on the token immediately before a number is written, usually the space (or '=', '(', '{') after an operator such as =, \\approx, \\times or a dimension 'x', in arithmetic and in measurements ('6 x 9', '73.5 x 92.5').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

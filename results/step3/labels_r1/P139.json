@@ -1,0 +1,9 @@
+{
+ "id": "P139",
+ "explanation": "Mixture: forms of \"keep\" and its object (\"keep [her] busy\", \"[Keep] on Knocking\", \"keeping your plants alive\"), capitalised word-initial fragments Ho/HO/HOD/hyp, digits or punctuation inside decimal numbers and \\sqrt{, and first-person opinion verbs (believe, think) in the moderate set. No evident link between these.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

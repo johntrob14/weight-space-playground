@@ -1,0 +1,9 @@
+{
+ "id": "P274",
+ "explanation": "Fires at the start of contact/location numbers in web text: the space or first digits of a street address after a venue name or 'located at', and of a phone number after 'call ... at' / 'Phone:'. Occasional other number or end-of-prompt tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

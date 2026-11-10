@@ -1,0 +1,9 @@
+{
+ "id": "P239",
+ "explanation": "Two unrelated groups: function words in elapsed-time/perfect-tense phrasing in conversational web text ('first time since', 'haven't worked out in', 'Ever since', 'has just been', 'was a'), and tokens in math reasoning about qualifying a quantity ('non' in non-negative, 'same' height, principal root). Moderate excerpts fit neither well.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

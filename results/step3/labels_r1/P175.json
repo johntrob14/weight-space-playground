@@ -1,0 +1,9 @@
+{
+ "id": "P175",
+ "explanation": "Fires mainly on tokens beginning with 'Se'/'Sh' sounds, above all ' Sen' as the abbreviation for Senator or the start of 'Seniors', plus 'seen', 'selected', 'seem', 'Sher'; several excerpts (followed, in, a space before a number, recognized, an, At) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P392",
+ "explanation": "Fires on the subject noun or the auxiliary/copula just before a predicate saying something is harmed, lost, exposed or at risk ('properties will be at risk', 'information stolen', 'was lost', 'would be vulnerable', 'are without electricity', 'were down'). Weaker hits are generic auxiliaries before other predicates.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

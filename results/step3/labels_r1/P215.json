@@ -1,0 +1,9 @@
+{
+ "id": "P215",
+ "explanation": "Fires on the token 'round'/'Round' in any sense (roundabout, Rounder Records, roundworms, roundhouse kicks, round trip, Round Sounds, Roundstone), with weaker activation on close relatives 'around', 'circular' and 'Circle'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

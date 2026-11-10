@@ -1,0 +1,9 @@
+{
+ "id": "P374",
+ "explanation": "Words that introduce a second thought or caveat in the model's math reasoning: 'Wait', 'One tiny detail', 'a potential issue', 'from a context where', 'might get confused', 'anything subtle', 'is there a chance'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

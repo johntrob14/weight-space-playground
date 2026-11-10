@@ -1,0 +1,9 @@
+{
+ "id": "P030",
+ "explanation": "Fires in reasoning about word problems (often counting/arrangement problems) on two related kinds of token: words stating a condition or specificity (' must' sit together, ' specific' combination, ' required' strength, 'must be') and the numeral, variable or subject naming the quantity being set up ('arranging [[8]] distinct items', 'these [[7]] seats', 'Nate's dogs', 'splits $P$ into'). The boundary is fuzzy and several moderates are generic math tokens.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

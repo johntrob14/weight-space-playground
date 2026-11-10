@@ -1,0 +1,9 @@
+{
+ "id": "P035",
+ "explanation": "The noun naming a kind of mathematical object right after the indefinite article in a definitional phrase, above all 'is a [[polynomial]] of degree N' (also 'a disk', 'a subset of size 2'). Weaker on other 'a/any + noun (of ...)' phrases such as 'a period of 3 days', 'in a row'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P202",
+ "explanation": "About half the strong excerpts are the ' *' bullet marker (or line indentation) that begins a new bullet in indented math reasoning, right after a line ending in a question or parenthetical. The rest are unrelated web-text tokens (a name fragment, 'or', 'well-balanced', function words such as 'are', 'that', 'for') with no shared trigger.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

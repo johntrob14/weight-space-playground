@@ -1,0 +1,9 @@
+{
+ "id": "P187",
+ "explanation": "No single trigger: hits are assorted function words and fragments (' a', ' into', ' its', ' to', a space before a number, '.', 'la', ' armies', ' Power'), with only a loose tendency toward tokens just before the object or target of an action ('transform ... [into] [its] standard form', 'convert to base[ ]10').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

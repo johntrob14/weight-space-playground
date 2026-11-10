@@ -1,0 +1,9 @@
+{
+ "id": "P387",
+ "explanation": "Fires on the first token of an item that restates or parallels something earlier in the context: a repeated unusual word (goolee, battalions, Asymptote), a second dollar amount after a first, a repeated '$' expression after 'Wait,'. A few strong excerpts (ATTENTION, a comma in a town list) do not fit clearly.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

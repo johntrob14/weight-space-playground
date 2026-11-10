@@ -1,0 +1,9 @@
+{
+ "id": "P057",
+ "explanation": "At high activation, the space token right before a number that follows a label or name: 'Pier 5', 'Big 12', 'Prop 8', 'super 8', '\\tan 53', 'Feb 06, 2013', and list numbering in reasoning. The moderate excerpts (closing punctuation and '$' after math expressions, 'Wait,') do not share this.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

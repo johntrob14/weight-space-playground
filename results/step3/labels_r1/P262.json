@@ -1,0 +1,9 @@
+{
+ "id": "P262",
+ "explanation": "Fires at a clause boundary that introduces an alternative or next option: the comma after 'Alternatively', ', or' / ', but' before an alternative course of action, and math punctuation right before 'We can rewrite'/'substitute'. Weaker activations are on ordinary sentence-ending punctuation or newlines before a new statement.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

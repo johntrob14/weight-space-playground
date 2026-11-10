@@ -1,0 +1,9 @@
+{
+ "id": "P124",
+ "explanation": "In worked arithmetic, fires on the operator or delimiter ('=', '$', '(', '+', exponent) that sits right before concrete numbers are written into an expression, typically when a formula or check is being instantiated with values ('t [=] 5-5', 'Sum [=] 10+', '2[(]5-1)', 'Length is [$]3.4 -').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

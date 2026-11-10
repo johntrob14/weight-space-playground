@@ -1,0 +1,9 @@
+{
+ "id": "P297",
+ "explanation": "Three unrelated triggers: the first sub-word of a term straight after an opening quotation mark ('\"in-versely', '\"gar-age', '\"car-cinoid', '\"con-secutive'); the comma that closes an introductory phrase in web prose ('Since 2000,', 'to generate a profit,'); and, at moderate level, the newline or indentation before a new bullet in math reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

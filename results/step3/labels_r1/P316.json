@@ -1,0 +1,9 @@
+{
+ "id": "P316",
+ "explanation": "Mostly the last digit of an angle measure directly before '^\\circ' in geometry reasoning (90, 180, 360 degrees), plus mid-word pieces of geometry terms ('isosceles', 'parallelogram'). A separate trigger is the prime in a derivative 'f'(x)', 'g'(x)'; moderate excerpts are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

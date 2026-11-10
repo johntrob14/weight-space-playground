@@ -1,0 +1,9 @@
+{
+ "id": "P041",
+ "explanation": "In math expressions, a symbol or number that is immediately followed by an exponent or a parenthesised argument: bases like 'e^{', 'x^2', '256^{', '\\pi^2', '16a^2' and factors/functions like 'a(y^2', 'i(z_0', 'arctan(', 'f(x'. A few moderate cases are other expression-initial tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

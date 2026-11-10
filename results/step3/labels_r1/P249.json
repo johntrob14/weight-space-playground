@@ -1,0 +1,9 @@
+{
+ "id": "P249",
+ "explanation": "Fires on a word-initial token that is the letter 'l' or 'L' (with optional leading space, hyphen or quote) starting a word continued by the next token (L-est, -l-aps, L-ifter, -l-ashed, l-ousy, l-amb, l-onesome). Moderate excerpts do not share this and look diffuse.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P083",
+ "explanation": "A word-initial 'L' / 'l' token, above all the capital 'L' that begins a surname after a first name or initials (Leno, Lauer, Lasisi, L'Enfant, Licklider, Legerman), with some lowercase cases (lime, lilies) and an 'uhl' fragment in Xhosa text.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.9,
+ "repetition_related": false
+}

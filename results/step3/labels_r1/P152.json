@@ -1,0 +1,9 @@
+{
+ "id": "P152",
+ "explanation": "Fires in biographical/historical text about 16th-18th century figures (Rousseau, Pascal, Descartes, Washington, Monroe), most strongly on the first digit of, or space before, a year from that era (\"born June 28, [1]712\", \"in [ ]1647\"), and more weakly on function words elsewhere in such passages (\"the end [of] the Age of Reason\").",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

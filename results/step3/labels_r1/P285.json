@@ -1,0 +1,9 @@
+{
+ "id": "P285",
+ "explanation": "Fires on the question mark that ends the question in a math problem statement, right before the answer-format instruction ('Express your answer as', 'Please reason step by step'). Weaker on other end-of-problem-statement positions (final period or '$', the opening <think> token).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

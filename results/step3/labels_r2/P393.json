@@ -1,0 +1,9 @@
+{
+ "id": "P393",
+ "explanation": "Fires on the word 'a' used to mean 'per' in rate expressions: times a day, days a week, 365 days a year, $113,000 a year, 300 pounds a week. Moderate excerpts are mostly unrelated tokens, with a couple of loosely time-related ones (of the Year, last seven years).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.3,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P039",
+ "explanation": "Punctuation that closes off a unit of text: a comma ending a clause in reasoning prose ('step-by-step[[,]] then', 'is nice[[,]] like'), the last digit or '$,' just before a comma in a list or coordinate pair, and at moderate strength sentence-final periods / '$.'.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P011",
+ "explanation": "Two distinct numeric triggers: the first '0' after the thousands comma in large round numbers ('16,[[0]]00', '210,[[0]]00', '125,[[0]]00'), and the '=' or following space in a chained arithmetic computation before the result ('6 \\cdot 245[[ =]] 147', '/ 64[[ =]]'). Two strong excerpts (' far', ' Bol') and some moderates (subscript digits) fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

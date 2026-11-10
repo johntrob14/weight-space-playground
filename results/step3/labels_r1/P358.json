@@ -1,0 +1,9 @@
+{
+ "id": "P358",
+ "explanation": "Mainly the token ' Star' in 'Star Trek' / 'Starfleet' (six of ten strong excerpts). The other strong and all moderate excerpts are unrelated tokens (' simplest', ' or', ' Place', ' dwarf', ' North').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

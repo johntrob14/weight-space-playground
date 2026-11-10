@@ -1,0 +1,9 @@
+{
+ "id": "P415",
+ "explanation": "Fires on a digit that follows the leading digit inside a multi-digit number, mostly the second digit of two- or three-digit numbers in web text (July 27, 247 million, 14th, 47%, 10,000).",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

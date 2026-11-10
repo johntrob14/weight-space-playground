@@ -1,0 +1,9 @@
+{
+ "id": "P165",
+ "explanation": "In math reasoning, fires on ' This' opening an inference sentence ('This implies / This means'), on 'think/thinking' in 'let me think if', and on the leading indentation whitespace of a new bullet or step line; a few other tokens (quadr-ilateral, 'a' in 'a square') do not fit.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

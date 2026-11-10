@@ -1,0 +1,9 @@
+{
+ "id": "P294",
+ "explanation": "The token just before a number or date that opens the next entry in a sequence: the newline before a numbered list item ('7. Wishes') or a dated blog entry ('Monday, March'), the comma in 'Wait, 70 is in', the space or '(' before a date, and digits inside forum timestamps.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

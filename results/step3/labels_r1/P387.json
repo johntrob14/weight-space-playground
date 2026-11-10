@@ -1,0 +1,9 @@
+{
+ "id": "P387",
+ "explanation": "Fires on the first token of a term or expression that already appeared earlier in the context and is now being restated: the opening fragment of a recurring unusual word (goolee, battalions, Asymptote) or the '$' / '*' that opens a repeated amount or expression. A few strong hits (list comma, coordinate minus, ATTENTION) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P283",
+ "explanation": "In math reasoning, fires on the token that begins or continues the next item in a series of parallel-structured terms: the next coordinate definition ('* $B='), the next polynomial term ('+ b^2', '- bx^2', '\\frac{b}{4}'), the next label(...) call, 'A to C, B to'; also a restated answer template '$A(1+\\sqrt{B})'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

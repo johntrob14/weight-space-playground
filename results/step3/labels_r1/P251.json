@@ -1,0 +1,9 @@
+{
+ "id": "P251",
+ "explanation": "Two unrelated groups: the token right before a century or year ('half of the 19th', 'early 19th', 'the 20th', 'in 1872'), and a copula or verb right after its subject ('would be much appreciated', 'are', 'he or she is', 'This applies', 'Let'). Moderate excerpts fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P175",
+ "explanation": "Most consistent trigger is the token ' Sen'/'Sen' (Sen. as senator title, Seniors) with look-alikes ('seen', 'seem', 'Sher'idan); the other excerpts are unrelated tokens such as verbs ('selected', 'followed'), ' in' after a math expression and a space before a number.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

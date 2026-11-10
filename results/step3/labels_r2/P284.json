@@ -1,0 +1,9 @@
+{
+ "id": "P284",
+ "explanation": "Fires on the first sub-word fragment of an uncommon multi-token word or proper name (Pequ-od, Sec-underabad, Hou-setrap, equ-ine, Equ-iery, jou-sted, Pan-vel, pec-uniary, Che-ques), several of them containing 'equ'/'ecu'. A few moderate excerpts are ordinary whole words.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

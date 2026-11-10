@@ -1,0 +1,9 @@
+{
+ "id": "P113",
+ "explanation": "Mixture: the first digit or space of a result in multi-term arithmetic, the word 'past' in 'this past season/week/winter', and unrelated tokens ('whit', 'put', newlines, 'them', 'anywhere', 'iers').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

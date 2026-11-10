@@ -1,0 +1,9 @@
+{
+ "id": "P080",
+ "explanation": "Two triggers: forms of the verb 'turn' (mostly 'turning', also turn/turned, as in 'no turning back', 'turning to', 'turning on'), and the word-initial fragment 'en' (envious, enshrined, enough).",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

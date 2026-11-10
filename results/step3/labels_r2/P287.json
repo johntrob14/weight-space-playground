@@ -1,0 +1,9 @@
+{
+ "id": "P287",
+ "explanation": "Fires on the token that introduces the digits of a numeric result in a calculation: the space after '=', 'approx' or an operator, or the decimal point after a leading 0. Moderate excerpts include a related variant (the slash inside fractions and dates) and two unrelated tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

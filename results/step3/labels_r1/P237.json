@@ -1,0 +1,9 @@
+{
+ "id": "P237",
+ "explanation": "Fires on the space token immediately before a numeric value, especially after '=', '\\approx', '-' or 'and' where a number (often a decimal or time) is about to be written; occasionally on the '\\approx' or '+' itself.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

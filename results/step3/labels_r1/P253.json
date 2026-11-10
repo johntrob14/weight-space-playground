@@ -1,0 +1,9 @@
+{
+ "id": "P253",
+ "explanation": "Fires on a very short word-initial fragment token (usually a single letter with leading space: ' h', ' m', ' s', ' r', 'R', or ' re'/'ul') that begins a longer word or name; a large share are the ' r'/' re' of 'reread'/'re-read' in 'let me reread the prompt'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

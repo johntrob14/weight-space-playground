@@ -1,0 +1,9 @@
+{
+ "id": "P380",
+ "explanation": "Mainly the contraction token ''re' / ''s' directly after a subject pronoun or relative 'that' ('they're', 'He's', 'who're', 'that's') in web prose. A degree sign, a colon and all moderate excerpts (parentheses, commas, indentation in math) are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

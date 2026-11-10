@@ -1,0 +1,9 @@
+{
+ "id": "P004",
+ "explanation": "Two unrelated triggers: (a) in math reasoning, the token right before 'divide(s)'/'divisor' in divisibility statements ('y^2 - 4$ divides', 'Does 4 divide 15', 'n+7 |'); (b) in web text, words beginning with k, mainly ' key' ('key role', 'key players', 'Key blanks') plus ' knowledge', ' keep', ' Killed'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P089",
+ "explanation": "References to a person (pronoun 'his'/'her', role noun such as member/employee/person, or surname) in a context about that person leaving a position: dying, quitting, retiring, being dumped, switching teams, being replaced.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

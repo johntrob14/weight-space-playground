@@ -1,0 +1,9 @@
+{
+ "id": "P167",
+ "explanation": "Two distinct triggers: (1) the token inside elapsed-time and age phrases in web text ('a decade ago', 'a season earlier', 'a half century ago', 'N years old', 'as time goes on'); (2) the second coordinate or closing parenthesis of a coordinate pair or paired term in math reasoning ('(4,2)-(4,3)', '(0,0)$ to', '(1-2) + (3-'). Moderate excerpts mostly fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

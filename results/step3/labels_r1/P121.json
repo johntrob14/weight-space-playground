@@ -1,0 +1,9 @@
+{
+ "id": "P121",
+ "explanation": "In math, fires on a numeric (or letter) coefficient written right after '=' or an opening '$' that multiplies what follows by juxtaposition: '= [5](-7/11)', '= [4](4j)', '= [6]E', '= [3]a', '[2]x = 3y', '[a](a)', '[f](f(x))'. Two strong web-text excerpts on the modal 'can' are unrelated to this.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

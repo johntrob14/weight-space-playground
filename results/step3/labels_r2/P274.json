@@ -1,0 +1,9 @@
+{
+ "id": "P274",
+ "explanation": "Fires on the first token of a street address number or phone number that follows a named place or organisation (e.g. 'located at [2]5924', 'call ... at[ ]1-88', 'Book Bank, [9]17 North Shore').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

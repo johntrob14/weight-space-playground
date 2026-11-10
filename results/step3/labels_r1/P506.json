@@ -1,0 +1,9 @@
+{
+ "id": "P506",
+ "explanation": "Partly the word 'order(s)' in e-commerce shipping/delivery text ('We Ship Orders', 'delivered many orders', 'Order today', 'order yours today'); the remaining excerpts are unrelated tokens (a decimal point, ' to', ' c'/'/c', ' ten', ' distributed', and assorted function words in the moderate set).",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

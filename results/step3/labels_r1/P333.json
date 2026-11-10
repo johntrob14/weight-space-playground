@@ -1,0 +1,9 @@
+{
+ "id": "P333",
+ "explanation": "A non-standard or mis-encoded apostrophe glyph plus the clitic that follows it in possessives and contractions (‘s, ´s, `s, ?s, ís, `t), i.e. where a plain ' would be expected. Related weaker firings on unusual dash glyphs joining clauses (―, ––, --) and on an ordinary 'd.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

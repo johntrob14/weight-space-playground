@@ -1,0 +1,9 @@
+{
+ "id": "P123",
+ "explanation": "Mixture: tokens that begin the next item of an enumeration ('a) ..., [and] b)', '[The] fourth prime', list-number indent, 'y[=]1049'), the fragment 'arch' (ARCHITECTURE, archaic), and unrelated tokens ('v.', 'School', 'temporary', 'B(ORN)', 'tree', 'managed').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P428",
+ "explanation": "No describable trigger: 'is' after a subject, 'point', a newline after 'Correct.', 'hood' in Personhood, 'great', 'G' in a model series, a surname fragment, 'and' ending a list, 'just', digits, 'OR', 'want'.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.2,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P190",
+ "explanation": "Fires in math reasoning on the function word (copula, 'to', 'an', 'uniquely') that leads into a statement of what a quantity is or must be, or of the goal: '$y$ [is] not an integer', 'must be [an] integer', 'is [uniquely] determined', 'we want [to] maximize', 'we need to [minimize]'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

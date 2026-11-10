@@ -1,0 +1,9 @@
+{
+ "id": "P146",
+ "explanation": "Fires on the token immediately before a fraction: mainly the space or hyphen between the whole number and the fraction in mixed numbers in recipes and dimensions (\"1[ ]1/4 cups\", \"1[-]3/4\\\"\", \"about[ ]2/3 full\"), and relatedly the \"=\", \"-\" or \"+\" that precedes a fractional coefficient or value in equations (\"y =[ -]\\frac{3\", \"a [+] 1/k\").",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

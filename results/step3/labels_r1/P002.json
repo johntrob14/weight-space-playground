@@ -1,0 +1,9 @@
+{
+ "id": "P002",
+ "explanation": "No single trigger: about four strong excerpts are the space right after an operator or equals sign before a number in arithmetic ('27 \\times[[ ]]329', '729 / 27 =[[ ]]27'), two are the fragment ' vac'/' Vac' (vacuous, Vacancies), and the rest are unrelated words (' pops', ' Spring', ' pay', '.Step', ' excuses', ' names', ' Shop').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

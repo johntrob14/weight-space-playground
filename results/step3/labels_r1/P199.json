@@ -1,0 +1,9 @@
+{
+ "id": "P199",
+ "explanation": "Fires on the last symbol of a math expression in math reasoning (final term, digit, variable or '^\\circ'), immediately before the closing '$', ']' or an '=' sign, often within a 'Wait, is it possible that ...' restatement of the expression. Some moderate excerpts are mid-expression tokens or an unrelated web word.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

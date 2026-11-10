@@ -1,0 +1,9 @@
+{
+ "id": "P501",
+ "explanation": "Collaboration phrasing in organisational/news text: ' in' beginning 'in partnership with / in conjunction with / in collaboration with / in cooperation', and ' close'/' closely' in 'close cooperation with', 'working closely with'. Offshoots are ' in' after an organisation's name in other senses ('in the USA', 'in the business of') and 'In close proximity'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

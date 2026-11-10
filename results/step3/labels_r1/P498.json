@@ -1,0 +1,9 @@
+{
+ "id": "P498",
+ "explanation": "The dummy object/subject ' it' in constructions stating how easy, hard or likely something is: 'find it easy/difficult to', 'make it harder/easier to', 'made it difficult to', 'it would be difficult to', \"it's unlikely\". Offshoots are adjacent words in the same construction ('would most likely', 'it would be much harder', 'it seems').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

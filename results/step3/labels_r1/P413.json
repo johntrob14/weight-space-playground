@@ -1,0 +1,9 @@
+{
+ "id": "P413",
+ "explanation": "In narrative prose about people, fires on the word right before an action verb following a just-mentioned person: infinitive 'to' ('asked my husband to mail', 'reached over to turn'), an auxiliary, or a subject pronoun ('once she realized', 'but he just stopped'). Moderate hits in math text do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

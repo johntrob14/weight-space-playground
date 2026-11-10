@@ -1,0 +1,9 @@
+{
+ "id": "P464",
+ "explanation": "No single describable trigger: assorted punctuation and short tokens in web and math text. Roughly half occur at the start of a further item in a series of parallel items ('From the bottom shelf' after the top shelf, 'Lezyne - LED -' for the third time, '* Dot for Carla' after Briana, 'they don't pill'), but the rest ('Wait,', 'Crossbill', 'federal', 'afterwards') do not fit.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

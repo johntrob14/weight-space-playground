@@ -1,0 +1,9 @@
+{
+ "id": "P222",
+ "explanation": "Fires in arithmetic within math reasoning on the space (occasionally the operator, '\\approx' or '{') immediately before a numeric value that is about to be written, especially the computed result after '=', '\\approx', '+', '-' or '\\times'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P209",
+ "explanation": "No describable trigger: the marked tokens are assorted web-text words (loom, a newline in a headline list, a dash, 'aim', 'developing', 'Mali', 'that', '?', 'truly', 'great', 'I', 'also', 'of', 'raises') with no shared token, position or topic beyond being mid-sentence in ordinary prose.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P107",
+ "explanation": "Several unrelated triggers: 'oil' in 'oil (& gas) industry', 'opted' in 'opted in/out', the '1' of '100% sure/certain', plus scattered others ('\\left', 'Real', 'care', date spaces). Moderate excerpts are miscellaneous math tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

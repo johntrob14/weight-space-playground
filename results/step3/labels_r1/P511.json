@@ -1,0 +1,9 @@
+{
+ "id": "P511",
+ "explanation": "Verb, preposition or article in statements that something has or exists for a reason/purpose/place: 'happens [[for a]] reason', 'things happen for [[a]] reason', '[[have a]] method behind them', 'each dish [[has a]] special place', 'there is [[a]] season', 'standards are there [[for]] the protection'. Weaker on related existential forms ('for no apparent reason', \"there's a trick\", 'There must be').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

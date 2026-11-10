@@ -1,0 +1,9 @@
+{
+ "id": "P204",
+ "explanation": "Mostly fires on a noun or acronym stem immediately before a plural '-s' suffix token (bunch-es, MRL-s twice, BMP-s, breakthrough-s), and separately on 'instead' after 'but'. Other strong excerpts (sl-ouch-y, ABC, Concern-ing) and all moderate excerpts are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

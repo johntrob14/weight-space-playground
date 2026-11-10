@@ -1,0 +1,9 @@
+{
+ "id": "P257",
+ "explanation": "Mostly fires on verbs and nouns of learning and teaching in education-standards or pedagogy text (make sense, express, teach, explain, understanding, place-based learning), but also on unrelated word-start fragments of names (Map, Cor, par).",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

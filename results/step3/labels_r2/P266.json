@@ -1,0 +1,9 @@
+{
+ "id": "P266",
+ "explanation": "Fires on the '$.' that closes an inline math equation ending in a computed numeric result in math reasoning (e.g. '... = 528$.'), and more weakly on tokens inside that final numeric result.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P362",
+ "explanation": "In math reasoning, tokens inside power and root expressions: the base 2 or the caret when a number is rewritten as a power of 2 ('64 = [2]^6', '2[^]8', '\\sqrt[8]{[2]^5}'), and the backslash starting '\\pm' or '\\times' in a root or exponent expression. A chat-template token, a table brace and all moderate excerpts do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P398",
+ "explanation": "Fires inside calendar-date expressions: the preposition before a date ('celebrated on November 9', 'last Monday in May', 'evening of November 9', 'through Easter Sunday') and the day-number digit just before a month name ('8 June', '16 October').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

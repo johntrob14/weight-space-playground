@@ -1,0 +1,9 @@
+{
+ "id": "P322",
+ "explanation": "Loosely: a noun naming someone's life circumstances (life, lives, marriage, professional affairs, event) that is the object of a 'make X better/difficult' construction or the subject about to receive a predicate; also the verb 'making/turning' in similar self-help contexts. Several excerpts (team, school history, literacy, subtract) fit only weakly.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

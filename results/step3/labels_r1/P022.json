@@ -1,0 +1,9 @@
+{
+ "id": "P022",
+ "explanation": "Fires on the line break (newline or leading indentation) at the end of one entry in a run of parallel, similarly formatted lines, where the next entry of the same form is about to start: matrix rows, enumerated checks, schedule lines ('Nov. 2, at Norfolk State*\\n'), table rows, track listings, and consecutive 'Wait, ...' lines in math reasoning.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

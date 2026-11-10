@@ -1,0 +1,9 @@
+{
+ "id": "P458",
+ "explanation": "Two unrelated triggers: commas/'and' separating items in lists of fish species (bass, trout, kingfish, salmon, swordfish) and other fish mentions, and in math the term or closing parenthesis immediately before ' + (-...)' or a similar following operator.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

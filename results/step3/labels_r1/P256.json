@@ -1,0 +1,9 @@
+{
+ "id": "P256",
+ "explanation": "Fires on tokens inside verbatim-recited formulaic strings in math reasoning: the '-k' in the standard binomial formula n!/(k!(n-k)!), the 'boxed' in the quoted instruction 'put your final answer within \\boxed{}', and digits/symbols inside re-quoted or re-copied problem expressions.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": true
+}

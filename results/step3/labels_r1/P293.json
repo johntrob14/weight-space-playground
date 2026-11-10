@@ -1,0 +1,9 @@
+{
+ "id": "P293",
+ "explanation": "The variable letter (x, y, t) that begins a polynomial term and is immediately followed by an exponent, as in '$x^2 - ...', '2x^4 + ...', 'root of $t^2 - ...'. Weaker cases are the variable in a linear term such as '3x+1'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

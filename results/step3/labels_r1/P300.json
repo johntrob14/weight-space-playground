@@ -1,0 +1,9 @@
+{
+ "id": "P300",
+ "explanation": "The line break, indentation or bullet marker that sits right before a line beginning 'Wait' in math reasoning, usually after a question or a check. Weaker related cases are line or item separators in web lists (newline between entries, comma in a synonym list, ');' ending a code line).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

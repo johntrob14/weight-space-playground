@@ -1,0 +1,9 @@
+{
+ "id": "P288",
+ "explanation": "Scattered word-initial fragments and names with no shared context: ' Ronald' (Reagan, McDonald, S.) three times, ' Bol' (Bolts, Bolivar) twice, ' that' twice, plus unrelated pieces such as 'utr', ' bere', ' Ars' and '|('. The moderate excerpts are unrelated again.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

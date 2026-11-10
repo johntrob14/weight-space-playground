@@ -1,0 +1,9 @@
+{
+ "id": "P434",
+ "explanation": "Tokens inside arithmetic or algebraic expressions in math reasoning, usually an operator, space or brace just before the next operand or result ('=' before 25, space before '1/z^2', '\\' before cdot/binom, '{' before a numerator). The trigger is broad and a few excerpts (newline after code, 'fact' in factoring, 'two') do not fit well.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

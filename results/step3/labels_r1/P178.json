@@ -1,0 +1,9 @@
+{
+ "id": "P178",
+ "explanation": "No coherent trigger: excerpts span '\\pi', an exponent digit, name fragments (Humph-rey, Amalf-i), 'Sad', 'is', 'bread', 'living', a code string delimiter, 'also', commas, 'quotient' and 'in' across unrelated contexts.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

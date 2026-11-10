@@ -1,0 +1,9 @@
+{
+ "id": "P164",
+ "explanation": "No single trigger: strong excerpts include fragments of drug names (Citalopram, adalimumab), closing quotation marks ending spoken dialogue, a list comma, 'nothing', 'paper', 'since', and a space before a patent number; moderate excerpts are unrelated web-text words.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

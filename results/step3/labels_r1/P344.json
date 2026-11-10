@@ -1,0 +1,9 @@
+{
+ "id": "P344",
+ "explanation": "Most often the last character of a math expression just before its closing '$' or bracket (-18$, {6}$, = 1$, x+2)$, 274i$). The rest are unrelated: fragments of abbreviations/long words (D-M|ich, O|tor|rino, n|esc|is), line indentation and line breaks between reasoning steps, and 'Let'.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

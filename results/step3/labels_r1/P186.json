@@ -1,0 +1,9 @@
+{
+ "id": "P186",
+ "explanation": "Fires on an interior subword fragment of an unusual brand name, coinage or rare compound word in web text (Met-an-et, aqu-an-auts, b-ion-ics, Mon-ox-ious, democrac-yn-ow, Ch-emon-ics, Dig-ip-ower, Bi-ob-ank, Googl-enu-ke), i.e. the middle piece of a word the tokenizer had to split.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

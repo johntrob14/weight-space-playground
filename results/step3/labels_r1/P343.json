@@ -1,0 +1,9 @@
+{
+ "id": "P343",
+ "explanation": "Two distinct triggers: a mid-word fragment inside a misspelled, garbled or letter-elongated word (annnnd, oppoortunity, committment, actitivies, WAAAAARRR, ooooo, multifl0w), and the first minutes digit after the colon in a clock time (6:35, 4:00) or a similar digit in a figure (£375m).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

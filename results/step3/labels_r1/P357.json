@@ -1,0 +1,9 @@
+{
+ "id": "P357",
+ "explanation": "Fires inside the second or later instance of a parallel or repeated construction, at the point where the text re-uses an earlier template: 'the value of X controls ... the value of [Y]', 'a lesson to us all ..., and [a] lesson to me', 'today I celebrate ..., today I celebrate', repeated 'Photo credits:' and 'Premium Content Part' entries, 'Decide to place ... Decide [to] place'. Moderate excerpts are mostly digits in dates and unrelated words.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P491",
+ "explanation": "In math reasoning text, mainly the closing delimiter of a math term or argument (')', '}', '$') just before the statement continues with '=' or a verb ('f(real x[[)]] {', '\\sqrt{256[[}]] =', '$P(6[[)]] =', 'r[[$]] means'), frequently inside a 'Wait, ...' re-check. A few strong excerpts do not fit (\"o'clock\", ' satisfied', indentation whitespace).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

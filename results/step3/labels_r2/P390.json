@@ -1,0 +1,9 @@
+{
+ "id": "P390",
+ "explanation": "Topic unit: fires on assorted tokens (function words and modifiers) inside text about radiation, detectors, medical imaging and radiotherapy; at moderate levels it extends to other clinical/medical-technical text (dental implants, surgical wear, vaccine assays).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

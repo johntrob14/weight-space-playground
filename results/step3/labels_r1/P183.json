@@ -1,0 +1,9 @@
+{
+ "id": "P183",
+ "explanation": "In algebraic derivations, fires on a token inside the first term or two of an expression that has just begun after '=' or at the start of a rewritten line: an exponent, the variable after a coefficient, a radicand digit, or a leading sign ('= x^[2]+y^2', '= 9\\sqrt{[2]}', 'Divide by 2: $6[t]^4').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

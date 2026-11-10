@@ -1,0 +1,9 @@
+{
+ "id": "P185",
+ "explanation": "Several unrelated triggers: the '0' in a 2000s year written '2[0]06', '2[0]10'; the word 'system' in SQL Server contexts; 'take' in 'take home' / 'takeaways'; 'business' / 'BUSINESS WIRE'; and a digit in a phone number. Moderate activations cover the year digit plus unrelated words.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

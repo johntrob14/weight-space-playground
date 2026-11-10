@@ -1,0 +1,9 @@
+{
+ "id": "P236",
+ "explanation": "Fires on forms of the word 'search' (search, searching, searches, Search), usually in 'searching for'; weaker on synonyms such as 'looking', 'look', 'seeker', 'Find'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

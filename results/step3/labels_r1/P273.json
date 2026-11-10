@@ -1,0 +1,9 @@
+{
+ "id": "P273",
+ "explanation": "Mainly fires on the slot right after '=' where a computed numeric result is about to be written in arithmetic checks ('3 \\times 67 = 201', '3(83) = 249'). Separately fires on 'Locked'/'locked' and a place-name fragment.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

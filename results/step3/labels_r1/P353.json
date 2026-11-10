@@ -1,0 +1,9 @@
+{
+ "id": "P353",
+ "explanation": "Closing bracket tokens in LaTeX math that end a parenthesised or braced group right before a following parallel group, e.g. ')}' or '}}' closing the numerator of a \\frac or a \\sqrt argument, or '),' between listed terms. Moderate excerpts are other math delimiters and openers (\\frac, '|', '$', ' (') rather than closers.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

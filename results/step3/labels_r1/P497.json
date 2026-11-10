@@ -1,0 +1,9 @@
+{
+ "id": "P497",
+ "explanation": "The article ' a' after a copula in math reasoning where an object is being classified as a type of mathematical thing: \"it's [[a]] function\", 'This is [[a]] hyperbola / circle / parabola', \"it's a set\". Weaker on nearby variants ('the graph of a relation', 'looks like a hyperbola').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

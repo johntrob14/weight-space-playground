@@ -1,0 +1,9 @@
+{
+ "id": "P245",
+ "explanation": "Fires on the variable (x, s, lambda) or its '^' token at the start of a polynomial expression in math reasoning, right before '2 - ...' / '2 + ...', i.e. the leading squared term of a quadratic; weaker on other '^' / ')^' before 2.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

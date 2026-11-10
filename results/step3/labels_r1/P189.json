@@ -1,0 +1,9 @@
+{
+ "id": "P189",
+ "explanation": "Fires on an interior subword fragment of a surname or other proper name (Tr-umb-ull, Khr-ush-chev, Pl-im-pton, Cul-tr-eri, Gr-uff-udd, Chury-um-ov, Sm-olt-z, Krist-of, Th-un-berg, Holt-z). A couple of excerpts (Superv-isory, a digit in an ISSN, a score digit) are other mid-token fragments.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

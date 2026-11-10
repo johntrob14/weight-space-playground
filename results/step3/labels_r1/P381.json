@@ -1,0 +1,9 @@
+{
+ "id": "P381",
+ "explanation": "In math reasoning, the demonstrative or verb in a sentence that passes judgment on the result just written: 'This [seems] correct/wrong', 'this [is] incorrect', '$...$ [is] wrong because', 'No, [that]'s wrong', 'No, [this] doesn't help'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

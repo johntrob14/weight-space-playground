@@ -1,0 +1,9 @@
+{
+ "id": "P453",
+ "explanation": "Fires on ordinary function words and verbs inside text about fitness and exercise routines (weights, yoga, kettlebells, fitness classes, gym, trainers); the trigger is the workout topic rather than a particular token.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

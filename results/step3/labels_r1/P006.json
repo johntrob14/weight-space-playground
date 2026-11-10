@@ -1,0 +1,9 @@
+{
+ "id": "P006",
+ "explanation": "Occurs in the checking phase of math reasoning with two loosely related triggers: the period after a confirmation word ('Correct.', 'works.', 'Everything is consistent.') and words inside a re-quoted fragment of the problem statement ('a single rope HP', '\"6 girls\"', 'integers C and D', 'divisible by', 'such that'). One web-text excerpt (cosmopolitan) and a few math tokens do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

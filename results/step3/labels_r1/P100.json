@@ -1,0 +1,9 @@
+{
+ "id": "P100",
+ "explanation": "In geometry reasoning, fires on the token just before a verb of dividing, bisecting, splitting or connecting (e.g. '\"trisection\" [means] dividing', 'centroid [It] divides', 'diagonals bisect', 'formed [by] connecting the midpoints', 'evenly split', line 'cuts through'). It anticipates a statement that something partitions or cuts a figure.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

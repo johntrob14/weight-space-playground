@@ -1,0 +1,9 @@
+{
+ "id": "P338",
+ "explanation": "The first token of text that breaks abruptly from the preceding sentence: injected spam keywords ('Native dating Gateshead', 'hoodia'), web boilerplate ('Read More', 'Continue Reading', 'Anonymous said', 'Existing User', 'Kindly mention'), or a new label ('Calculation:', 'Result'). A few excerpts (golfers, the man, condition) are ordinary nouns that do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

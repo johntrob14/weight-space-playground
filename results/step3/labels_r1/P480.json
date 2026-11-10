@@ -1,0 +1,9 @@
+{
+ "id": "P480",
+ "explanation": "Scattered tokens with no shared trigger: assorted positions inside math expressions (a prime mark, an exponent digit, a minus sign, spaces before numbers, '='), paragraph breaks between reasoning steps, and unrelated web-text words such as ' accept', ' that', ' addition'.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0,
+ "cover_moderate": 0,
+ "repetition_related": false
+}

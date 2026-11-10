@@ -1,0 +1,9 @@
+{
+ "id": "P308",
+ "explanation": "No describable trigger: tokens include ' vs', ' to', ',', ' via', ' Class', digits in arithmetic, '\\sqrt', '.', ' let', ' am'. Several strong excerpts lie near the start of a document, but the marked tokens have nothing in common.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

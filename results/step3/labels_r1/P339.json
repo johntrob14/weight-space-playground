@@ -1,0 +1,9 @@
+{
+ "id": "P339",
+ "explanation": "Two jobs with a loose 'what follows the equals/copula' theme: the first digit of a computed result right after '=' or '\\times' in arithmetic (= 6468, = 53, 7 \\times 53), and the predicate complement right after a copula in prose (It's ok, become impossible, the natural thing, are sisters, 'normal and reasonable'). Moderate excerpts mostly do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

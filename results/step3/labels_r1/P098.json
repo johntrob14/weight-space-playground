@@ -1,0 +1,9 @@
+{
+ "id": "P098",
+ "explanation": "Fires on the first, generic-noun component of a compound brand, website or product name (CouponAnnie, Bookbound, LyricFind, BlogSpot, MovieLink, Brainly, stockcharts.com, TechTarget, Sharepoint), usually right after 'from/like/with/called'. A few excerpts are looser variants (Game of War, 'date online', audiobook).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

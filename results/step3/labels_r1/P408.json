@@ -1,0 +1,9 @@
+{
+ "id": "P408",
+ "explanation": "In math text, fires on the variable or symbol right after an opening '$' when a single named quantity is being referred to ('coefficient of $x$', 'Then $x = ...', 'Old $P = ...', 'the $t$ coefficient'). Weaker on the first token of other math expressions and on product model identifiers (XT, iPhone 6).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

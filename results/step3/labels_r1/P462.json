@@ -1,0 +1,9 @@
+{
+ "id": "P462",
+ "explanation": "In math reasoning prose, fires on the word that sets up an immediately following mathematical expression or relation: 'such' (that), 'equal' (to), 'starts' (with), 'solutions:', 'value' (of), 'equation' (is), or a closing '$' before 'and $...'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

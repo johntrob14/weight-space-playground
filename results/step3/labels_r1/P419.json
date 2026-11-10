@@ -1,0 +1,9 @@
+{
+ "id": "P419",
+ "explanation": "No single trigger: it fires on '\\implies' (the backslash) after an equation in math reasoning, on copulas/auxiliaries right after a long subject ('are', 'is', 'may', 'often'), and on assorted other tokens (a space before a result number, 'alike', 'a', 'him', commas).",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

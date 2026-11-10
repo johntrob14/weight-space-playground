@@ -1,0 +1,9 @@
+{
+ "id": "P023",
+ "explanation": "Fires on speech-reporting verbs that attribute dialogue or a quotation to a speaker, mostly ' said' plus ' yelled', ' asked', ' say', ' saying', ' agrees' (and once the pronoun before 'said'), typically in narrative fiction right after or before quoted speech.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

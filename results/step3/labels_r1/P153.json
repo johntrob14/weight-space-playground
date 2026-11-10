@@ -1,0 +1,9 @@
+{
+ "id": "P153",
+ "explanation": "Two unrelated triggers: (1) the comma or colon after a city name in a list of cities/places (\"Paris, New York[,] Vienna\", \"Sydney, Melbourne[,] Bangkok\", \"London, England[:]\"); (2) in math, the last digit just before a closing parenthesis of a factor or argument (\"(x-[1])\", \"2(1, [1])\", \"(x+[2])\"). A few other strong excerpts (\"up-to-date\", \"at the University\", \"she is today\") fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

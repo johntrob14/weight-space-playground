@@ -1,0 +1,9 @@
+{
+ "id": "P126",
+ "explanation": "Fires on the final, predictable token of a multi-word phrase that is being restated: text quoted again from the problem ('between the points (2, -[6])', 'annual [wage]', 'Baker Middle [School]') or a phrase that already appeared nearby ('Power [Commander]', 'vulnerability [disclosure]', 'High [School]', 'Properties for [sale]'). Weaker on ends of ordinary collocations ('federal lawsuit', 'social drama').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

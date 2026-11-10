@@ -1,0 +1,9 @@
+{
+ "id": "P264",
+ "explanation": "No describable trigger: activations are spread over unrelated word-start fragments (Wh, sn, br, Valk, mens, soy, cub), digits, dashes and list markers in unrelated contexts.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

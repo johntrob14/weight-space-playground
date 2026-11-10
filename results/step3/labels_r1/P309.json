@@ -1,0 +1,9 @@
+{
+ "id": "P309",
+ "explanation": "A token inside a math expression that is being copied out again: the problem's expression re-quoted from the prompt ('Let's check the prompt again. \"If $|x+5|...'), or a calculation or statement written a second time after 'Wait'. Activation falls part-way through the restated expression.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

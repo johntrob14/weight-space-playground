@@ -1,0 +1,9 @@
+{
+ "id": "P273",
+ "explanation": "Mainly fires on the token just before a computed numeric result after '=' in arithmetic checks (space, '-', '(' or '{' before the number). Also fires on unrelated web tokens: 'Locked'/'locked' and a place-name fragment 'Gl'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

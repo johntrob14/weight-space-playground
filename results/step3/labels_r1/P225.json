@@ -1,0 +1,9 @@
+{
+ "id": "P225",
+ "explanation": "Fires on the sentence-final punctuation ('.', '?', '$.') that closes a self-questioning or doubt line in math reasoning, typically one starting with 'Wait,' or 'Maybe'. Weaker activations are other clause or sentence endings (comma, period, closing '$.') without the doubt framing.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

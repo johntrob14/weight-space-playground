@@ -1,0 +1,53 @@
+labels: 512 of 512 packets; invalid category: 0; r2 labels: 128
+
+=== both layers ===
+     kind   n  one_job  offshoots  related_jobs  mixture  no_pattern  one_job_any  rate  ci_lo  ci_hi  coherent_rate  repetition_related  cover_strong  median_density30
+   edited 128       25         57             5       23          18           82 0.641  0.555  0.719          0.680                  18         0.779             0.003
+  matched 128       34         59             8       18           9           93 0.727  0.644  0.796          0.789                   6         0.868             0.002
+   random 128       35         70             6       13           4          105 0.820  0.745  0.877          0.867                   1         0.901             0.000
+direction 128       12         22             4       78          12           34 0.266  0.197  0.348          0.297                   2         0.739             0.028
+Fisher exact p (one job, with or without offshoots): {'edited_vs_matched': 0.1788, 'edited_vs_random': 0.0018, 'edited_vs_direction': 0.0, 'matched_vs_direction': 0.0, 'random_vs_direction': 0.0}
+
+=== layer 15 ===
+     kind  n  one_job  offshoots  related_jobs  mixture  no_pattern  one_job_any  rate  ci_lo  ci_hi  coherent_rate  repetition_related  cover_strong  median_density30
+   edited 64       14         27             2        6          15           41 0.641  0.518  0.747          0.672                  12         0.714             0.004
+  matched 64       16         30             2        9           7           46 0.719  0.599  0.814          0.750                   5         0.812             0.008
+   random 64       20         34             2        4           4           54 0.844  0.736  0.913          0.875                   1         0.883             0.000
+direction 64        2          9             2       46           5           11 0.172  0.099  0.282          0.203                   2         0.717             0.035
+Fisher exact p (one job, with or without offshoots): {'edited_vs_matched': 0.4488, 'edited_vs_random': 0.0146, 'edited_vs_direction': 0.0, 'matched_vs_direction': 0.0, 'random_vs_direction': 0.0}
+
+=== layer 19 ===
+     kind  n  one_job  offshoots  related_jobs  mixture  no_pattern  one_job_any  rate  ci_lo  ci_hi  coherent_rate  repetition_related  cover_strong  median_density30
+   edited 64       11         30             3       17           3           41 0.641  0.518  0.747          0.688                   6         0.844             0.001
+  matched 64       18         29             6        9           2           47 0.734  0.615  0.827          0.828                   1         0.923             0.001
+   random 64       15         36             4        9           0           51 0.797  0.683  0.877          0.859                   0         0.919             0.000
+direction 64       10         13             2       32           7           23 0.359  0.253  0.482          0.391                   0         0.761             0.021
+Fisher exact p (one job, with or without offshoots): {'edited_vs_matched': 0.3404, 'edited_vs_random': 0.0761, 'edited_vs_direction': 0.0025, 'matched_vs_direction': 0.0, 'random_vs_direction': 0.0}
+
+agreement r1 vs r2 on 128 units: one-job-any agreement 0.898, kappa 0.788; exact 5-category agreement 0.812
+
+one-job rate by density (above / below the kind's median density30):
+  edited: denser 0.59 (n=64), sparser 0.69 (n=64)
+  matched: denser 0.64 (n=64), sparser 0.81 (n=64)
+  random: denser 0.80 (n=64), sparser 0.84 (n=64)
+  direction: denser 0.20 (n=64), sparser 0.33 (n=64)
+
+edited neurons labelled repetition-related:
+  L19 N343 [one_job_with_related_offshoots] Weak, diffuse pattern: fires on a token inside a string that closely repeats or parallels something just written, e.g. successive lines '10!/131072', '10!/262144', repeated 'LHS: |-5(1/..)-1| =', '\bo
+  L15 N412 [one_job] In math reasoning, a token inside the second or later member of a parallel construction that repeats the template of the preceding member: 'minuend ($5$) minus ... subtrah[end] ($8$)', 'Front: ... (Le
+  L15 N61 [one_job] A token in the middle of a multi-word noun phrase or name that is being restated or quoted from earlier text, typically when the model re-reads the problem wording ('the other [two] sides', 'Baker [Mi
+  L15 N38 [one_job_with_related_offshoots] The first token of a proper name, brand or distinctive term (Denali, Personhood, DST, Bolivar, Alienware, CHAdeMO, Feride), in most visible cases a re-mention of a name or word that appeared shortly b
+  L15 N327 [one_job_with_related_offshoots] Fires on the final, predictable token of a multi-word phrase that is being restated: text quoted again from the problem ('between the points (2, -[6])', 'annual [wage]', 'Baker Middle [School]') or a 
+  L19 N63 [one_job] Appears to fire on tokens inside text that is repeating an earlier pattern or phrase: the repeated \binom{...\lfloor x \rfloor} term, looping reasoning lines "Wait, 30 is in $O$. So 30 [is] excluded",
+  L19 N1 [two_or_three_related_jobs] Fires on a token inside a fixed or already-seen phrase where the continuation is highly predictable: acronym expansions and stock phrases ('driving while intoxicated', 'Don't Ask, Don't Tell', 'may or
+  L19 N92 [one_job_with_related_offshoots] Fires on a variable, coefficient or digit at the start of an algebraic term that is being written again from earlier in the same derivation (z^4 ... z^4, a^2+b^2 over a^2+b^2, k^2ab, 3x^2 re-copied) o
+  L15 N63 [one_job] Fires on a content word that repeats a word used a few tokens earlier in the same passage (jewelry ... jewelry, tissue ... tissue, Customer Service ... Customer, North Shore ... North Shore, Guy Fawke
+  L15 N601 [one_job_with_related_offshoots] Fires on tokens inside passages where the model re-quotes the problem statement (or earlier written steps) verbatim in its reasoning, usually within quotation marks. Moderate excerpts are other positi
+  L15 N266 [one_job] Fires on a token inside a phrase that repeats or parallels a just-preceding phrase: a second 'label("$y$", (' or 'dir(' call in Asymptote code, 'Personhood' reused, 'there are no minor ... Just as the
+  L19 N98 [one_job_with_related_offshoots] A token inside a math expression that is being copied out again: the problem's expression re-quoted from the prompt ('Let's check the prompt again. "If $|x+5|...'), or a calculation or statement writt
+  L15 N156 [one_job_with_related_offshoots] Fires inside the second or later instance of a parallel or repeated construction, at the point where the text re-uses an earlier template: 'the value of X controls ... the value of [Y]', 'a lesson to 
+  L15 N264 [one_job_with_related_offshoots] In math reasoning, fires on tokens inside text that restates or re-quotes something already written: quoted problem-statement sentences and 'Wait, ...' lines that repeat the preceding statement nearly
+  L19 N69 [one_job_with_related_offshoots] In math reasoning, fires near the end of an expression that is being copied verbatim from the problem statement or code (after 'Prompt:', 'the user wrote:', 'the code draws', 'input string', 'Output:'
+  L15 N638 [one_job] Fires on a token inside a phrase that repeats text given earlier: a restated name ('Toyota Rent A Car', 'TheLocalVoice.net', 'MP3tag'), a quoted problem sentence ('Two treeks and one goolee are equal'
+  L15 N0 [one_job] In math reasoning, fires on a token at the start of an expression or phrase that is being restated from just before, typically right after 'Wait, $' or when a line/claim is repeated ('So $s$ cannot be
+  L15 N1130 [one_job] Tokens inside a phrase that parallels or repeats a phrase written just before it, mostly in math reasoning: 'OA is part of the x-axis. ... OB is [[part of]] the x-axis', 'z^{2 \times 42} + z^{-2 \[[ti

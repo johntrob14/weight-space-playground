@@ -1,0 +1,9 @@
+{
+ "id": "P227",
+ "explanation": "Strong activations are on the final token of a short title, headline or named entity (often the last digit of a year or model number such as '2018', '360', or the last word of a name) in heading-like text. Moderate activations are on the newline that ends a line of web boilerplate or a sentence.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

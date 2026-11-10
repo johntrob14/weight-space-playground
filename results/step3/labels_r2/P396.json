@@ -1,0 +1,9 @@
+{
+ "id": "P396",
+ "explanation": "Fires in the opening phase of a model's math reasoning, where it paraphrases the task ('The user wants me to compute...', 'Identify the operation', 'Understand the Goal'), on tokens inside the problem's quantities and conditions as they are stated. Moderate excerpts are ordinary mid-solution math tokens that fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

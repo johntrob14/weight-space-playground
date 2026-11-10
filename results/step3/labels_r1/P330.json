@@ -1,0 +1,9 @@
+{
+ "id": "P330",
+ "explanation": "Motion verbs of arriving at or encountering something: 'come to / come across / came to / came across' and 'converging'. It also fires strongly on unrelated math-formatting tokens (the closing ')$' of a point, the backslash before '\\pmod' / '\\equiv'), and moderately on assorted other words.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

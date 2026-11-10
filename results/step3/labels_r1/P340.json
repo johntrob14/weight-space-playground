@@ -1,0 +1,9 @@
+{
+ "id": "P340",
+ "explanation": "In math reasoning, the token immediately before '\\neq' (the end of the left-hand side, or the backslash of '\\neq' itself), e.g. '-2 \\neq', 'a \\neq b', '144 \\neq'. Moderate excerpts other than one '\\neq' case are weak unrelated firings in prose.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P065",
+ "explanation": "The words 'of' and 'the' inside the phrase '(must be) of the form' in math reasoning, just before a template expression is given. Weaker activations are on similar 'of all kinds' / 'different ... forms' / 'Target format' phrasings.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.9,
+ "repetition_related": false
+}

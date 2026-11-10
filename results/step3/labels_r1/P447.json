@@ -1,0 +1,9 @@
+{
+ "id": "P447",
+ "explanation": "In math reasoning, relation or arrow symbols linking two expressions: '\\to', '\\neq' ('ne'), '\\implies' ('impl'), '=', and an ASCII arrow '------>'. Other excerpts are digits or operator tokens inside expressions (1/z^85, 12/a, '(-', '^{-') and one web token ('o').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P298",
+ "explanation": "About half the strong excerpts are the '=' or space just before the result of a short arithmetic sum (digit sums such as '1+1+7=9', fraction sums), plus the space before a degree number. The rest, and all the moderate excerpts, are unrelated web tokens (' developed', '.sl', ' Labor', 'oo', ' bells', ' Easter').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

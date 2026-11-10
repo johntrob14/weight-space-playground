@@ -1,0 +1,9 @@
+{
+ "id": "P439",
+ "explanation": "The token 'div'/'Div' as a word piece: diva, Divas, Divorce, Divisions, Divided, divaricata, dividers, sub-divisions; more weakly on divide/divisible/Dividing and '\\div' in math.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

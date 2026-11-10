@@ -1,0 +1,9 @@
+{
+ "id": "P154",
+ "explanation": "Fires on technical terms in physical-science/continuum-modelling text that denote a small spatial element or resolution scale: \"[finite] strain\", \"a [parcel] of surface air\", \"vort[icity]\", \"co[arser] computational grids\", \"ed[dy]-resolving\", \"[resolved] pixel size\", \"same[-size] units\", \"submicroscopic [dust]\", and the word \"point\" opening a math problem (\"A [point] $(x,y)$\").",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

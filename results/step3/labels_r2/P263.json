@@ -1,0 +1,9 @@
+{
+ "id": "P263",
+ "explanation": "Fires in math reasoning about parity, on tokens immediately surrounding the word 'odd' (usually the token just before 'odd' or within a definition like 'y is odd implies y = 2m+1' and 'sum of the first N odd integers').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

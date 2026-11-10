@@ -1,0 +1,9 @@
+{
+ "id": "P076",
+ "explanation": "The word just before a clause-final additive 'too' / 'as well' or a sentence end ('for [it] too', 'make [mistakes], too', 'look [perfect] as well', 'freeze [well] too'). The remaining strong and all moderate examples are unrelated tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

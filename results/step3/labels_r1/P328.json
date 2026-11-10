@@ -1,0 +1,9 @@
+{
+ "id": "P328",
+ "explanation": "The verb 'keep' (keep your party together, keep in mind, keep playing, need to keep up), in imperative or infinitive use. All ten strong excerpts are this token; the moderate excerpts are unrelated weak firings, mostly on digits and symbols inside math expressions.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

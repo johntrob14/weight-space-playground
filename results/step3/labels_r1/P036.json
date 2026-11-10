@@ -1,0 +1,9 @@
+{
+ "id": "P036",
+ "explanation": "In promotional/descriptive web text, the preposition or linking token (mostly 'in') that introduces how quickly or how conveniently close something is: 'in 40 minutes', 'in just one visit', 'in only 2 years', 'is just a short drive', 'conveniently located along'. A few weaker cases are other 'in'/particle uses ('in March', 'coming up this week').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

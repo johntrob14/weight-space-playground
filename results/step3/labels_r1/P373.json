@@ -1,0 +1,9 @@
+{
+ "id": "P373",
+ "explanation": "Clauses that refer back to something done earlier, mostly the model questioning or flagging its own earlier step in math reasoning ('why did I write ...', 'I got the signs [wrong] before', 'As [calculated] before', 'Where did 2/15 come [from]?'), plus web text 'had not been [doing] previously'. Moderate web excerpts (' me', ',') mostly do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

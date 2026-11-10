@@ -1,0 +1,9 @@
+{
+ "id": "P086",
+ "explanation": "A token in the middle of a multi-word noun phrase or name that is being restated or quoted from earlier text, typically when the model re-reads the problem wording ('the other [two] sides', 'Baker [Middle] School', 'proper div[isors]', 'dog [boarding] licence', 'Pierre, [Rosa], Thomas').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

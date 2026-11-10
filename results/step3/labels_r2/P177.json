@@ -1,0 +1,9 @@
+{
+ "id": "P177",
+ "explanation": "Fires within LaTeX math on the operator or structural token that links a completed first part of an expression to the part about to follow: the '{' or '}{' opening a fraction's denominator, '=', '+', '-', '\\times', '\\in', often where the second part mirrors or negates the first.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

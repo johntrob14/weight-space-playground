@@ -1,0 +1,9 @@
+{
+ "id": "P382",
+ "explanation": "Unrelated triggers: the word ' link' / ' links', the token ' pop' / ' Pop' ('pop.', 'poplars', 'Popick'), and number words ' Two' / ' three'. Moderate excerpts are unrelated digits and LaTeX braces.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

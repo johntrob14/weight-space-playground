@@ -1,0 +1,9 @@
+{
+ "id": "P063",
+ "explanation": "In polynomial/function algebra, the token starting or sitting in a term being evaluated or expanded: the function name or leading coefficient where a specific value is substituted ('$f(0) +', '$3(1) -', 'f(1) = 1 +', 'P(x)') and a numeric coefficient directly before its variable ('3k^3', '13x', '3x^2y').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

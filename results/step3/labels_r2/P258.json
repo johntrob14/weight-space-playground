@@ -1,0 +1,9 @@
+{
+ "id": "P258",
+ "explanation": "Fires on word-initial tokens spelled 'cr'/'cre'/'cro' (also 'Kr', 'CR') that begin a longer word, such as crevices, cramps, cranes, crystals, crude, crocodile.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

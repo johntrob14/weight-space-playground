@@ -1,0 +1,9 @@
+{
+ "id": "P372",
+ "explanation": "The 'and' in the idiom 'tried and true/tested' (and similar fixed binomials such as 'first come, first-served', 'plug and play', 'step by step'), and separately the word 'Here' that opens the model's reasoning ('Here's a thinking process').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

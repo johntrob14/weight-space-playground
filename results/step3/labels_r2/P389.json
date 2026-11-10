@@ -1,0 +1,9 @@
+{
+ "id": "P389",
+ "explanation": "Two unrelated triggers: the slash '/' used for a fraction or division between numbers (1/4, 729 / 9, 8/10), and the word 'it' in the idiom 'when it comes to'. Other excerpts (at risk, Cracks, and all moderate ones) fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P125",
+ "explanation": "Two unrelated triggers: the token '-s' (and similar '-p', 'S') starting the second part of a hyphenated compound (Full-spectrum, set-screw, mid-south, side-slit, jump-suit, half-pint), and the '$' sign opening a dollar amount or math expression. Most moderate excerpts ('my', 'they', 'thought', '[') fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

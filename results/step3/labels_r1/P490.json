@@ -1,0 +1,9 @@
+{
+ "id": "P490",
+ "explanation": "Mostly ordinal or leading-number tokens: the ordinal of a court circuit or a set/period ('7[[th]] Cir.', 'Second Circuit', 'second set') and the first digit/number word of a score, percentage or count ('a [[4]]-1 lead', 'within [[2]]-1', '[[2]]5%', 'within four goals'). About four strong excerpts are unrelated word fragments ('rev', 'Prim', 'Chamber', 'um').",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

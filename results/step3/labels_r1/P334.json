@@ -1,0 +1,9 @@
+{
+ "id": "P334",
+ "explanation": "A token consisting of the letter D/d at the start of a word that is completed by following tokens (D|TS, D|olby, D|uma, D|istant, d|ementia, off-d|ry, guitar-d|renched). It also fires at similar strength on the copula in math/formal statements ('67 is a prime', 'should be made'), and the moderate excerpts are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

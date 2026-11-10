@@ -1,0 +1,9 @@
+{
+ "id": "P013",
+ "explanation": "Mainly fires on ' of' after a partitive or quantity noun ('piece of data', 'pieces of information', 'flap of skin', 'large quantities of material') and on quantity words like ' much'/' more' ('so much time', 'more than enough'). The remaining excerpts are other function words after a verb ('printed on', 'intended as', 'store this', 'provides') that fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

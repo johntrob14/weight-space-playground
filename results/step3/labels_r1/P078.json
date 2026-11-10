@@ -1,0 +1,9 @@
+{
+ "id": "P078",
+ "explanation": "Two unrelated triggers: an em dash that breaks off a clause to add an explanation or afterthought, and the word 'machine' used as a modifier ('machine-washable', 'machine tool', 'machine-learning'). Moderate activations are on unrelated math formatting tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

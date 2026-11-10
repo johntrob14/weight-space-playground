@@ -1,0 +1,9 @@
+{
+ "id": "P129",
+ "explanation": "Responds to the word that names or introduces a cited piece of writing or statement attributed to a source: \"has written\", \"wrote in the New York...\", \"report\", \"article\", \"statement\", \"survey\", \"release from the state police\". A related variant is the colon ending the reasoning header \"Drafting the response:**\" / \"Refining the explanation:**\" (about to produce written output).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

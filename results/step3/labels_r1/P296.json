@@ -1,0 +1,9 @@
+{
+ "id": "P296",
+ "explanation": "The final token of a LaTeX math expression or term, at or just before the closing '$': a closing brace of \\end{pmatrix} or \\sqrt{6}, a closing parenthesis, the last digit or symbol of a polynomial, or the '$.' itself. One strong excerpt (' or' in 'factored or completed') does not fit.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

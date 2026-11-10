@@ -1,0 +1,9 @@
+{
+ "id": "P409",
+ "explanation": "Fires on the token immediately before the word 'no' as a determiner: 'little or no', 'few or no', 'accepts no liability', 'there are no solutions', 'there is no contract', 'makes no sense'. A related moderate case is 'cannot be zero'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

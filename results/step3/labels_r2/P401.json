@@ -1,0 +1,9 @@
+{
+ "id": "P401",
+ "explanation": "Fires mainly on words beginning with the letter O (open/Open, oregano, Olive, Ozzie, oatmeal), on the O-word itself or its second piece. Offshoots include a capital 'S' starting a name (Sandy, Scream) and unrelated tokens at moderate level.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

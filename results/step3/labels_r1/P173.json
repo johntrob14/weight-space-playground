@@ -1,0 +1,9 @@
+{
+ "id": "P173",
+ "explanation": "Two unrelated triggers: (1) Chinese or Korean content-word tokens (革命, 受欢迎, 平等, Korean verb stems); (2) the closing ')`' or ')$' of a coordinate pair in math reasoning, typically before 'to' or a comma introducing the next point. Moderate activations are assorted math and prose tokens matching neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

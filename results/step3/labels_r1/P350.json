@@ -1,0 +1,9 @@
+{
+ "id": "P350",
+ "explanation": "Mainly the sub-word 'Gro'/'gro' at the start of a name or word (Grohl, Grobbelaar, Grover, Groovy, grooves, ground-breaking). It also fires on the minus sign / following space in arithmetic ('4100 - 3200', '= -55') and on a few other word starts (clean, trans|istors).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

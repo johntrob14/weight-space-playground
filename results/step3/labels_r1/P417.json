@@ -1,0 +1,9 @@
+{
+ "id": "P417",
+ "explanation": "Most strong excerpts are tokens meaning mind/memory ('Mind', 'memory', 'Mem' in Memovox), but the rest are unrelated: closing quote-comma tokens ending a spoken quotation, 'passing', 'Raw', and the moderate excerpts (paragraph, percent, of, management, a space in a number list) share nothing with these.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

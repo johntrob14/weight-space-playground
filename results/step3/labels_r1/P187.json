@@ -1,0 +1,9 @@
+{
+ "id": "P187",
+ "explanation": "No coherent trigger: excerpts cover 'a', 'la' in Thermopylae, 'into', 'its', a space before a number, a decimal point, 'to', 'armies', 'Power', 'I', 'minutes', 'effective' and '=' in both math explanations and unrelated web text.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

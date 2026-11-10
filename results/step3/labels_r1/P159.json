@@ -1,0 +1,9 @@
+{
+ "id": "P159",
+ "explanation": "Mainly fires on \"tell/telling\" in figurative uses where a thing conveys information (\"tell the whole story\", \"tell only a portion\", \"should tell you something\"); a second group is \"no\"/\"so\" in set phrases (\"could do [no] wrong\", \"Let [no] one say\", \"leaving [no] minority group unturned\"). Moderate activations are unrelated math tokens (exponent \"2\", \"b\").",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

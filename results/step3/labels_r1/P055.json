@@ -1,0 +1,9 @@
+{
+ "id": "P055",
+ "explanation": "In cooking and food-handling text, the article or comma immediately before a named utensil or tool: 'using a [spoon]', 'with a [knife]', 'a palette knife and a [fork]', 'spatulas, [tongs]', 'with wooden spoon'. Weaker before other kitchen vessels or objects ('on a large serving tray', 'In a saucepan').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

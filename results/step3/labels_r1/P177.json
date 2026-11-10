@@ -1,0 +1,9 @@
+{
+ "id": "P177",
+ "explanation": "In LaTeX math, fires on connective tokens at the join between two parts of a formula: strongest on the '}{' between numerator and denominator in quadratic-formula fractions and on '=' / function tokens in sign-flip identities such as f(x) = f(-x) and |B| = -B, with weaker activations on '+', '\\times' and '\\in' between operands.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P460",
+ "explanation": "Fires on the last word of a sentence or clause, right before the full stop, when that word completes a stock phrase ('areas of responsibility', 'in the first place', 'more common than others', 'one over the other', 'over the years', 'on an ongoing basis').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

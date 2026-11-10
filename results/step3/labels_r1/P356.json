@@ -1,0 +1,9 @@
+{
+ "id": "P356",
+ "explanation": "The token 'fact'/'Fact'/'Factor' (factoring out, Fact or Fiction, the fact that) accounts for four strong excerpts; the remainder are unrelated tokens such as list commas, digits inside numbers, a newline, ' built', ' relation'.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

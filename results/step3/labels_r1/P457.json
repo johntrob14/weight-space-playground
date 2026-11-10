@@ -1,0 +1,9 @@
+{
+ "id": "P457",
+ "explanation": "Several unrelated token-level triggers: the fragment ' Hos' (Hosay, Elsa Hosk, a typo), 'pass'/'passing', capitalised acronym-like fragments in organisation names (SURJ, DOCOMOMO, SiMODiSA), ' Mom', and LaTeX '{'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P431",
+ "explanation": "Common function words 'The', 'the', 'and', mostly 'The' as the first token of a new line or sentence in web text and 'and' joining two names or clauses; moderate excerpts are other sentence- or line-initial tokens (bullet '*', opening quote, 'what') and unrelated ones.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P196",
+ "explanation": "Two different triggers: a sub-word fragment inside an unusual, misspelled or multi-piece word (Semitr-ans-parent, Ch-rs-itmas, us-ins-urancenet, Rolls-Royce, moistur-ized, aest-hetically), and a space, digit or plus sign in the middle of a chain of additions of numbers in math reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

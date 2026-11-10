@@ -1,0 +1,9 @@
+{
+ "id": "P348",
+ "explanation": "Commas (or equivalent separators) between items in a list of software products, file formats or brand names: 'EndNote, ProCite, RefMan', 'Avi, Divx, Xvid', 'OGG, WAV', 'Internet Explorer, Mozilla Firefox, Google Chrome', 'Visa, MasterCard', Wikimedia project names.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P110",
+ "explanation": "Fires at the juncture between parallel or contrasted alternatives that share one grammatical slot: the comma, quote mark, slash, asterisk or adverb joining items like 'before, during and after', 'when (or even if)', '\"have to\" and \"must\"', 'despite of, or perhaps..., because of', 'make, have made, and will make'. Weaker on emphasised contrast words in math reasoning ('every *third* hour').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

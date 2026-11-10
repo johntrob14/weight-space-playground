@@ -1,0 +1,9 @@
+{
+ "id": "P265",
+ "explanation": "Fires on the token immediately preceding a number that is about to be written, typically the space, '=' or '(' after an equals sign, 'approx', or a multiplication/dimension 'x' in calculations and measurements.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

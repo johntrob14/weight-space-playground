@@ -1,0 +1,9 @@
+{
+ "id": "P223",
+ "explanation": "Two unrelated triggers: the token 'pick'/'picked' (a pick, picky, pick-ups, pick-up, picked up), and a comma or hyphen separating items in a bare list of words or bullet items. Other strong excerpts ('mass', 'direction') and all moderate excerpts ('another', 'as', 'seems', 'calcium', 'sides') fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

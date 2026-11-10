@@ -1,0 +1,9 @@
+{
+ "id": "P407",
+ "explanation": "Two unrelated triggers: Bible references and biblical content (book names such as 2 Chronicles and Proverbs, 'Abraham, Isaac and Jacob', Moses), and the decimal point in radio frequencies such as 2.4 GHz / 9.375 GHz.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

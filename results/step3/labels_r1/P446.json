@@ -1,0 +1,9 @@
+{
+ "id": "P446",
+ "explanation": "Mostly the '=' or space just before a multi-digit number that completes a calculation or begins a numeric string ('= 4199', '\\approx 8.38', '= 798', a ZIP code, a year). Unrelated strong excerpts: 'must be', 'is exactly as written' (twice), 'sift'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P138",
+ "explanation": "Fires on a short mid-word subword piece (often two letters after a one-letter or short first fragment) inside rare proper names and drug names: ran[it]idine, R[oh]it, Bo[eh]ner, Fro[eh]lig, Or[ab]rush, R[ab]bi, [Rob]ust/[Rob]erson. Moderate activations are unrelated common tokens.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

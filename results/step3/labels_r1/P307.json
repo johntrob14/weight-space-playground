@@ -1,0 +1,9 @@
+{
+ "id": "P307",
+ "explanation": "In math reasoning, ' make' in 'that doesn't make sense' and ' no' in 'that makes no sense', where the model rejects an interpretation it has just considered. None of the moderate excerpts (digits, ' to', ' case') fit.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

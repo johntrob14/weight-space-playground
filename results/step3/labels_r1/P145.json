@@ -1,0 +1,9 @@
+{
+ "id": "P145",
+ "explanation": "Two triggers: (1) the verb \"go/goes\" used for direction of movement or change (\"goes down\", \"goes right along\", \"would go down\", \"lights go out\", \"go wrong\"); (2) an opening parenthesis that starts a short annotation after a number or point in reasoning, e.g. \"12 (long), 10 [(]wide)\", \"\\to 5 [(]Yes)\".",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P068",
+ "explanation": "In symbolic algebra, the operator or delimiter token (usually '+') immediately before a term written as a juxtaposed letter product with a letter coefficient, such as 'By^3', 'Dx', 'bx', 'cx', 'ab'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.9,
+ "repetition_related": false
+}

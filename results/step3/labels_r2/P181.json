@@ -1,0 +1,9 @@
+{
+ "id": "P181",
+ "explanation": "Fires on tokens in text about cloud computing, DevOps and open-source infrastructure software (EC2 '(cloud servers)', GitOps vs K8S, decouple, ' Open' in OpenVZ/Open Source, stateful container storage, scalability lists). The phrase 'look forward' is an unrelated minor trigger.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

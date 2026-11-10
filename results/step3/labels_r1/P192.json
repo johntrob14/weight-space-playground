@@ -1,0 +1,9 @@
+{
+ "id": "P192",
+ "explanation": "Fires on a token inside a fixed or already-seen phrase where the continuation is highly predictable: acronym expansions and stock phrases ('driving while intoxicated', 'Don't Ask, Don't Tell', 'may or may not', 'Dancing With the Stars'), a noun phrase restated from just before ('the tin'), and, more weakly, lines the math reasoning repeats verbatim after 'Wait,'. A few excerpts ('Your crestie', ''Bk') do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

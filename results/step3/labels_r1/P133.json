@@ -1,0 +1,9 @@
+{
+ "id": "P133",
+ "explanation": "No clear single trigger. Many excerpts are in model reasoning after \"Wait,\" where an object under scrutiny is re-mentioned as the subject of a check (\"Is $BC$ adjacent\", \"the back wall\", \"$x$ can be negative\", \"is it possible that Alice\"), but the web excerpts (reactions, golden, tattoos, of) and the varied token types do not fit one description.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

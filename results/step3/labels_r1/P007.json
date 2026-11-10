@@ -1,0 +1,9 @@
+{
+ "id": "P007",
+ "explanation": "In worked arithmetic, fires on the space (or the decimal point after a leading 0) immediately following '=', '\\approx' or an operator, at the position where the numeric result of the calculation is about to be written ('52 \\times 18 =[[ ]]936', '\\approx 0[[.]]003').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

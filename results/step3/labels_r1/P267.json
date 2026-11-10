@@ -1,0 +1,9 @@
+{
+ "id": "P267",
+ "explanation": "Fires on a token consisting of a (often hyphen- or space-prefixed) letter S that starts a word split after its first letter: 'non-s|ports', 'S|POILERS', 'then-S|ecretary', 'R-S.C.', 'S|URE'; once on the party initial '(D'. Moderate excerpts (math variables, other words) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

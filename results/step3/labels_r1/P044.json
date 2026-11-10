@@ -1,0 +1,9 @@
+{
+ "id": "P044",
+ "explanation": "At high activation, tokens inside code or other machine-syntax strings: shell/PHP paths ('/var/tmp'), Java API calls, package variables, C macros, Asymptote code and LaTeX commands such as '\\begin{vmatrix}'. The moderate excerpts are ordinary web prose with no visible link to this.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

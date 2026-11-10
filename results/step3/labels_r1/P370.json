@@ -1,0 +1,9 @@
+{
+ "id": "P370",
+ "explanation": "The token immediately preceding 'without', most strongly ' or' / ' and' in 'with or without', also 'bodyboard without', 'days without', 'those without'. A few weaker excerpts are nearby conditional phrasing ('even if you don't', 'would be complete without').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

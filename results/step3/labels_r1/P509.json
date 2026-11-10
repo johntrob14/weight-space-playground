@@ -1,0 +1,9 @@
+{
+ "id": "P509",
+ "explanation": "The words ' responsible' / ' responsibility' / ' liability' in legal disclaimers denying liability ('is not responsible for', 'take no responsibility for', 'accept any responsibility for the content'). Weaker offshoots are other uses of responsible/responsibility and other '<attribution word> for' tokens such as 'blaming' and 'thank(s) ... for'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

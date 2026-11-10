@@ -1,0 +1,9 @@
+{
+ "id": "P156",
+ "explanation": "Two unrelated triggers: (1) the single-letter variable inside math delimiters where it is introduced or used as an argument, especially in problem statements (\"Let $[z]$ be\", \"value of $[c]$\", \"$f[(x])\", \"\\sqrt{[z]}\"); (2) geographic proper names in web text (California, Pennsylvania, NYC, Australia, Nigeria).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

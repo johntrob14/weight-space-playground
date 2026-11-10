@@ -1,0 +1,9 @@
+{
+ "id": "P436",
+ "explanation": "Closing delimiter of an inline math expression in reasoning text ('$', '}$', ')$', '$.'), and more weakly the period ending a short statement ('No.', 'Yes.'). Two strong web excerpts (word endings 'balustrades', 'hoods') and moderate 'Ratio', 'and' do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

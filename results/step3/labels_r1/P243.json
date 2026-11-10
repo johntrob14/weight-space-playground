@@ -1,0 +1,9 @@
+{
+ "id": "P243",
+ "explanation": "Fires on tokens inside passages where the model re-quotes the problem statement (or earlier written steps) verbatim in its reasoning, usually within quotation marks. Moderate excerpts are other positions in checking/'Wait' lines and quoted figure code.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": true
+}

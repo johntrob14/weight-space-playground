@@ -1,0 +1,9 @@
+{
+ "id": "P038",
+ "explanation": "Web text making general or statistical statements about people and populations (health prevalence, well-being rankings, 'average adult', '% of the general population', WEIRD samples, society and trust); it fires on function words or word pieces inside such phrases rather than on a fixed token. A couple of math tokens are unexplained.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

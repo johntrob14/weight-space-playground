@@ -1,0 +1,9 @@
+{
+ "id": "P368",
+ "explanation": "Words in phrases stating the amount or level of something, especially nutritional content: 'high [in] Omega 3', 'low [in] calories', 'low-fat', 'increase [in] area', 'reduces the amount [of]', 'small [constant] overhead', 'Most of the fiber [and]'. Moderate excerpts drift to food ingredient lists and unrelated tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

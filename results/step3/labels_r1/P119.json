@@ -1,0 +1,9 @@
+{
+ "id": "P119",
+ "explanation": "Fires on the modifier or function word immediately before a noun naming a procedure or action, mostly in math solution text: 'Step-by-[Step] Calculation/Solution/conversion', 'algebra[ic] manipulation', 'Perform [the] addition', 'my [manual] expansion/calculation', 'after [the] rotation'; a related variant is 'available [for] delivery/pre-order'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

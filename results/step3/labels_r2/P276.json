@@ -1,0 +1,9 @@
+{
+ "id": "P276",
+ "explanation": "Fires in math reasoning on the 'to'/'be' of the double-checking phrase 'just to be absolutely sure' (and 'to ensure clarity', 'let's be precise'), with weaker activation on other verification or re-approach phrases ('let's try to verify', 'a simpler way').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

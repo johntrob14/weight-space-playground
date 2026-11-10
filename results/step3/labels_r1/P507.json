@@ -1,0 +1,9 @@
+{
+ "id": "P507",
+ "explanation": "The end-of-line boundary (period, closing-quote-plus-period, newline or indentation) right after a line that raises a term or question whose definition or explanation comes next: 'double-check the definition of \"intercept[[\".]]', \"Let's check definitions[[.]]\", 'What is a broken hip?[[\\n]]', 'Just What Is a Sales Channel?[[\\n]]', '**Recall Properties of Parallelograms:**\\n'. Weaker on other bullet-ending punctuation in reasoning.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

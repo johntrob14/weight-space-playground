@@ -1,0 +1,9 @@
+{
+ "id": "P408",
+ "explanation": "Fires on a single symbol or short identifier that is being named or referred to, right after its opener: the variable in 'coefficient of $x$', '$t$ coeff', 'Old $P =', '$1$ comes from', and similarly model identifiers (XT System, iPhone 6).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P461",
+ "explanation": "Fires at the end of the left-hand side of an equation set equal to zero in math reasoning: usually the ' =' in '... = 0', otherwise the final term or the space just before the 0.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

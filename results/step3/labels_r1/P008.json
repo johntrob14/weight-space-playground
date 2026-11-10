@@ -1,0 +1,9 @@
+{
+ "id": "P008",
+ "explanation": "Fires on the last token of a short math or quoted span just before its closing delimiter: usually the final digit of a number before '$' or '.' ('A+C=18[[0]]$', '= [[0]]$', 'y = -0.[[5]]$'), also 'cycle' before a closing backtick, a label letter before '$', and 'Telepathy' before a closing quote. Web-text moderates (' years', '11th') fit only loosely as phrase-final tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

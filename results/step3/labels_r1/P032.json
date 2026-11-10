@@ -1,0 +1,9 @@
+{
+ "id": "P032",
+ "explanation": "In math working, fires on the token just before a computed numeric result is written (the space/'=' ahead of a product or sum such as '= 16/3', '= 12', '- 24'), i.e. the position where an arithmetic result, often a small multiple of 4, is about to appear. One RGB-colour list excerpt does not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

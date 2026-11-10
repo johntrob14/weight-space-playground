@@ -1,0 +1,9 @@
+{
+ "id": "P455",
+ "explanation": "No describable trigger: punctuation, newlines and function words in unrelated web and math text. A minority occur at the second member of a parallel construction ('Original has ..., expanded has', 'Alabama head football coach ... Notre Dame head football coach', 'higher than that is the'), but this does not cover most excerpts.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

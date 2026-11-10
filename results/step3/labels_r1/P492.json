@@ -1,0 +1,9 @@
+{
+ "id": "P492",
+ "explanation": "European/UK regulatory, legal and tax-policy text (REACH/ECHA regulation, EU directives, 'in accordance with national legislation', UK Regulations, tax rates and tax changes). The marked token varies (function words, 'Regulations', 'rate', 'changes'), so the trigger is the topic/register rather than a specific word.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P150",
+ "explanation": "In math working, fires at the slot immediately before (or at the start of) a concrete numeric value that follows a relation or \"is\": the space after =, \\ge, \\le, \\times or \\approx, the \"=\" in \"r=3\", and the \"0\"/\".\" at the start of a decimal such as \"0.8\".",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P238",
+ "explanation": "No clear trigger: marked tokens are continuation pieces of proper names (Ma-ureen, Wallace, Sh-reve-port, al-Assad), odd word fragments ('urs', 'ile', ' Dam', ' aberr'), ' upon', ' ~/', and unrelated tokens at lower activation.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P268",
+ "explanation": "Loosely, statement-final boundary tokens: closing quotation punctuation before an attribution or continuation ('.\u201d', ',\u201d said', ',\" Backes said'), '$.' ending a stated relation, line breaks after a clause. Several strong excerpts (inside '\\deg(f) + 1 =', 'the text says', 'Substitute') do not fit.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

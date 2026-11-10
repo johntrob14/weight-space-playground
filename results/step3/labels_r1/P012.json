@@ -1,0 +1,9 @@
+{
+ "id": "P012",
+ "explanation": "In math reasoning, fires on the \"'s\" of \"Let's\" (and weakly on 'Let', 'let', 'just', 'to') where the model announces its next step ('Let's analyze', 'Let's re-read carefully', 'Let's check'). Offshoots are numbered step headers ('2.  **Recall definitions', 'Step 2:'), which also open a new step.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

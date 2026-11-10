@@ -1,0 +1,9 @@
+{
+ "id": "P018",
+ "explanation": "No describable trigger. Excerpts include name fragments ('j[[ess]]ica', '[[FS]]U'), the fragment 'tens' (tensile, Tensilica), the backslash of '\\implies', '=' in a fraction equation, a closing parenthesis and words like ' us' and ' master'; nothing ties them together.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

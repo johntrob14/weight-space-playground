@@ -1,0 +1,9 @@
+{
+ "id": "P003",
+ "explanation": "Responds to the word 'practice' and its relatives: fragments inside or starting 'practice/practical/practicum/practising' (' pract', 'pr', 'RACT', 'act') and the token immediately before 'practice' in set phrases ('theory and practice', 'best practices'). Weaker offshoots are other 'pr-' word starts (PRAY, Pr\u00e1dena, misspelled 'prouct') and 'theory, not a ...'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

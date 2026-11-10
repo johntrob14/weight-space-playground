@@ -1,0 +1,9 @@
+{
+ "id": "P275",
+ "explanation": "No clear trigger. Scattered tokens in math reasoning and web text; a few are copula/predicate positions ('BOTH are positive', 'a, b are vertical asymptotes', '[are] music') but most (subscript 1, 'concealed', '<', 'Im', 'choose') are unrelated.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

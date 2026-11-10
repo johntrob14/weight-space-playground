@@ -1,0 +1,9 @@
+{
+ "id": "P157",
+ "explanation": "Fires on fruit words and fruit-word fragments: apple, peach, passion[fruit], mul[berry], cran[berry], orange, fruit(s), including in compounds and names (apple pie, Apple Cider Vinegar, Peach Capital, fruit flies); one moderate hit on \"Maple\" Syrup.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

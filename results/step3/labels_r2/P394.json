@@ -1,0 +1,9 @@
+{
+ "id": "P394",
+ "explanation": "In math reasoning, fires on varied tokens inside text that restates earlier text: re-quoted problem sentences, 'Wait, ...' lines repeating a previous statement, and recurring phrases (Asymptote code, 'If I face North, and'). The marked token itself varies (digits, word pieces, punctuation).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P416",
+ "explanation": "Fires in phrases about spending time on an activity: the tokens 'spend/spent' and the time-span noun that follows ('hours', 'afternoon', 'a day'), plus nearby leisure-time phrasing ('after school and on the weekends', 'the day off to', 'in my spare time, I').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

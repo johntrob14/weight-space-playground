@@ -1,0 +1,9 @@
+{
+ "id": "P235",
+ "explanation": "Fires on a content word that repeats a word used a few tokens earlier in the same passage (jewelry ... jewelry, tissue ... tissue, Customer Service ... Customer, North Shore ... North Shore, Guy Fawkes ... Guy, Flash ... Flash, double-tap ... double). Moderate excerpts mostly do not show this.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P391",
+ "explanation": "Mixture: in math reasoning it fires on the token just before or inside a freshly computed numeric result ('=' before the value, a digit inside a sum); in web text it fires on search/conceal words ('searching for', 'hiding') and 'flag'. No evident link between the two.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

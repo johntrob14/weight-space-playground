@@ -1,0 +1,9 @@
+{
+ "id": "P402",
+ "explanation": "In math reasoning, fires on tokens near the end of a formula that is being copied verbatim from the problem statement or from an earlier line (inside quotes or backticks, after 'the user wrote', 'Prompt:', 'the code draws', or re-stated after 'Wait,').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

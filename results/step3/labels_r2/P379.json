@@ -1,0 +1,9 @@
+{
+ "id": "P379",
+ "explanation": "The word 'all' in idiomatic adverbial uses: 'you're all set', 'all about', 'all around us', 'All over the planet', 'All in all', 'all importantly'. Three strong excerpts and most moderate ones are unrelated tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

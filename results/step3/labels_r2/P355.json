@@ -1,0 +1,9 @@
+{
+ "id": "P355",
+ "explanation": "Commas separating items in enumerations that run in alphabetical order (US states, countries, state abbreviations, sets of letters such as {B, G, O, R, V}), and separately the token ' Hob' in Hoboken/Hobbit.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

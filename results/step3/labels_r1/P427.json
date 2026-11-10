@@ -1,0 +1,9 @@
+{
+ "id": "P427",
+ "explanation": "Fires on a token inside a phrase that repeats text given earlier: a restated name ('Toyota Rent A Car', 'TheLocalVoice.net', 'MP3tag'), a quoted problem sentence ('Two treeks and one goolee are equal'), or a re-written expression in math reasoning (1+2+3-9+6, 2\\cdot 3\\cdot 4, sqrt3 + sqrt6). Three strong excerpts (DJ-friendly, Booksellers Association, a hex colour) cannot be confirmed as repeats from the visible context.",
+ "category": "one_job",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

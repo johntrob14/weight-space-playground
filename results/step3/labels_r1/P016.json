@@ -1,0 +1,9 @@
+{
+ "id": "P016",
+ "explanation": "Fires in drug and pharmacology contexts, usually on a token inside or just before a drug or drug-action term: 'In[[hib]]itor', '([[inf]]liximab', 'ib[[upro]]fen', 'trip-[[kill]]ers', 'drugs designed[[ to]] help smokers stop', 'Ambien[[ and]]', 'free[[ radical]] quencher', '[[ drug]] lord'. A few excerpts are unrelated name fragments (Hefner, Chun Kuk Do).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

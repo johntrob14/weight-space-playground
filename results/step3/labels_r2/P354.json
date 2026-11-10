@@ -1,0 +1,9 @@
+{
+ "id": "P354",
+ "explanation": "Mixture: the decimal point or space right after '\\approx 0' / '=' when a numeric result is being written, the words 'optional'/'optical', and assorted unrelated function words and nouns in web text.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

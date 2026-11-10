@@ -1,0 +1,9 @@
+{
+ "id": "P193",
+ "explanation": "Fires on the token (operator such as + or -, a digit, coefficient or function name) immediately before a negative quantity, almost always a parenthesised negative like '(-2)' and occasionally '/ -4', in arithmetic within math reasoning.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

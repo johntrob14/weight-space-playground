@@ -1,0 +1,9 @@
+{
+ "id": "P058",
+ "explanation": "The 'let' / \"'s\" of \"Let's\" (or 'Let me') when the reasoning turns to re-check its work: 'Wait, let's check', \"Let's double check\", \"Let's look at the wording\", \"Let's pause and think\". One place-name list excerpt does not fit.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

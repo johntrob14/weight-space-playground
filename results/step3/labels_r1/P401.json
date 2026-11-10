@@ -1,0 +1,9 @@
+{
+ "id": "P401",
+ "explanation": "Most strong hits are on 'open' or inside words beginning with O (O|reg|ano, Olive Garden, O|zz|ie, Oatmeal), but others are a line-initial capital 'S' starting a title and unrelated words; moderate examples show no shared trigger.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P441",
+ "explanation": "The token just before a verb expressing an action to be taken, mostly infinitival 'to' or a verb after a modal/purpose phrase ('in order to get', 'logged in to comment', 'when to contact', 'way to set', 'will you go', 'We want to check', 'obligated to go'). Several excerpts do not fit: '(' before a Japanese gloss, a digit, LaTeX delimiters, a Vietnamese word.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

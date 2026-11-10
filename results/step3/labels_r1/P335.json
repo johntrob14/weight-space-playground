@@ -1,0 +1,9 @@
+{
+ "id": "P335",
+ "explanation": "The first token of the head noun or name that follows a quantifier or determiner ('how many OSC|ars', 'these Toyota Si|enna', 'two Tre|os', 'three U.S.', 'how many such paralle|lograms', 'some Anna Nicole', 'All Kle|pper'), usually a rare multi-token word; 'with broken hips' / 'other big guys' are looser cases.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

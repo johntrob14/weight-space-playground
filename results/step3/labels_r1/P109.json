@@ -1,0 +1,9 @@
+{
+ "id": "P109",
+ "explanation": "Fires on the function word or number that starts or sits inside a fixed idiomatic phrase, most often a duration expression: 'even [a] decade ago', 'for [a] while', 'for [a] long time', '[5]0 years ago', 'for [some] time to come', also '[to] no end', 'to [a] large extent', 'on [the] other hand', 'mistake [on] our part', 'best [interests] at heart'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

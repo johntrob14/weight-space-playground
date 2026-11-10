@@ -1,0 +1,9 @@
+{
+ "id": "P440",
+ "explanation": "Mixture: in math reasoning, the opening '$' of an expression right after a noun naming it ('polynomial $P(x)', 'circle $Ax^2', 'expression $E', 'curve $x'); in other text, a digit or token beginning a number or name ('1[8]93', '[9]5%', '[6]6%', '(' before SSRN), plus unrelated words ('long', 'pl' in plumper, 'doing').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

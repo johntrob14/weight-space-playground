@@ -1,0 +1,9 @@
+{
+ "id": "P280",
+ "explanation": "No single trigger. A weak tendency toward '=' or an opening quote/parenthesis right before a value is given ('rt = rotor', 'Name = \"Pete\"', '= (wz - 1', 'Text says: \"'), mixed with newlines, 'OF', a URL fragment and other math tokens.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

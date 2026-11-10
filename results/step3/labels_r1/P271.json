@@ -1,0 +1,9 @@
+{
+ "id": "P271",
+ "explanation": "Fires at the start of a numeric quantity: the space, '$', '=' or first digit that begins a price, count or size, especially the second number of a range or pair ('20 to 50', '10-100', '$25.00 - $60.00', '16\" x 8\"', 'Reviews: 315').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

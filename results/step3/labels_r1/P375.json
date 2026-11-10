@@ -1,0 +1,9 @@
+{
+ "id": "P375",
+ "explanation": "Points where the model's reasoning quotes or restates wording from the problem statement or code: the opening quote mark or backtick ('Then [\"]redistribute', 'The code says [`]return'), or a token inside the restated text (a comma in the restated colour list, the closing '$' of a quoted formula). A few web-text excerpts (' of' in 'one count of', ' given') and the moderate excerpts do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": true
+}

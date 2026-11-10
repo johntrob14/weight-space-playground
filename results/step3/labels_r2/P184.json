@@ -1,0 +1,9 @@
+{
+ "id": "P184",
+ "explanation": "Fires on the digits (usually the leading digit, or the decimal point) of a numeric result being written out immediately after '=' or '\\approx' in an arithmetic computation, e.g. '417 \\times 3 = [1]251', '\\sqrt{617} \\approx [2]4.8'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

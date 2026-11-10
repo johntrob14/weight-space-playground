@@ -1,0 +1,9 @@
+{
+ "id": "P317",
+ "explanation": "A pause point inside a sentence of informal, often first-person web prose, right before the sentence carries on with a further clause: mostly a comma ('however, that', 'my family, to focus'), sometimes a pronoun or adverb before 'that' or a continuation ('acknowledged to me that', 'and also in part'). The moderate excerpts fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

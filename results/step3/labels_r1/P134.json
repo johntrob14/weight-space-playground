@@ -1,0 +1,9 @@
+{
+ "id": "P134",
+ "explanation": "Fires in text about physical forces and fields (electromagnetic, magnetic, electric, gravity, voltage, radiation), typically on the word just before or beginning the field/force term: \"apply [a] voltage\", \"applying [an] external magnetic field\", \"[electromagnetic] pollution\", \"reacting [to] gravity's pull\", \"the earth['s] vibrational field\".",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

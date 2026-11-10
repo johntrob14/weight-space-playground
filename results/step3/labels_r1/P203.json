@@ -1,0 +1,9 @@
+{
+ "id": "P203",
+ "explanation": "Fires on the stem that follows a prefix or first element of a compound, mostly in verbs: co-host, day-dream, jump-start, mis-interpre(ting), Re-establish, re-develop, v\u00e9r-ifie(z), mis-print; also on whole verbs such as 'prolong', 'instruct', 'Cancel'. A few excerpts (Sexual Assault, Attorney General, \\infty) are second pieces of fixed multi-token terms.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

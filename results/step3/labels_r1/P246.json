@@ -1,0 +1,9 @@
+{
+ "id": "P246",
+ "explanation": "Mainly fires on ' for' following 'Thanks' / 'Thank you' (and weakly 'badge for'). Separately fires on ' depend'/' depends' before 'on', and on a few unrelated math tokens (space before a product result, ' $', '^').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

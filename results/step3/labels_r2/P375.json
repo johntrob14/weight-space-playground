@@ -1,0 +1,9 @@
+{
+ "id": "P375",
+ "explanation": "Tokens at or inside text that is being quoted or recited back from the problem statement or code (opening quote marks, backtick after 'The code says', a comma inside a re-listed set, '$' ending a quoted formula), plus formulaic repeated phrasing such as 'one count of ... one count of'. Several excerpts (a number, 'given', moderate web text) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": true
+}

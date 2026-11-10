@@ -1,0 +1,9 @@
+{
+ "id": "P132",
+ "explanation": "Marked tokens are mostly short function words (of, for, all, each, without, if, existing, many) sitting just before a noun phrase that picks out a set or instance of things (\"for all polynomials\", \"of those employees\", \"without fins\", \"each p_i\"), but the set of tokens and contexts is too loose to state a single trigger.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

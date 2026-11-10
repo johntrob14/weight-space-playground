@@ -1,0 +1,9 @@
+{
+ "id": "P262",
+ "explanation": "Fires on the comma or conjunction at the point where an alternative option or next instruction is about to be given ('Alternatively,', ', or', ', but', 'if you don't have paprika,'), and more weakly at the end of a statement before a follow-on step ('$4 = 2^2$.' then rewrite/substitute; sentence-final periods).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

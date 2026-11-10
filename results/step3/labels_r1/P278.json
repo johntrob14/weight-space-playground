@@ -1,0 +1,9 @@
+{
+ "id": "P278",
+ "explanation": "In math reasoning, fires on the last token of an operand in a short symbolic relation that is being stated as a condition or fact ('$|A| = B$ implies', 'If $V = A$, then', '$g(x) = g(-x)$', '$B - A = D - C$'), typically a variable, closing brace or parenthesis just before the relation sign or closing '$'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

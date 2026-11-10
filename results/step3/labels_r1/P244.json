@@ -1,0 +1,9 @@
+{
+ "id": "P244",
+ "explanation": "Fires on the last token of the second member of a paired or parallel construction ('above water to below water', 'innocence and apprehension', 'keys or umbrellas', 'references or analogies', 'sqrt{ab+a} over sqrt{ab-b}', 'Japan, and Australia'). A few excerpts (tailpipes, cross collaboration) fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

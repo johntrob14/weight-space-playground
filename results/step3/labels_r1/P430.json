@@ -1,0 +1,9 @@
+{
+ "id": "P430",
+ "explanation": "Two unrelated triggers: the token 'cl'/'Cl' starting a word (clams, ClamAV, Clans, Clint, twin-clutch), and tokens in small-fraction arithmetic in math reasoning (digits and slashes of 1/8, 1/16, 3/4, '10!/8').",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

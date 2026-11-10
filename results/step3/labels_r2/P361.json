@@ -1,0 +1,9 @@
+{
+ "id": "P361",
+ "explanation": "A noun or adjective acting as the type-specifying modifier in a compound noun phrase, with the head noun still to come: 'property tax breaks', 'Camera Features', 'Card Highlighting', 'Appliance purchase', 'equestrian operation', 'REAL ESTATE SEARCH', 'Dairy Processor Grant', 'block cheese price', 'student activism'.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

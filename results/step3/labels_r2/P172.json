@@ -1,0 +1,9 @@
+{
+ "id": "P172",
+ "explanation": "In math reasoning, fires on the token that opens a new math value or expression after a preceding item, most often the opening ' $' following a comma, period or label ('Test $(2,3)$.[ $]2+3', 'Root 2:[ $]-2/6'), and also the first digit or sign of a value after an operator. A few hits (' book', a period, a newline) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

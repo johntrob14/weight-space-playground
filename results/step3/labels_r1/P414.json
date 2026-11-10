@@ -1,0 +1,9 @@
+{
+ "id": "P414",
+ "explanation": "Math-reasoning tokens with two loosely separate triggers: the start of the second operand in a difference or pair inside parentheses (vector components '(4 - 0', gcd arguments, 'x_2' after 'x_1'), and ' the' in re-quoted fixed phrases ('turn to the right', 'What is the distance', 'volume and surface area').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

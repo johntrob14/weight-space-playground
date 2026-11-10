@@ -1,0 +1,9 @@
+{
+ "id": "P207",
+ "explanation": "Several unrelated triggers: a capital ' Q' token starting a name or model number (Q6600, Quesada, Qiang); plus/minus operators between polynomial terms in expansions; and positional verbs used figuratively ('falls into', 'sits somewhere', 'stands out'). Other tokens (phy-ton-utrients, 'Cost', 'self', 'mining') fit none of these.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

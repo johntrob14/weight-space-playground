@@ -1,0 +1,9 @@
+{
+ "id": "P366",
+ "explanation": "The subject (or its verb) of a short clause that asserts or denies existence or occurrence after a conjunction such as if/or/but/since: mostly existential ' there' in 'if there is', 'OR there isn't', 'if indeed there was', plus 'but [I] don't', 'Sure [he] did', 'since she [took] one'. Some moderate excerpts are the second half of a 'one ... and one ...' pairing.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P210",
+ "explanation": "Fires on a letter token 'd'/'D' (with or without a leading space, hyphen or quote) that begins a longer word or name: d-astardly, -d-emon, D-oubt, d-ive, D-inner, -d-istribution, d-iesel, D-inesh, D-ale. The moderate excerpts are unrelated web tokens and do not show this trigger.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

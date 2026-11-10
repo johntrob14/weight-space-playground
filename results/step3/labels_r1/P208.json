@@ -1,0 +1,9 @@
+{
+ "id": "P208",
+ "explanation": "Two different triggers: the instruction verb (and the 'the' right after it) that opens a step in a worked math solution ('Calculate', 'Using', 'Use', 'Perform', 'Performing the', 'Analyze the'), and in web text a determiner or adjective introducing a noun phrase ('different', 'a particular', 'called a', 'under a').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

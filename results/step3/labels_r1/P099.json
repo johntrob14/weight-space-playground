@@ -1,0 +1,9 @@
+{
+ "id": "P099",
+ "explanation": "Fires on the token 'bi'/'Bi' as a word-initial prefix, both hyphenated (bi-annual, bi-weekly, bi-lingual, Bi-Metal) and in bio- words (biologists, biodegradable, biotech), with close look-alikes such as 'Bip(olar)'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

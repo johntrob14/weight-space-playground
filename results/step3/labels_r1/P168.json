@@ -1,0 +1,9 @@
+{
+ "id": "P168",
+ "explanation": "Fires on the last token of an introductory conditioning phrase just before its closing comma: most strongly the assigned value in math clauses like 'for $a=4, b=2$,', 'at $x=0$,', 'as $x \\to \\infty$,', and more weakly ordinary discourse openers such as 'In fact,', 'Since then,', 'So yes,', 'Here'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

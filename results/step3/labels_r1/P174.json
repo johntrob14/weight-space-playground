@@ -1,0 +1,9 @@
+{
+ "id": "P174",
+ "explanation": "Distinct triggers: the token '-h'/'-H' joining a hyphenated compound whose second part starts with h (much-hyped, now-historic, Go-to-Hell, pinch-hitting), and the phrase 'Something is (definitely) wrong' in math reasoning; remaining excerpts (' of', ' decades', '\\left', digits) are unrelated.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

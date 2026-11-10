@@ -1,0 +1,9 @@
+{
+ "id": "P411",
+ "explanation": "No clear trigger. A few hits are the object pronoun ' it' ('Got it back', 'directed it to be abandoned', 'bring it into'), but the rest are unrelated digits, nouns and conjunctions.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

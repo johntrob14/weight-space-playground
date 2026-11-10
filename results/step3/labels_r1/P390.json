@@ -1,0 +1,9 @@
+{
+ "id": "P390",
+ "explanation": "Fires in technical text about radiation, detectors, medical imaging and therapy (brachytherapy dose, x-rays, count rates, CT detectors), on modifiers and function words just before a technical noun. Weaker activations are in other medical/dental/bioanalysis text.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

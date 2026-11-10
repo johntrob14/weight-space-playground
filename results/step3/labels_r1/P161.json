@@ -1,0 +1,9 @@
+{
+ "id": "P161",
+ "explanation": "Most consistent strong trigger is a mid-word subword fragment of a proper name or brand, often containing b/u sounds (H-obb, D-ub-ai, Hub-spot, A-BB-Y, T-udy, Marg-ie); the remaining strong excerpts (complete, fright, in, a paragraph break) and all moderate ones (digits after $, most, bottom, ')') do not share this or any other single trigger.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

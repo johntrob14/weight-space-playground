@@ -1,0 +1,9 @@
+{
+ "id": "P180",
+ "explanation": "Fires on a quantity word or number that specifies an amount of something, typically before a unit or 'of': 'a [small] amount', 'dry for [one] hour', 'a [number] of layers', 'a [century] of', '[couple] of weeks', '[scores] of pages', 'up to [2] days'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P389",
+ "explanation": "Two unrelated triggers: the division slash '/' in fractions or divisions (1/4, 729 / 9, 8/10), and function words in fixed idioms such as 'when it comes to' and 'at risk'. Moderate examples are scattered math tokens that fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

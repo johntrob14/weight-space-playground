@@ -1,0 +1,9 @@
+{
+ "id": "P372",
+ "explanation": "Two unrelated triggers: the middle word of a fixed paired idiom, chiefly ' and' in 'tried and true/tested' (also 'first come, [first]-served', 'plug [and] play', 'step by [step]'), and the word 'Here' opening the model's reasoning right after the <think> tag.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P088",
+ "explanation": "No single trigger: line-initial indentation, bullet and minus tokens in math reasoning, and capitalised word-start fragments in web text ('Wh', 'Sym', 'Ey', 'AST'). Moderate activations are on spaces or hyphens before numbers and on pronouns.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

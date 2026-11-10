@@ -1,0 +1,9 @@
+{
+ "id": "P342",
+ "explanation": "The connective or separator joining two parallel items when the second repeats the form of the first: 'and' / 'And' / 'then' / 'while' between parallel phrases ('one foot from the ceiling and one foot from', 'saddle covers and saddle bags', equation 'and' equation), plus the 'of' or ');' at the matching point of a repeated line. Moderate excerpts are weaker and mostly formula-internal tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P360",
+ "explanation": "Tokens inside an algebraic expression in math reasoning while an equation is being written out term by term, especially when values are being substituted into it or the original equation is being re-checked (closing parens after substituted values, coefficients, operators).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

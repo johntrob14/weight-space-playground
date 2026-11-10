@@ -1,0 +1,9 @@
+{
+ "id": "P378",
+ "explanation": "Mixture: the space token before a multi-digit number in math ('- [ ]176y', '= [ ]1125', '+ [ ]1152'), the '-s' token starting the second half of a hyphenated compound ('no-squeezing', 'teacher-scholar', 'dog-sitting'), and unrelated words (' Local', ' change', ' and').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

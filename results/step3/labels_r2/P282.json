@@ -1,0 +1,9 @@
+{
+ "id": "P282",
+ "explanation": "Fires where the text is continuing a parallel or repeated structure: the next item in repeated Asymptote calls ('label(\"$y$\", ...); label(\"$y$\", (' and 'dir(180)--dir(240)--dir(300'), repeated clauses ('there are no minor ... there are [no] minor', 'they wear well, they don't pill[,] they keep'), and recurring words (Personhood, Kier, 'S must be').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

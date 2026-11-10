@@ -1,0 +1,9 @@
+{
+ "id": "P224",
+ "explanation": "Mainly fires inside Bible verse references, on the colon between chapter and verse (and the space before the chapter number after a book name), with weaker firing on other number-internal separators (decimal point, digit inside a year). A separate set of excerpts are word-initial fragments such as ' hemat', ' hem', ' gel', ' Dan', unrelated to references.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

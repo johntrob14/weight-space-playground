@@ -1,0 +1,9 @@
+{
+ "id": "P024",
+ "explanation": "Mixture of unrelated triggers: the word ' something' ('I expected something different', 'looking for something easy'), ' rather' in 'rather than', the space or brace before a numeric result in arithmetic ('\\approx[[ ]]7.8', '\\sqrt[[{]]265'), and isolated tokens (' freedom', 'VT', ' process', ' design', 'erton').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

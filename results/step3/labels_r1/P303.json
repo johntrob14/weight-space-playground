@@ -1,0 +1,9 @@
+{
+ "id": "P303",
+ "explanation": "Short function words in non-English text (Danish 'af', 'alle'; Portuguese 'todo', 'e'; French 'dans'), and English quantifier or particle words of the same kind (' all', ' half', ' up' in 'Set up'). The shared thread is quantifiers meaning 'all' and prepositions; moderate excerpts are looser (' of', ' throughout', ' said').",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

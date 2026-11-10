@@ -1,0 +1,9 @@
+{
+ "id": "P383",
+ "explanation": "Two unrelated triggers: the stem ' wouldn' / ' couldn' before ''t' (also ' cannot'), and a hyphen, dash or plus joining numbers or a numeric prefix ('multi[-]tenant', '5[-]1/4', '7 [-] 13 kg', '360 [+] 36').",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

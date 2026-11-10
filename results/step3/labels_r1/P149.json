@@ -1,0 +1,9 @@
+{
+ "id": "P149",
+ "explanation": "Fires on the word \"time\"/\"Time\" (\"take the time to\", \"when the time is right\", \"it was time to\", \"Make time for\", \"One on One Time\", \"Time's Person of the Year\"), with one strong hit on the space before \"2 weeks\" (a duration). Moderate activations are mostly unrelated tokens, except \"part\" before \"-time\".",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

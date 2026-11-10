@@ -1,0 +1,9 @@
+{
+ "id": "P459",
+ "explanation": "Fires on parenthesis and punctuation tokens inside math expressions and Asymptote code, especially closing-parenthesis tokens fused with what follows (')(', '),', ')),', ')+', '}.'), and most strongly where spacing in the formula is irregular ('F_ 2=', 'A ,', '( x+ 1)(', '\\sin (').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

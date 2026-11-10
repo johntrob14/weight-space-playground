@@ -1,0 +1,9 @@
+{
+ "id": "P272",
+ "explanation": "Tends to fire on mid-phrase tokens inside text that is being quoted or restated: re-read problem statements in reasoning ('It cost the math club $15 to bake', 'where A, B, C, D are integers', 'written with only the digits'), a repeated title ('Beyond California:'), and a quoted word. Other excerpts (bullets, 'Or are you', 'View network') do not clearly fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": true
+}

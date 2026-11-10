@@ -1,0 +1,9 @@
+{
+ "id": "P435",
+ "explanation": "In math reasoning, the token naming the object under discussion right before something is asserted or asked about it: the closing '$' or symbol of a variable/point ('any solution $x$ must', 'Point $A$ is', 'values of $k$') or a plural object noun ('grid of points', 'real numbers', 'number of coins', 'equilateral triangles'); also 'must'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

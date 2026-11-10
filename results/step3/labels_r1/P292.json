@@ -1,0 +1,9 @@
+{
+ "id": "P292",
+ "explanation": "Several unrelated things: ' of' in the quoted phrase 'The combined weight of how many treeks', sentence-final punctuation after a math statement ('$.', '.') which dominates the moderate excerpts, and assorted web-text tokens (' with', ' on', ' category', ' Process', ' Data', a table separator).",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

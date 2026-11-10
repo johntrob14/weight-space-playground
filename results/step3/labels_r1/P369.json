@@ -1,0 +1,9 @@
+{
+ "id": "P369",
+ "explanation": "Two triggers: LaTeX operator command names after a backslash in math, chiefly 'to' in limits ('x \\[to] \\infty') plus '\\approx', '\\cdot', '\\sum'; and the word-piece ' sur' ('surging', 'surfer'). 'DEPENDS' and a few digits/spaces do not fit.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

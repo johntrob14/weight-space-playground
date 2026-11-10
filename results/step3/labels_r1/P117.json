@@ -1,0 +1,9 @@
+{
+ "id": "P117",
+ "explanation": "Fires on a reporting verb that follows a named speaker and introduces a quotation: 'X [comments]:', '[commented]', '[responded],', '[countered] that', '[replied],', 'ret[orted]', '[added],', '[continued]', '[reports]', '[writing] that'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

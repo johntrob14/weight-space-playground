@@ -1,0 +1,9 @@
+{
+ "id": "P410",
+ "explanation": "Fires in statements of ratios, fractions and proportions, on tokens around the word ratio/fraction or inside the ratio itself: 'ratio A : B : C', 'in ratio 2:1', 'the fraction was 2/3', 'cis/trans ratios from', 'ratio of good to bad', 'proportion ... has risen'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

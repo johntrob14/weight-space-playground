@@ -1,0 +1,9 @@
+{
+ "id": "P037",
+ "explanation": "The opening '$' math delimiter in model reasoning, especially when it begins an equation on a fresh indented line or follows prose ('So $s^2 =', 'within $[-1,'). One web-text excerpt (a sponsor name) does not fit.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

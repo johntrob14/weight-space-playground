@@ -1,0 +1,9 @@
+{
+ "id": "P165",
+ "explanation": "In math reasoning, fires on line-initial tokens of a new bullet/step (indentation whitespace, ' This' in 'This implies/means') and separately on ' think' in 'let me (pause and) think if there's any...'; a few other tokens ('quadr[ilateral]', \"it's [a] square\") do not fit either.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

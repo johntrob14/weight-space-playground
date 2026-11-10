@@ -1,0 +1,9 @@
+{
+ "id": "P082",
+ "explanation": "About half the strong examples are forms of the verb 'give' (give, gives, gave, given); the rest are unrelated nouns and verbs (thieves, price, number, million, contracted), and the moderate examples are unrelated math tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

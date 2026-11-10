@@ -1,0 +1,9 @@
+{
+ "id": "P347",
+ "explanation": "In math reasoning, the indentation whitespace that starts a new line right after a line stating an equation (typically '... = 0'), i.e. where the next solving step (Roots:, Factor:, x = ...) is about to begin. A few other tokens ('$' opening an equation, 'the', '\\ge') fire too, and the moderate excerpts are unrelated weak firings.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

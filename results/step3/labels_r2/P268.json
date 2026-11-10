@@ -1,0 +1,9 @@
+{
+ "id": "P268",
+ "explanation": "Mixture: punctuation that ends a quoted or reported statement in news text (closing quote marks, 'Calif.).', 'the text says'), and ends or key positions of relation statements in math reasoning ('deg(f) + 1', '$d+1', '... $.', 'Substitute').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

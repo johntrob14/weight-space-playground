@@ -1,0 +1,9 @@
+{
+ "id": "P111",
+ "explanation": "Strong activations are all on the token '-p' (or ' P') beginning the second part of a hyphenated compound: non-polyurethane, double-ply, hand-picked, hand-painted, gut-pumping. The moderate excerpts fall on unrelated ordinary words ('might', 'history', 'candidates', 'stored', 'presumably') with no shared pattern, so the token trigger does not account for the mid-range.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

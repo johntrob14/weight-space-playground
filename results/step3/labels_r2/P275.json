@@ -1,0 +1,9 @@
+{
+ "id": "P275",
+ "explanation": "No describable trigger: scattered tokens in math reasoning (subscript 1, '<', 'are', 'also', 'that', 'music') and web text ('concealed', 'Im') with no shared token, position or topic.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

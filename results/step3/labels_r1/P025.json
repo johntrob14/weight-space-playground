@@ -1,0 +1,9 @@
+{
+ "id": "P025",
+ "explanation": "Mixture: the divine name 'God'/'G-d' (3 excerpts), the verb ' walk'/' walked' (2), line breaks or indentation before a new line, especially before 'Wait,' in math reasoning (4, mostly moderate), and unrelated tokens (' way', 'lad', 'ep', ' taxes', ' years', ' Williams').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

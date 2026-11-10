@@ -1,0 +1,9 @@
+{
+ "id": "P045",
+ "explanation": "Mostly generic math-notation tokens in mid-expression that open the next term (a space or '-(' after an operator, '}{', '\\' before sqrt), with no specific operator or context, mixed with unrelated prose words ('non', 'suggests', 'undoubtedly', 'handle'). No describable single trigger.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

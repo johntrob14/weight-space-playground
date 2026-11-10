@@ -1,0 +1,9 @@
+{
+ "id": "P467",
+ "explanation": "Fires mainly on the adjective ' free' in promotional or offer contexts (free storage, free access, free lunch, free newsletters, free delivery). A few strong excerpts ('M' in an all-caps word, 'a great fit') and all moderate excerpts are unrelated.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

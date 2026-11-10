@@ -1,0 +1,9 @@
+{
+ "id": "P283",
+ "explanation": "Fires inside math expressions and diagram code at the token that starts or joins the next item in a patterned sequence: the next point definition or label call, the next term of an expanded polynomial ('+', '-'), '\\frac{' or '\\sqrt' in a templated answer form.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

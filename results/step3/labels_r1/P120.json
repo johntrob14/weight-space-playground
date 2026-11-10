@@ -1,0 +1,9 @@
+{
+ "id": "P120",
+ "explanation": "No clear trigger. Many strong excerpts are tokens inside all-caps or title-case names in spammy or list-like text (VIDEOS.COM, ASAIN THAILAND, APCON, Constable Recruitment, Congressional District, Big Game), but others are math tokens, a period, 'very', and gibberish fragments.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P409",
+ "explanation": "Fires on the token immediately before the word 'no' in negative-quantity phrases: 'little or no', 'few or no', 'accepts no liability', 'there is/are no', 'makes no sense'. Weaker on similar slots before 'zero' or an empty-ish set.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

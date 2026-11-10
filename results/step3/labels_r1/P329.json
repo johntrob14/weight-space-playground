@@ -1,0 +1,9 @@
+{
+ "id": "P329",
+ "explanation": "Specific word-initial sub-word fragments: 'acet'/'Ac'(et) in chemical names (acetone, acetate, acetaminophen), 'Hel' at the start of surnames (Helbig, Helu, Helmut), and 'Stere' in stereo- words; also 'Post Hoc', a drug-name fragment, 'hem', and a decimal digit. These are distinct token identities without a shared meaning.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

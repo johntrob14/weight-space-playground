@@ -1,0 +1,9 @@
+{
+ "id": "P503",
+ "explanation": "The token immediately before a '/' or path boundary in a URL or file path, typically the domain suffix or a path segment ('twitter[[.com]]/', 'bit[[.ly]]/', '/about[[-us]]/', '/var[[/tmp]]', 'Open[[Wrap]]/'), and by extension domain suffixes at the end of a URL and the word before a slash in 'height/length' or a ratio.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

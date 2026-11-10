@@ -1,0 +1,9 @@
+{
+ "id": "P106",
+ "explanation": "Loosely, fires on the token immediately before a number or the next term of a formula or enumeration is written: the space after '=' before a result, '$' opening an expression, '+' between polynomial terms, a space before a numeral ('to 4 weeks', 'than 35 years'), and separators in citation/name lists. The pattern is diffuse and several excerpts ('may', 'didn') do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

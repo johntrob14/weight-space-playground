@@ -1,0 +1,9 @@
+{
+ "id": "P258",
+ "explanation": "Fires on a word-initial token spelled 'cr'/'cre'/'cro' (any case; once 'Kr'), i.e. the first piece of a word beginning with the /kr/ cluster such as cramps, cranes, crevices, Crystals, crocodile.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P326",
+ "explanation": "The first sub-word fragment of a multi-token verb, usually Latinate, before its suffix is completed: preced|e, outper|forms, disqual|ify, incentiv|izing, persu|ading, perme|ated, encaps|ulates, encompass|es. Weaker firings on similar split stems (adm|iring, herald|ed, re-e|valuate, \\per|p).",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

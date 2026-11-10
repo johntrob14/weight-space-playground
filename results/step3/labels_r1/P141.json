@@ -1,0 +1,9 @@
+{
+ "id": "P141",
+ "explanation": "Fires on the comma, \"and\", or \"but\" that joins descriptive adjectives or parallel descriptive items (\"well researched[,] independent and unbiased\", \"huge [and] costly\", \"poorly organized [but] information-rich\", \"soft [and] supple\"), and relatedly on the copula/article opening a description or definition (\"is essentially [a] projector\", \"GLFW[:] A binding\", \"stored procedures [are]\").",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P395",
+ "explanation": "Fires on tokens inside ALL-CAPS text (headlines, warnings, spaced-out capital letters), typically a mid-word or following-word piece. Weaker related cases are other unusual word joins: a hard line-wrap newline in mid-sentence and hyphen/slash compounds (semi-coerced, Sociopaths/Psychopaths).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

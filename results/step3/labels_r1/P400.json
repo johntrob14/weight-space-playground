@@ -1,0 +1,9 @@
+{
+ "id": "P400",
+ "explanation": "Fires on the subject (or the word right after it) of a clause about things fitting or working out as a whole: 'all the pieces fell into place', 'how the pieces fit together', 'it all came together', 'check if the numbers add up / match'. Weaker on 'it all' + seems/feels.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

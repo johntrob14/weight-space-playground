@@ -1,0 +1,9 @@
+{
+ "id": "P182",
+ "explanation": "Two unrelated triggers: the dollar sign ' $' introducing a money amount in web text ('put [$]25K', 'a [$]5,000'), and closing quotation punctuation at the end of quoted speech ('!\"', '?”', ',\"'). Moderate excerpts fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

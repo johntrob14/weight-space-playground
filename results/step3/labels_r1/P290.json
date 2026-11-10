@@ -1,0 +1,9 @@
+{
+ "id": "P290",
+ "explanation": "The modifier or determiner directly before a noun that names a class, tier or sector: 'this category', 'many different levels', 'bzip2 formats', 'more affordable side of the spectrum', 'B2B) space', 'this arena', 'right direction', 'other ... verticals'. Strongest on 'this' in 'fall into this category'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

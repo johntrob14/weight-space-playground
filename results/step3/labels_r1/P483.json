@@ -1,0 +1,9 @@
+{
+ "id": "P483",
+ "explanation": "Two unrelated triggers: (1) operator or connective tokens in the middle of arithmetic/algebra directly after a number or base (exponent '^' and '^{-', fraction '/' and '}{', the space before a computed result); (2) first-person pronouns ' me'/' I' in opinion prose ('All it tells me', 'things I find').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

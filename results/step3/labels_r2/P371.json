@@ -1,0 +1,9 @@
+{
+ "id": "P371",
+ "explanation": "Two unrelated triggers: the word ' International' beginning an organisation name (International Olympic Committee, International Space Station, International Lions Club), and the opening '$(' of a coordinate pair in math reasoning, with a couple of other math tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

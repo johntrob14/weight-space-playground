@@ -1,0 +1,9 @@
+{
+ "id": "P499",
+ "explanation": "Tokens inside a phrase that parallels or repeats a phrase written just before it, mostly in math reasoning: 'OA is part of the x-axis. ... OB is [[part of]] the x-axis', 'z^{2 \\times 42} + z^{-2 \\[[times]] 42}', 'tan(pi/2) is undefined. tan(3pi/2[[)$]] is undefined', '(2 + 0.4)([[2]] + 0.', a repeated set listing, a repeated 'Cohort Calendar (' line. A few excerpts show no visible repetition in the window.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

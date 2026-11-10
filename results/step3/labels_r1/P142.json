@@ -1,0 +1,9 @@
+{
+ "id": "P142",
+ "explanation": "Fires at the end of a mathematical statement in worked solutions: the closing \"$.\" or \"$$\" of an equation/result, or the newline / bullet indent immediately after it, where one step finishes and the next line begins.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

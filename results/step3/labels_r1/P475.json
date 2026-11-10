@@ -1,0 +1,9 @@
+{
+ "id": "P475",
+ "explanation": "Fires on a word-initial 's'/'S' token that is the first piece of a longer word split by the tokenizer, usually after a newline, quote, slash, hyphen or dash ('S'weets, '-s'omehow, '/s'oldiers, '\"s'ophisticated, 'S'itting, '/s'lush, '/S'anders).",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

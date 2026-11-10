@@ -1,0 +1,9 @@
+{
+ "id": "P026",
+ "explanation": "No describable trigger. Marked tokens are a scatter of verbs, determiners, punctuation and math delimiters (' want', ' the', ' draws', ':', '-', ' Climate', '$' after 'east of', '-digit', ' fit', ' is', ' account', ' smaller') across math reasoning and web text; only the two near-duplicate 'east of $O' excerpts share anything.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.2,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

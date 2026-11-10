@@ -1,0 +1,9 @@
+{
+ "id": "P181",
+ "explanation": "Fires on tokens in text about cloud computing and software infrastructure (EC2, GitOps vs K8S, decouple, cloud servers, Open Source / OpenVZ / OpenUp, stateful container storage, Linux), often on the product-name or term token itself. An unrelated minor trigger is 'look' in 'look forward to'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

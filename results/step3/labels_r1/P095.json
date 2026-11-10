@@ -1,0 +1,9 @@
+{
+ "id": "P095",
+ "explanation": "The final token of a quoted or restated expression or statement in math reasoning, immediately before the closing '$', quote or line end, often where the model is repeating the original problem expression or its own previous claim ('+99-1[0]0$', 'math books[\".]', '\\frac{2[}{]3}$').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

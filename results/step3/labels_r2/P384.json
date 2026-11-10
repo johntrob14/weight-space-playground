@@ -1,0 +1,9 @@
+{
+ "id": "P384",
+ "explanation": "Fires on the token just before a noun naming a relation between two things: the second term of 'X-to-Y ratio' (performance-to-cost, debt-income, buck-to-doe, employment-population) and the article/modifier before 'relationship/distinction/link/gap between' or 'hybrid of the two'. Weaker firing on other two-term compounds (small-size/big-performance, Human-ET).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

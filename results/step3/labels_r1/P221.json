@@ -1,0 +1,9 @@
+{
+ "id": "P221",
+ "explanation": "Fires in web text (tables, listings, dates, part numbers) on the token immediately before a number or within a numeric string: the space, '|', preposition ('in 1.', 'from 34', 'of 5-8') or abbreviation ('inc. 185') that precedes the digits. Weaker activations are similar pre-number positions in math reasoning lists.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

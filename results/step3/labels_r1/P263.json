@@ -1,0 +1,9 @@
+{
+ "id": "P263",
+ "explanation": "Math reasoning about parity: fires on the token just before the word 'odd' (or before the odd form 2m+1), in contexts like 'is an odd integer', 'the first N odd integers', 'y is odd implies y = 2m+1'. It appears to anticipate 'odd'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

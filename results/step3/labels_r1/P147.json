@@ -1,0 +1,9 @@
+{
+ "id": "P147",
+ "explanation": "Fires on verb-inflection suffix tokens in non-English text, chiefly Korean verb endings (구원[하고], 해방[시켜], [떠]났다) and weakly Hindi and German verb endings. Only the top one or two excerpts are strongly active; the remaining strong-list excerpts at about 10% (English copulas, digits) look like noise.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.5,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

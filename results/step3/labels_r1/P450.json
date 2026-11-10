@@ -1,0 +1,9 @@
+{
+ "id": "P450",
+ "explanation": "Two unrelated triggers: function/descriptive words in sentences defining or characterising religion, mythology and philosophy ('Religion is a set of beliefs', 'one of the oldest systems of Indian philosophy'), and the literal tokens ' out' and ' end' in unrelated contexts ('talent will out', 'end goal', 'outbursts').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

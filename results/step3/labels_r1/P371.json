@@ -1,0 +1,9 @@
+{
+ "id": "P371",
+ "explanation": "Two unrelated triggers: the word ' International' at the start of an organisation name (International Olympic Committee, Space Station, Lions Club, Choir), and ' $(' or closing parentheses opening/closing a coordinate tuple or bracketed expression in math reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

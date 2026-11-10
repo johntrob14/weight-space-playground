@@ -1,0 +1,9 @@
+{
+ "id": "P231",
+ "explanation": "No describable trigger: marked tokens include phone area-code digits, word fragments (' opt', 'infl', ' aut'), auxiliary verbs (' may', ' be', ' used'), commas and periods in unrelated web and math contexts.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

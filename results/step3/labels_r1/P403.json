@@ -1,0 +1,9 @@
+{
+ "id": "P403",
+ "explanation": "In math reasoning, fires on the token immediately before a fraction value is written, usually '=' (also '(-', '^{', '}') followed by something like 1/4, 5/12, 1/2, 3/2. A few hits and most moderate examples do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

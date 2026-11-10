@@ -1,0 +1,9 @@
+{
+ "id": "P422",
+ "explanation": "Two uses linked by 'log': the 'Sign'/'signing'/'in' tokens of account phrases ('Log in or Sign up', 'Sign In'), and tokens around logarithms in math ('\\ln', '\\log', exponent before \\ln); a couple of excerpts are numbers in decibel specifications (0.5 dB, 80dB).",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

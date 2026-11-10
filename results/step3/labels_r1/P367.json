@@ -1,0 +1,9 @@
+{
+ "id": "P367",
+ "explanation": "Tokens in math reasoning about trigonometric quantities, most often the position just before a value or expression is stated ('\\cos 81 \\approx[ ]0.15', '\\cos(90) [=] 0', 'the relation [$\\]sin x'). Token identity varies and several excerpts (base conversion, isolating x) are non-trig math steps.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P151",
+ "explanation": "Fires on a modifier in the slot between a determiner and a head noun naming a kind, range or domain: \"a [wide] colour palette\", \"their [wide]-ranging mixture\", \"a very specific [mathematical] expression\", \"a [specific] set\", \"a [certain] region\", \"a variety of [musical] styles\", \"the [jazz] idiom\", \"a [molecular] level\".",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

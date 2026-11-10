@@ -1,0 +1,9 @@
+{
+ "id": "P081",
+ "explanation": "An operand token (variable, digit or '(x') inside an algebraic expression, typically the one immediately before a '+' or other operator, most strongly when the expression is part of a quoted or re-read problem statement or code.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

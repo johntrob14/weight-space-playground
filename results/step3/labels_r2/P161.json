@@ -1,0 +1,9 @@
+{
+ "id": "P161",
+ "explanation": "No single trigger. About half the strong excerpts are word-pieces inside proper names (Hobb, Dubai, Margie, Hubspot, ABBY, Tudy), but the rest (' complete', ' fright', ' in', a paragraph break) and all moderate excerpts (digits, ' most', ' bottom', ')') share nothing with them.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

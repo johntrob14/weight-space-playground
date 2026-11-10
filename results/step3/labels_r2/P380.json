@@ -1,0 +1,9 @@
+{
+ "id": "P380",
+ "explanation": "The contraction token ('re / 's) attached to a subject pronoun or relative 'that' in web text, above all 'they're', also 'He's', 'who're', 'that's'. A degree sign and a colon are exceptions, and the moderate excerpts are unrelated punctuation/whitespace.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

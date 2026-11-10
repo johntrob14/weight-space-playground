@@ -1,0 +1,9 @@
+{
+ "id": "P170",
+ "explanation": "Fires on the token 'Sus' beginning a name (Susannah, Susie, Susanne, Susana, Susan, Sussex), with weaker activations on similar-sounding fragments ('sul' in sultry, 'SU' in SUZIE, 'ose', 'hos').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

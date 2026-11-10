@@ -1,0 +1,9 @@
+{
+ "id": "P423",
+ "explanation": "No describable trigger: commas inside a keyword list and in a dollar amount, 'go' in 'Way to go', 'deaths', 'Engineer', 'Excel', a digit, 'this', 'with', 'Devil', 'SVG', '\\cdot', 'paid'.",
+ "category": "no_coherent_pattern",
+ "confidence": "medium",
+ "cover_strong": 0.2,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P214",
+ "explanation": "Fires on the backslash that begins a LaTeX relation symbol directly after the left-hand side of a statement, overwhelmingly '\\equiv' in modular-arithmetic congruences ('k + 1 \\equiv 0'), and also '\\in' and '\\geq'. A few strong and most moderate excerpts are unrelated tokens (hyphenated word piece, 'no', 'such', newlines).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

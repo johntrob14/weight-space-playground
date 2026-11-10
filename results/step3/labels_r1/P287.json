@@ -1,0 +1,9 @@
+{
+ "id": "P287",
+ "explanation": "Fires in arithmetic on the token just before the digits of a computed numeric result: the space after '=', '\\approx', '\\cdot' or '-' and the decimal point in '0.01'/'0.173'. Weaker on separators inside other quantities ('1/4 onion', the date '03/30') and recipe list commas.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

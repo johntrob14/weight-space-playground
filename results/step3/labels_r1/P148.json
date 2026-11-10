@@ -1,0 +1,9 @@
+{
+ "id": "P148",
+ "explanation": "Fires on the opening \"$\" (or the symbol itself) of an inline math variable or expression that is the object of a preceding prose preposition or phrase: \"Solving for [$]x$\", \"the value of [$]k$\", \"Divide both sides by [$]2$\", \"relatively prime to [$]n$\", \"midpoint of $[BC]$\".",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

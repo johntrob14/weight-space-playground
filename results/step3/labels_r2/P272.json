@@ -1,0 +1,9 @@
+{
+ "id": "P272",
+ "explanation": "Fires on tokens part-way through a quoted or restated phrase, mostly the model quoting the problem statement back in its reasoning (\"to bake these items\", \"where A, B, C, D are integers\", \"written with only the digits\"), plus a repeated headline and a quoted scripture word; several web excerpts do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

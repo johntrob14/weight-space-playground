@@ -1,0 +1,9 @@
+{
+ "id": "P305",
+ "explanation": "A digit or dash inside the second half of a numeric range or identifier in reference-style text: page ranges in citations ('2309-2318', '121-129'), confidence-interval ranges ('13.69-25.1'), year ranges, DOIs. Weaker cases are prices in several currencies and other bare numbers.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

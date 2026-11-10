@@ -1,0 +1,9 @@
+{
+ "id": "P169",
+ "explanation": "Fires on the first token of a technical term naming a mathematical or notational object in math reasoning (critical point, MSB, backslash, coefficient, Isolate, principal branch, base, numerator; more weakly vertical line, solution). A few weak activations are on unrelated noun-phrase heads in web text.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

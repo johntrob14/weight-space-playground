@@ -1,0 +1,9 @@
+{
+ "id": "P284",
+ "explanation": "Fires on the first sub-word fragment of an uncommon or proper word that is split into pieces: 'Pequ|od', 'Sec|underabad', 'equ|ine', 'Equ|iery', 'jou|sted', 'pec|uniary', 'Pan|vel', 'Hem|ant', 'Che|ques', 'past|ime'. A couple of moderate excerpts ('PO Box', 'love') fit less well.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

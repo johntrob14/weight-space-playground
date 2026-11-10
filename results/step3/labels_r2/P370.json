@@ -1,0 +1,9 @@
+{
+ "id": "P370",
+ "explanation": "The token immediately before 'without', overwhelmingly the 'or' in 'with or without' (also 'with and without', 'bodyboard without', '30 days without'); weaker on other spots where 'without' or a negated alternative is about to follow.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

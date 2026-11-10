@@ -1,0 +1,9 @@
+{
+ "id": "P101",
+ "explanation": "Strongest on a small set of word-initial subword fragments: 'Q' (Qantas, QAnon, Qhairil), 'Prem'/'Pres' (Premier, premiership, Presbytery), 'uns' (unsimplified), 'Ak'. Moderate activations fall on unrelated tokens in math reasoning ('Wait,', 'to', '$,'), so the set of triggers has no evident common theme beyond being the start of a split word.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

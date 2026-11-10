@@ -1,0 +1,9 @@
+{
+ "id": "P195",
+ "explanation": "Fires at the end of an inline math expression in math reasoning, mostly on the closing '$' (or '}$', '$.') of an equation or inequality just before a verdict or comment such as 'is False' or 'is not real'. Moderate excerpts are scattered tokens in the same reasoning text (list indentation, words, digits) that do not share this trigger.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

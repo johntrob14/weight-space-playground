@@ -1,0 +1,9 @@
+{
+ "id": "P388",
+ "explanation": "In math reasoning, fires on the list bullet ' *' (or the indentation/newline/list number) that opens a new line directly after a line ending in an equation or formula. A minority of excerpts are tokens inside LaTeX expressions (pmatrix, dx, \\implies, an argument digit).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

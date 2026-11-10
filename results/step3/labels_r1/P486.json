@@ -1,0 +1,9 @@
+{
+ "id": "P486",
+ "explanation": "The opening of a noun phrase that names or labels a kind of thing being introduced, especially an opening quotation mark or 'so-called' before a coined term ('the \"notes\"', \"a 'green wall'\", 'so-called \"peanut gallery\"'), and more weakly a determiner, conjunction or modifier starting such a descriptive phrase ('an ornate cluster', 'or industrial parks', 'a long term trend').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

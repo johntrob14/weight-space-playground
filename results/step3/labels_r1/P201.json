@@ -1,0 +1,9 @@
+{
+ "id": "P201",
+ "explanation": "Fires on the first sub-word piece of an unusual, proper or compound word, usually just after a space or hyphen (Bell-Helms, S-charfstein, d-ailies, H-ASC, Met-News, Realtor(R), Simonsberg-Stellenbosch, revenue-sharing), including garbled words. A couple of digits inside multi-digit numbers and some ordinary web words also appear.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

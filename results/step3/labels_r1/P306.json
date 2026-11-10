@@ -1,0 +1,9 @@
+{
+ "id": "P306",
+ "explanation": "' San' in place names, mostly after 'University of' (San Francisco, San Diego, San Quintin) accounts for four strong excerpts. The others are unrelated: digits opening a parenthesised difference in math, and words such as ' Content', ' Teacher', ' directed', 'cont'; moderate excerpts are unrelated too.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

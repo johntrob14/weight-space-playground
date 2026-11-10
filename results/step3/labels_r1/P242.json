@@ -1,0 +1,9 @@
+{
+ "id": "P242",
+ "explanation": "Fires on the last token inside a parenthesized expression, immediately before the closing ')', most strongly when the model is quoting code or the problem statement verbatim (Asymptote calls, '(4+5)', 'gcd(n+7, 2n+1)'); weaker in ordinary algebra like '(x+1)'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

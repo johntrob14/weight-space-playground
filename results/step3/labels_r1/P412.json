@@ -1,0 +1,9 @@
+{
+ "id": "P412",
+ "explanation": "Fires at the end of a just-named entity or noun phrase, on the punctuation or first word that follows it and starts the continuation ('Amanda -', '$n$,', 'the set of 6,', \"'D' small cities\", 'Stephanie Gross spends'). The pattern is loose and positional.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P279",
+ "explanation": "Fires on a modifier word that sets up a following head noun in a common noun compound: 'personality' traits, 'career' opportunities/levels, 'cell' walls, 'time' of need, 'feature' or issue, 'two'-page, higher 'order' thinking.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

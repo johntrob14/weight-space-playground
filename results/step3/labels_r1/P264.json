@@ -1,0 +1,9 @@
+{
+ "id": "P264",
+ "explanation": "No describable trigger: scattered word-pieces and symbols in unrelated contexts (Wh-iskey, menswear, snog, beta-lactams, brachytherapy, list dashes, a digit in a count, a rating-scale 'o').",
+ "category": "no_coherent_pattern",
+ "confidence": "medium",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

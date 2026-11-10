@@ -1,0 +1,9 @@
+{
+ "id": "P178",
+ "explanation": "No describable trigger: the strong excerpts (all near the same activation) are unrelated tokens such as '\\pi', an exponent digit, '.B', name word-pieces, ' Sad', ' is', ' bread', ' living', and the moderate ones are equally scattered.",
+ "category": "no_coherent_pattern",
+ "confidence": "medium",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

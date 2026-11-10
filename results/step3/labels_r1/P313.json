@@ -1,0 +1,9 @@
+{
+ "id": "P313",
+ "explanation": "In math reasoning, the '=' or the space after '=' that comes right before the computed result of a short arithmetic evaluation, typically when substituting a value or checking ('2+4+2=8', '... + 1 = 3.5'). Moderate excerpts are mostly digits inside numbers or expressions and fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P206",
+ "explanation": "Fires in math reasoning at the position where the value on the right of an equals sign is produced: the space after '=' before a product result or before '0', the '=' itself, or the '0'/'1' value before '\\implies'. Two strong web excerpts (White S-uckers, His Hol-iness) and some moderate ones (a plus sign, bullet spacing, 'Construction') are unrelated.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P279",
+ "explanation": "Fires on a modifier word in a compound nominal just before its head noun: 'personality traits', 'career opportunities', 'career levels', 'cell walls', 'time of need', 'two-page', 'higher order thinking', 'galactic sources'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

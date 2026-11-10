@@ -1,0 +1,9 @@
+{
+ "id": "P094",
+ "explanation": "A word-initial 'D' / 'd' token beginning a longer word or name (Darksouls, Darksiders, dullest, dholwala, DISEASE, diktats, Distant, Dama). Two strong and all moderate examples are unrelated (digits in an IP address, 'a reason', math tokens).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

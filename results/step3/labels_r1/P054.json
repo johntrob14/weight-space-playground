@@ -1,0 +1,9 @@
+{
+ "id": "P054",
+ "explanation": "No describable trigger: the marked tokens are scattered across math digits and LaTeX pieces, URL and name fragments, word pieces ('gro', 'ax', 'ARCH') and function words ('to', \"'s\", 'and') with no shared token, position or topic.",
+ "category": "no_coherent_pattern",
+ "confidence": "medium",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

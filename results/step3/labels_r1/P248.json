@@ -1,0 +1,9 @@
+{
+ "id": "P248",
+ "explanation": "Fires on the first token of words about talking or deliberating: 'disc' (discuss), 'deb' (debate/debating), ' Speak'/' speak' (speak with/to), ' spec' (speculating), ' counter' (counterargument); one or two look-alike fragments (disciplines, re-cc-omend).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P128",
+ "explanation": "Fires on several highly formulaic positions: the blank line right after a reasoning intro ending in a colon (\"Here's my thought process...:\") before a numbered list \"1. **\", the word \"answer\" in the boilerplate \"put your final answer within \\boxed{}\", the space before the year in \"Received: May 12, 2011\" dates, and once on \"problems\" in \"In case of further problems\". These are distinct boilerplate slots with no shared content.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

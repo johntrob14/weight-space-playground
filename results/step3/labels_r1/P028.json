@@ -1,0 +1,9 @@
+{
+ "id": "P028",
+ "explanation": "In worked arithmetic, fires on the final digit of an operand or exponent just before the result has to be computed, i.e. the last token of the expression before '=', an operator or a closing brace ('100 / [[8]] =', '3^[[7]] =', '\\sqrt{19[[6]]} =', '42 / 2[[4]] =').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

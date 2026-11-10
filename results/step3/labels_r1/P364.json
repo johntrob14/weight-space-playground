@@ -1,0 +1,9 @@
+{
+ "id": "P364",
+ "explanation": "Object pronoun ' it' / ' them' directly after an action verb ('do it', 'read it again', 'started it', 'ordering them'), with a related offshoot on general process verbs after a subject describing how things proceed ('not everything [goes]', 'time can [go]', 'they [happen]', 'toys [come]', 'just [acting]').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

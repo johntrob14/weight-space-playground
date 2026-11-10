@@ -1,0 +1,9 @@
+{
+ "id": "P377",
+ "explanation": "Loose cluster of words that precede an 'if'/'who'/conditional clause or sit in a hedged verb phrase ('hard to [tell] if', '[Only] if', 'love [it] if', '[even] if', 'what they [do]', 'might [do]'), mixed with unrelated tokens (' labor', ' hiring', a decimal point) and unrelated moderate excerpts.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

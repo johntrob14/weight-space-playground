@@ -1,0 +1,9 @@
+{
+ "id": "P493",
+ "explanation": "The decimal point in a decimal number whose fractional part is a quarter or half (0.25, 0.75, 1.25, 3.25, 1.5), in math working and in product dimensions. Weaker activations fall on the integer digit just before such a decimal point.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

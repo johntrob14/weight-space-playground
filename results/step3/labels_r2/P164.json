@@ -1,0 +1,9 @@
+{
+ "id": "P164",
+ "explanation": "Partly word-pieces inside drug names (Citalopram, adalimumab x2) and partly closing-quote punctuation at the end of spoken dialogue; the remaining strong excerpts (' nothing', ' paper', 'since', a list comma, a patent number space) and the moderate ones are scattered.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

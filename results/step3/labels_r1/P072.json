@@ -1,0 +1,9 @@
+{
+ "id": "P072",
+ "explanation": "Molecular and cell biology text, especially signalling-molecule names: 'cytok'/'chemok' in cytokines/chemokines, 'Wnt signaling', 'IL-6', protein names, and 'Cell Rep' journal citations. A couple of activations are on a supplement product code ('hoodia p57 1000mg').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P280",
+ "explanation": "Weak pattern: fires on a connective token ('=', '(', opening quote, newline, 'OF') positioned just before the text reproduces a string that appeared earlier (rotor, wz - 1, Henderson, Pete, LANDS). Several strong and most moderate excerpts do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": true
+}

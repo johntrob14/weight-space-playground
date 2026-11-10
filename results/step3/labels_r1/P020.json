@@ -1,0 +1,9 @@
+{
+ "id": "P020",
+ "explanation": "Mixture: a number or expression directly before a unit or measure ('[[1]]000 acres', '1[[2]] square units', '20\\pi[[$]] cubic meters per hour', '1[[3]]-year war', '18[[0]]^\\circ'); the token before a requirement/divisibility predicate in math ('must[[ be]] at least', '[[ must]] be divisible', 'n + 3[[$]] is a multiple of'); and unrelated web-text words ('would be honored', 'walk you through', ' back', ' heroin', ' voluntary').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

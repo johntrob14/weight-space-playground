@@ -1,0 +1,9 @@
+{
+ "id": "P366",
+ "explanation": "The subject position of a short clause that follows a conditional or contrastive conjunction and asserts or denies existence/occurrence, most strongly existential 'there' in 'if there is/were/was' and 'OR there isn't'; also pronoun subjects in elliptical clauses ('but I don't', 'Sure he did', 'since she took').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

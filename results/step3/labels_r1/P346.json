@@ -1,0 +1,9 @@
+{
+ "id": "P346",
+ "explanation": "Text about standardized tests and competitions as the source or type of a question: the preposition/connective leading into the source ('found in math competitions like AMC', 'appear in standardized tests', 'a problem from a math competition', 'This looks like a typical puzzle'), and test-section labels (SAT Math, SAT Verbal, Section 3, non verbal).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

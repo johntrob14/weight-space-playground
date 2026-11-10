@@ -1,0 +1,9 @@
+{
+ "id": "P155",
+ "explanation": "Mixture: (1) in math reasoning, the token that closes a step or statement before a blank line (\"k = 1 [$$]\", \"9901[$.]\", \"Correct[.]\", \"Box the answer[.]\"); (2) in web text, -ing/-s words about checking/testing and similar (\"additional [testing]\", \"Fastpass [checking]\", \"[checks] and balances\", \"not [going] to\", \"Computer Science [Engineer]\"). No evident relation between the two.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

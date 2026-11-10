@@ -1,0 +1,9 @@
+{
+ "id": "P162",
+ "explanation": "Fires on the subject pronoun 'I' (or its contraction \"'ve\") in self-confirming clauses of the form 'that's / this is (exactly) what I did / used / have been doing', mostly in math reasoning; weaker activations are scattered web-text tokens with only an occasional 'I have'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

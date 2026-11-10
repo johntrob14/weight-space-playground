@@ -1,0 +1,9 @@
+{
+ "id": "P176",
+ "explanation": "Two unrelated triggers: the word ' associated' in machine-spun web text where 'associated with' stands in for 'of', and tokens inside polynomial/algebraic expressions in math reasoning (opening '$' before an expression, an exponent digit, '=').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P241",
+ "explanation": "Fires on the backslash (or '(\\') token that opens a LaTeX '\\text{...}' inside a math expression, typically right after an operator such as '=', '\\times', '\\cdot', '\\in'. Weaker on backslashes opening other commands (\\sqrt, \\cdot) or the operator just before '(\\text'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

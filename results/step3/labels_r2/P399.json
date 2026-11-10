@@ -1,0 +1,9 @@
+{
+ "id": "P399",
+ "explanation": "Mixture: the '$$' (or '$') that opens a math expression at the start of a line or after 'Wait/So/Since' in math reasoning, and the token ' pop' beginning populating/pop./popups. Also isolated tokens such as 'fact' and '\\hline'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

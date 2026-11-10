@@ -1,0 +1,9 @@
+{
+ "id": "P405",
+ "explanation": "Fires in phrases about acquiring a skill: 'learn to drive', 'learning how to use', 'skills to be learned', 'learning to dance', 'demonstrate competence', 'get the hang of it', 'practice in that art', on 'learn' or the word right after it.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

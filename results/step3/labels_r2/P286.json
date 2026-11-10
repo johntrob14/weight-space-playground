@@ -1,0 +1,9 @@
+{
+ "id": "P286",
+ "explanation": "Fires on the word 'all' used before a determiner and noun ('all that gear', 'all the unhappiness', 'all your print requirements'), and on verbs or prepositions directly before 'this/your/such information' ('obtain this information', 'privacy of your Personal Information', 'use such technical information').",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

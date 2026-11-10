@@ -1,0 +1,9 @@
+{
+ "id": "P385",
+ "explanation": "In math reasoning and code, fires on the final token of a numeric item (last digit, closing bracket, or the line break after it) in a list or sequence of values/terms, just before the separator (comma, +, $, newline).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

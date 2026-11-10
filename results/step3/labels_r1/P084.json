@@ -1,0 +1,9 @@
+{
+ "id": "P084",
+ "explanation": "In math reasoning, a token inside the second or later member of a parallel construction that repeats the template of the preceding member: 'minuend ($5$) minus ... subtrah[end] ($8$)', 'Front: ... (Length x Height) ... Back: ... ([Length]', 'Year 2 ($T=2$) ... Year [3]', 'B is at ... C is [at]'.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": true
+}

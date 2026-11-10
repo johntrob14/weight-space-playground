@@ -1,0 +1,9 @@
+{
+ "id": "P376",
+ "explanation": "The token immediately before a negative number, most strongly before a parenthesised negative such as '(-16)' or '(-2)' in arithmetic and dot products (the preceding operator, coefficient or digit); also before ', -11' or '=-96'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

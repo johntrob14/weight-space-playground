@@ -1,0 +1,9 @@
+{
+ "id": "P426",
+ "explanation": "Mixture: in math reasoning, the token just before a coefficient-times-parenthesis or point term (space before '2(-3)', '$' before 'Q(-2,', '$s(1+'), also 'term' and a factorial fraction; separately, name fragments in web text ('Bracht' as interview speaker label, 'great-grandmother'); moderate excerpts are newlines/indentation and 'Wait' in reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

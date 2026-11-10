@@ -1,0 +1,9 @@
+{
+ "id": "P357",
+ "explanation": "Tokens inside the second or later instance of a repeated parallel template, where the text is re-running a frame it just used ('Photo credits: X Photo credits: Y', 'the value of X controls ... the value of Y', 'a lesson to us ... and a lesson to me', 'today I celebrate ..., today I celebrate', 'Decide to place ... Decide to place'). Weaker cases are templated date lines and looser parallelism.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.4,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P397",
+ "explanation": "Fires on words about financial or policy benefits, offers, fees and penalties, and on the preposition that follows them: 'benefits to/of', 'offer to extend credit', 'provided a tax credit', 'fees for', 'penalized for', 'effort to'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

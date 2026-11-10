@@ -1,0 +1,9 @@
+{
+ "id": "P047",
+ "explanation": "Main trigger is the verb or pronoun right before 'updated / up to date / informed' ('stay', 'keep you', 'keep them'). It also fires on '\\angle' before a three-letter angle name and on 'the' before geographic names (Alps, continental divide); the moderate excerpts are unrelated web tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

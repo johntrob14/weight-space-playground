@@ -1,0 +1,9 @@
+{
+ "id": "P327",
+ "explanation": "A relational word that links a preceding noun/verb to the complement about to follow in expository prose: governed prepositions ('outside of', 'depends on', 'snapshot of', 'infringes on', '52% of', 'tailor ... to') and transitive effect verbs ('improve', 'impact', 'increase', 'reduce') just before their object.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

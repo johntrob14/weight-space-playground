@@ -1,0 +1,9 @@
+{
+ "id": "P291",
+ "explanation": "No single trigger: assorted tokens in math reasoning, including a term or digit that starts or sits inside an expression (three before '+ \\frac'), and the judgement words 'enough', 'impossible', 'possible', 'proceed'. The moderate excerpts are scattered punctuation and digits.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

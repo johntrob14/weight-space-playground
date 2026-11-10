@@ -1,0 +1,9 @@
+{
+ "id": "P406",
+ "explanation": "Fires on the head noun of an 'a NOUN of ...' quantity/collection construction, just before 'of': set of, years of, pool of, habit of, matter of, type of, group of, amounts of.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

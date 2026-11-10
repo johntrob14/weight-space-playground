@@ -1,0 +1,9 @@
+{
+ "id": "P105",
+ "explanation": "Mostly fires on the line break (or closing $$) that ends a line of math reasoning, just before an indented next line or bullet. Separately it fires on ' pre' in 'pre-created'/'pre-configured' and on 'it(chy)', which are unrelated to the newline role.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

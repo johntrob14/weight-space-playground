@@ -1,0 +1,9 @@
+{
+ "id": "P062",
+ "explanation": "The backslash (sometimes fused with a preceding '$', '+' or '}') that begins a LaTeX macro for a structured math term, mainly '\\frac', also '\\overline', '\\sqrt', '\\overrightarrow', typically after an operator or at the start of inline math. Weaker on the command name itself ('begin', 'over').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

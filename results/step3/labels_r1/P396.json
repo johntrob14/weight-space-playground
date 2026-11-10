@@ -1,0 +1,9 @@
+{
+ "id": "P396",
+ "explanation": "Fires in the opening restatement of a math problem at the start of the model's reasoning ('The user wants me to compute...', 'Identify the operation: ...', 'Understand the Goal'), mostly on the quantity tokens of the described task. Moderate examples are scattered math tokens later in the reasoning.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

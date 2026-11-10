@@ -1,0 +1,9 @@
+{
+ "id": "P097",
+ "explanation": "No describable trigger: marked tokens are scattered function words, mid-word fragments ('-h', 'ulate', 'plen'), and spaces or operators in arithmetic, with nothing in common.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

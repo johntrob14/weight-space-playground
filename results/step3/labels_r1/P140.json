@@ -1,0 +1,9 @@
+{
+ "id": "P140",
+ "explanation": "Fires on the unit-of-measure word that follows a quantity: years, months, seconds, GB, feet, acres, lbs, million (often in \"N years/months of X\" constructions, including the possessive \"six months'\").",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

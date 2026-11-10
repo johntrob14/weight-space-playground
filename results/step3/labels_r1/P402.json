@@ -1,0 +1,9 @@
+{
+ "id": "P402",
+ "explanation": "In math reasoning, fires near the end of an expression that is being copied verbatim from the problem statement or code (after 'Prompt:', 'the user wrote:', 'the code draws', 'input string', 'Output:'), typically on the last digit before a closing delimiter. Weaker on equations restated after 'Wait,'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": true
+}

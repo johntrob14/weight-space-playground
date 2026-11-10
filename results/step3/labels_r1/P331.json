@@ -1,0 +1,9 @@
+{
+ "id": "P331",
+ "explanation": "The word 'visual' in any casing or form (Visual Studio, Visual Novel, visual snow, visualise, visually, visuals, Chinese 视觉), with a weak firing on 'visible'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

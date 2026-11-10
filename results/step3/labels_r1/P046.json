@@ -1,0 +1,9 @@
+{
+ "id": "P046",
+ "explanation": "Several unrelated things: an apostrophe or word piece in the middle of an oddly formed or broken word (Synth'ing, RV'ers, pos'ibi, whistling, quraterresearch, theorist); an opening quotation mark or backtick before quoted material; and a closing '}' in LaTeX fractions/exponents.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

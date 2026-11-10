@@ -1,0 +1,9 @@
+{
+ "id": "P266",
+ "explanation": "Fires on the '$.' token that closes an inline math expression ending in a computed value at the end of a sentence in math reasoning ('= 528$.', '= 2d$.'). Weaker activations fall on tokens in or just before the final numeric result of such an equation.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P502",
+ "explanation": "Two unrelated triggers: (1) an 'm'/'M' token that begins a word after a hyphen, slash or in all-caps text ('-m'istake, '/m'oral, '-m'agnificent, ' M'ANDATORY, ' M'ENTALLY); (2) approximating or proportion words before a quantity (' about 2/3', 'About two-in-ten', 'more than a quarter', 'reduces by half'). Moderate excerpts mostly do not fit either.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

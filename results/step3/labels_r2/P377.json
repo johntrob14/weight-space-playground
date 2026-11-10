@@ -1,0 +1,9 @@
+{
+ "id": "P377",
+ "explanation": "Loosely, verbs and adverbs in clauses of uncertainty or condition ('hard to tell', 'what they do', 'might do', 'Only if', 'even if', 'love it if'); the rest are unrelated tokens ('labor', 'hiring', a decimal point) and the moderate excerpts do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

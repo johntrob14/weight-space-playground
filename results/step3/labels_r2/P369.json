@@ -1,0 +1,9 @@
+{
+ "id": "P369",
+ "explanation": "Mixture: the 'to' in LaTeX limits 'x \\to \\infty' (four strong excerpts), the word-initial token ' sur' (surging, surfer), and scattered other tokens (\\approx, \\cdot, a capitalised word fragment, a space before a number).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

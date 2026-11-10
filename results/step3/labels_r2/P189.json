@@ -1,0 +1,9 @@
+{
+ "id": "P189",
+ "explanation": "Fires on a word-internal subword token in the middle of a surname or other proper name (Tr[umb]ull, Khr[ush]chev, Pl[im]pton, Gr[uff]udd, Chury[um]ov, Sm[olt]z, Krist[of], Th[un]berg), with a couple of non-name hits (a digit in an ISSN, Superv[isory]).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

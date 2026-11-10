@@ -1,0 +1,9 @@
+{
+ "id": "P270",
+ "explanation": "Mostly fires on a token whose following token starts with the letter T ('G|TS', '.R|T', 'F|TL', '= |3t', 'R|, T', 'has| three', '\\|theta', '\\|tan'), as if anticipating a T. A second weaker group is the '$' (or bullet spacing) opening an inline math expression in reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

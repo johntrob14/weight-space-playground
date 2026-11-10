@@ -1,0 +1,9 @@
+{
+ "id": "P191",
+ "explanation": "Fires on short word-initial fragments containing 'p': mainly the token 'ap'/'Ap'/'App' (apart, Apologies, applier, Appleton, Apalachicola, Appliance) and the token 'Sp'/'SP' (Spock, SPOTIFY, Spencer), with weaker hits on 'spe', 'spr', 'Eph', ' P'.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

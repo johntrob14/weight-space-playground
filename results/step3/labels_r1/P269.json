@@ -1,0 +1,9 @@
+{
+ "id": "P269",
+ "explanation": "Fires on the word 'page'/'Pages' (settings page, page length, sports page, a Pages column) and on 'flash' (flash media, flash games); the remaining excerpts are unrelated tokens (Double check, About, name fragments, \\approx, \\times).",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

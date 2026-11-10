@@ -1,0 +1,9 @@
+{
+ "id": "P385",
+ "explanation": "In math reasoning, fires on the final token of a numeric term inside a series of terms separated by commas or operators (last digit of a number, closing parenthesis, or the newline ending a line that ends in a number). The trigger is positional and fairly diffuse.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

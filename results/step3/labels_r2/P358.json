@@ -1,0 +1,9 @@
+{
+ "id": "P358",
+ "explanation": "Mainly the token 'Star' in Star Trek / Starfleet; weaker related firing on other fiction-franchise and astronomy names (Snape fan name, Toni Topaz, dwarf galaxy), plus a few unrelated tokens ('simplest', 'or', 'Place').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

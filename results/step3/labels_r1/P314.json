@@ -1,0 +1,9 @@
+{
+ "id": "P314",
+ "explanation": "The token immediately before the word 'the' (or 'The'): a verb, preposition, comma or bullet after which the definite article comes next ('satisfies the', 'with the', 'on the', ', the'). In a few cases the following word is not 'the' ('Chum is', '! She').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

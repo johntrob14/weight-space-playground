@@ -1,0 +1,9 @@
+{
+ "id": "P260",
+ "explanation": "Mainly the newline right after a bold numbered step/section header in math reasoning ('**Step 4: Solve for $x$.**', '**Calculate the Value:**'). A separate group is tokens inside repeated list patterns in web listings (bullet separators between device names, '$400.00 Ex Tax:$400.00', 'DooBeeDoo', 'LC Multimode, SC Multimode').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

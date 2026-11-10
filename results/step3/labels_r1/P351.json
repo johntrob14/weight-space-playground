@@ -1,0 +1,9 @@
+{
+ "id": "P351",
+ "explanation": "The token right before the next member of a predictable series or fixed pair: 'Part' before XIII after Part XII, a list bullet/newline before 'Wednesday' after Tuesday, the space or '=' before the next number in an incrementing list or enumeration of cases (..., 126, 133; y=12 then y=13; 7x22 then 7x23), and 'and' in 'pros and cons'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

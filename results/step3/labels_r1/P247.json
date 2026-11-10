@@ -1,0 +1,9 @@
+{
+ "id": "P247",
+ "explanation": "Fires on the preposition 'at' in web text ('at the end', 'at all', 'at home', 'at stake', 'at the top', 'at risk', 'at a time').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

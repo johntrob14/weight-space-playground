@@ -1,0 +1,9 @@
+{
+ "id": "P452",
+ "explanation": "Fires at the very end of a sentence or line in informal web text (blog posts, reviews, calls to action): the final word before the full stop ('you will be happy you did', 'made my day', 'the real thing', 'can truly be') or the terminating punctuation/newline itself.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

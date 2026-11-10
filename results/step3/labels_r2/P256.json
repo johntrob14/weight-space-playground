@@ -1,0 +1,9 @@
+{
+ "id": "P256",
+ "explanation": "Fires on the last content token just before a closing symbol in a formula or quoted instruction: the '-k' before ')!' in the binomial-coefficient formula, a digit before '!' or '%' or '?', and 'boxed' before '{}' in the quoted 'put your final answer within \\boxed{}' instruction.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

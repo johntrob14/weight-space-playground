@@ -1,0 +1,9 @@
+{
+ "id": "P353",
+ "explanation": "Closing bracket tokens ')}' / '}}' / '),' that end a LaTeX group such as a fraction numerator, square-root argument or exponent, immediately before the next group or list item opens. Moderate excerpts are other generic LaTeX/math and code punctuation.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

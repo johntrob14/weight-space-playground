@@ -1,0 +1,9 @@
+{
+ "id": "P438",
+ "explanation": "Mixture with a loose theme at best: first-person or stance openers before an evaluation ('Okay, I'm confident/done', 'Here's a', 'This looks', 'it's first important', 'I'd like', 'Looks solid'), verbs of following advice ('Failure to follow', 'heed the advice', 'based on the given advice'), and question marks in a run of one-word questions.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

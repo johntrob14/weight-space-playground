@@ -1,0 +1,9 @@
+{
+ "id": "P197",
+ "explanation": "Two different triggers: a capital 'L' token beginning a word (Lighthouse, LUCKY, Lip, Luscious, Lately, Lovers) in web text, and assorted digits or single-letter variables inside math expressions (120, 144, n, 4a, exponent 2), which make up the weaker activations.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

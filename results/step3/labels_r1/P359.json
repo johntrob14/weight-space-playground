@@ -1,0 +1,9 @@
+{
+ "id": "P359",
+ "explanation": "Tokens that join or introduce the second member of a pair of alternatives or contrasted items: ' or' in 'Day or night', 'Fact or Fiction', 'the person, or the action', 'vs [roman]', 'Republican legislatures and [Democratic] governors', 'as [important] as'. Other excerpts (newlines between list entries, math variables) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

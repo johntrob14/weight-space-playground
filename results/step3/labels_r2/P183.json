@@ -1,0 +1,9 @@
+{
+ "id": "P183",
+ "explanation": "Fires inside written-out algebraic expressions on the token within a term: a coefficient, the variable after a coefficient, an exponent digit, or the number under a square root (e.g. '= x^[2]+y^2', '9\\sqrt{[2]}', '6[t]^4').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

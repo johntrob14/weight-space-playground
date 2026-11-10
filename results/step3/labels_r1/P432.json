@@ -1,0 +1,9 @@
+{
+ "id": "P432",
+ "explanation": "Strongly on components of web URLs (github, .org, /tree, /community, title, oldid in github/gitlab/wikipedia links), once on 'AND' in the hyphenated 'SHOW-AND-TELL'. At about 30% it fires on the opening '$' (or '}{') of LaTeX math in reasoning text, an unrelated trigger.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

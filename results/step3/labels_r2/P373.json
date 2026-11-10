@@ -1,0 +1,9 @@
+{
+ "id": "P373",
+ "explanation": "Clauses that look back at what was done earlier, chiefly the model questioning its own earlier step ('why did I write $...$', 'Where did I go wrong', 'I got the signs wrong before', 'As calculated before'); in web text 'had not been doing previously' / 'haven't been doing forever'. Fires on the final word or closing '$' of such a clause.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

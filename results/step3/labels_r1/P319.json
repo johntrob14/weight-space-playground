@@ -1,0 +1,9 @@
+{
+ "id": "P319",
+ "explanation": "Pronouns, auxiliaries and other function words inside Bible quotations and prayer language ('If you then, though you were evil', 'on earth as it is in heaven', 'then I will hear from heaven', 'thine hands'). The trigger is the scriptural register, not a particular token.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

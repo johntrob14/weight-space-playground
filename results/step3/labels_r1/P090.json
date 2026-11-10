@@ -1,0 +1,9 @@
+{
+ "id": "P090",
+ "explanation": "A leading digit of a multi-digit number, mainly the first digit of a US ZIP code after a state abbreviation, and also the digit after a hyphen in year ranges (1758-1[8]28) or an ISSN. Moderate activations are on unrelated tokens in math reasoning ('Wait', '$', quotes).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

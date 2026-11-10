@@ -1,0 +1,9 @@
+{
+ "id": "P179",
+ "explanation": "Fires in math reasoning where the model second-guesses the intended meaning of the problem: 'is it possible the [user] meant', 'any chance the [question] meant', 'not defining ..., [but] rather', re-quoting problem wording. A few hits fall elsewhere (inside Asymptote code, ' It' in a web comment).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

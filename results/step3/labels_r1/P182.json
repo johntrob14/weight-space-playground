@@ -1,0 +1,9 @@
+{
+ "id": "P182",
+ "explanation": "Two unrelated triggers: the dollar sign ' $' introducing a money amount in web prose ('put $25K in', 'a $5,000', 'the same $12 price tag'); and the closing quotation mark with punctuation that ends a line of spoken dialogue ('!\"', '?\"', ',\"'). Moderate activations are assorted list markers, spaces and code tokens matching neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

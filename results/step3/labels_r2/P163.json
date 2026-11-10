@@ -1,0 +1,9 @@
+{
+ "id": "P163",
+ "explanation": "Three separate triggers: the token ' hyp'/' Hyp' starting a word (hypotension, Hypalon, hypertext); the word ' dog'; and the blank line that ends the opening restatement of a math problem just before the first numbered heading ('**1. Understand'). Moderate excerpts fit none of these.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

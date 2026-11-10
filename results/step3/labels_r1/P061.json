@@ -1,0 +1,9 @@
+{
+ "id": "P061",
+ "explanation": "No single trigger: 'So' after 'No.' in a repeated divisibility check, labels like 'Boy B' / 'Girl' in enumerations, the start of a person's name in news/fiction ('Pat', 'Kunalic'), and assorted words ('of', 'valid', 'except'); the moderate excerpts are different again.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.4,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

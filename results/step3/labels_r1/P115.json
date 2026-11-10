@@ -1,0 +1,9 @@
+{
+ "id": "P115",
+ "explanation": "No describable trigger: marked tokens include digits and decimal points in a ratio, Spanish 'te', 'Should', 'pre', 'meg', 'has', 'presently', 'conversation', 'to', 'section', 'regarding', with no shared token, position or topic.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

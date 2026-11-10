@@ -1,0 +1,9 @@
+{
+ "id": "P267",
+ "explanation": "Fires on a token consisting of 's'/'S' (often with a leading hyphen or in all-caps text) that begins a word, such as non-sports, then-Secretary, R-S.C., SPOILERS, SUNDAY, SURE. Moderate excerpts are unrelated math and filler tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P360",
+ "explanation": "Tokens in the first few positions of an algebraic equation or expression that is being written out during a check or substitution step in math reasoning, typically coefficients, parentheses around a plugged-in value, or operators ('5(2[)] + 4(-3', '[|]5(-1)-', 'Substitute k=1 back: [ (]3^1)').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

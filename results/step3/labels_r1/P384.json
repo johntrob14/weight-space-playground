@@ -1,0 +1,9 @@
+{
+ "id": "P384",
+ "explanation": "Fires inside phrases that name a relation or ratio between two things, on the second term or the word just before the relation noun: 'X-to-Y ratio' (performance-to-cost, buck-to-doe, employment-population, debt-income), 'relationship/link/distinction/gap between', 'hybrid of the two'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

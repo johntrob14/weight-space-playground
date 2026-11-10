@@ -1,0 +1,9 @@
+{
+ "id": "P381",
+ "explanation": "In the model's math reasoning, the verb or demonstrative in a short sentence passing judgement on the preceding step: 'This seems correct/wrong', '$...$ is wrong', 'this is incorrect', 'that's wrong', 'this doesn't help', 'is indeed'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

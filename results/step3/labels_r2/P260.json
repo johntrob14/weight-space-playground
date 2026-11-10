@@ -1,0 +1,9 @@
+{
+ "id": "P260",
+ "explanation": "Mainly fires on the newline right after a bold numbered step header in math reasoning (e.g. '**Step 4: Solve for $x$.**' newline). Separately fires on tokens inside strings that immediately repeat earlier text in web lists (DooBeeDoo, $400.00 ... $400.00, repeated list separators, Multimode ... Multimode).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

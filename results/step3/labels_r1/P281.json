@@ -1,0 +1,9 @@
+{
+ "id": "P281",
+ "explanation": "Loose group of positive or affirming words ('Classy', 'Classixx', 'best', 'really', 'Yes', 'true') mixed with unrelated tokens ('arch', 'TREES', 'Multip-lying', 'Tur', 'directory', 'solutions').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

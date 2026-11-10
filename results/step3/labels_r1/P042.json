@@ -1,0 +1,9 @@
+{
+ "id": "P042",
+ "explanation": "Mainly the newline at the end of a line in structured reasoning, strongest right after a bold step header ('**Understand the Geometry:**[[\\n]]') or after a finished equation/sentence before the next step or bullet. The remaining excerpts (a comma in a letter list, a digit, a '$' or '$(' mid-sentence) do not fit a clear pattern.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

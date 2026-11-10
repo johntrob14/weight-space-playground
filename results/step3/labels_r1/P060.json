@@ -1,0 +1,9 @@
+{
+ "id": "P060",
+ "explanation": "A digit early inside a multi-digit number, most strongly the first digit of a US ZIP code after a state name/abbreviation in a postal address ('San Francisco, CA [[9]]4133', 'Georgia [[3]]0005'), and also digits or the decimal point inside years and decimals ('1.07', '2008', '1828'). Moderate excerpts are mostly unrelated reasoning tokens.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

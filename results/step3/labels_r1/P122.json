@@ -1,0 +1,9 @@
+{
+ "id": "P122",
+ "explanation": "Fires on the copula ('is', ''s') in math reasoning when the model hypothesises what the problem really is or asks: 'maybe the question [is] asking for...', 'what if the question [is]', 'if it['s] an x-intercept'. Weaker on the copula in other identifying statements ('the last term [is]', 'the x term [is]').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

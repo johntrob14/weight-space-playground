@@ -1,0 +1,9 @@
+{
+ "id": "P077",
+ "explanation": "No describable trigger: activations are on unrelated function words, punctuation and a Japanese particle in awkward or translated prose and titles, plus the '$' opening a variable name in 'Let $G$ be ...' definitions.",
+ "category": "no_coherent_pattern",
+ "confidence": "medium",
+ "cover_strong": 0.2,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

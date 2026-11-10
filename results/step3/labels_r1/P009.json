@@ -1,0 +1,9 @@
+{
+ "id": "P009",
+ "explanation": "Three distinct triggers: ' American' as the first word of an organisation name ('American Veterinary Medical Association', 'American Bar Association'); the word-initial fragment ' Ab'/' ab'/' ar' (Abnormal, Abroad, abashedly, arborist); and the conjunction or comma before the last item of a list of categories ('life and health insurance', 'kayaking or rafting', 'science and social science').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

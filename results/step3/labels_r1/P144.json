@@ -1,0 +1,9 @@
+{
+ "id": "P144",
+ "explanation": "Fires on the period (or comma) that ends a speaker attribution following a direct quotation in news-style text, e.g. '...,\" said Pedroia[.] \"We kept...' , i.e. the point between attribution and the continuation of the quote.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

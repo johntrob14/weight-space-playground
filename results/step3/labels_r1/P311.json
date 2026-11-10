@@ -1,0 +1,9 @@
+{
+ "id": "P311",
+ "explanation": "The verb or preposition that links a creative work to its themes in a synopsis or review ('drama explores', 'works deal with', 'tale of', 'story about'), and the commas inside the list of themes that follows ('isolation, fear of the unknown,').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

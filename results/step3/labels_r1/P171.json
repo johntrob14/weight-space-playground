@@ -1,0 +1,9 @@
+{
+ "id": "P171",
+ "explanation": "Fires on the copula or subject ('are', 'be', 'they', 'being') in a clause stating or asking whether two things are the same, equal, merging, interchangeable, parallel or different ('Are they equal?', 'the exponents must be equal', 'If they happen to be the same').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

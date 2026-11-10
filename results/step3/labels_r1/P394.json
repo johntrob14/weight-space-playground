@@ -1,0 +1,9 @@
+{
+ "id": "P394",
+ "explanation": "In math reasoning, fires on tokens inside text that restates or re-quotes something already written: quoted problem-statement sentences and 'Wait, ...' lines that repeat the preceding statement nearly verbatim (also 'Asymptote' and 'Tassels' repeated shortly after first mention).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P185",
+ "explanation": "Several unrelated triggers: the '0' after '2' in a 20xx year ('Torino 2[0]06', 'August 2[0]17'); ' system' in SQL Server/system administrator contexts; ' take' in 'take home'/'takeaways'; and 'business'/'BUSINESS'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

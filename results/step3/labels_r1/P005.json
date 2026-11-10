@@ -1,0 +1,9 @@
+{
+ "id": "P005",
+ "explanation": "Fires inside disjunctive or enumerated alternatives, on an item or the comma just before the 'or'/'and' that closes the list ('diving, snorkelling or free diving', 'clean-out or destruction', 'spise, eller', 'whether you can apply or not', 'either Hamilton or Stern', 'pancake, waffle, or'). Several excerpts (Oorlogen, derivative, Intern, a question mark) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

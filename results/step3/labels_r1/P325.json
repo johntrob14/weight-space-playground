@@ -1,0 +1,9 @@
+{
+ "id": "P325",
+ "explanation": "The first token of a proper name or named title as it begins (Heaney, PR Newswire, Rose Pak, Belichick, San Bernardino, Ace Ventura, Guy, 'Die lustigen Weiber'), often right after a sentence boundary or a preposition; a quoted phrase opening ('\"Two-thirds') and 'crèche' are looser variants. The moderate excerpts (bullets, digits, 'but', newline) do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

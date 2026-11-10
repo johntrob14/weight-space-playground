@@ -1,0 +1,9 @@
+{
+ "id": "P255",
+ "explanation": "Fires where a list or enumeration is being introduced: on the first item marker ('1', '(1', '1)') right after a lead-in such as 'It could mean:' and on the colon-like token (':', ':-', '?:') that introduces a list. Weaker on colons and line breaks before following content.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

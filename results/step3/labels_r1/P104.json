@@ -1,0 +1,9 @@
+{
+ "id": "P104",
+ "explanation": "Fires in statements about sufficiency, surplus or remainder: 'more than enough', 'money left over', 'remaining amount needed', 'we need 2 more', 'plus a few inches', 'inadequate', 'tie left over', '2/15 remaining'. The marked token is a word inside or just before the surplus/remainder phrase.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

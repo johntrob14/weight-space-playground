@@ -1,0 +1,9 @@
+{
+ "id": "P429",
+ "explanation": "The \"'s\" of \"Let's\" (often \"Now let's\") opening a new step in math reasoning, typically before check/verify/recall; weakly on the similar 'So we'. One strong web excerpt ('signals picked up') does not fit.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

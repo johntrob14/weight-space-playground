@@ -1,0 +1,9 @@
+{
+ "id": "P168",
+ "explanation": "Fires on the last content token of a sentence-initial conditioning or introductory phrase just before its comma: the value in 'for $a=4, b=[2]$,', 'At $x=[0]$,', 'As $x \\to \\in[fty]$,', and at lower strength 'In [fact],', 'Since [then],', 'So [yes],'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

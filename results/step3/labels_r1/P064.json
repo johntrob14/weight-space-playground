@@ -1,0 +1,9 @@
+{
+ "id": "P064",
+ "explanation": "The modal verb 'could' (any case, sentence-initial or mid-clause) expressing possibility. The weaker activations fall on assorted unrelated words (also, audience, Did, decide, That) with no shared trigger.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

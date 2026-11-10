@@ -1,0 +1,9 @@
+{
+ "id": "P404",
+ "explanation": "Fires on the word 'spider' / 'Spider' (Spider-Man, a spider), with related firing on 'Sp|itzer' and on a few other name tokens in pop-culture contexts (Krysten Ritter, Jonas Brother, Lady luck). Moderate examples are unrelated.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

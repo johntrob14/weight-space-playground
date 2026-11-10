@@ -1,0 +1,9 @@
+{
+ "id": "P484",
+ "explanation": "Payment-terms language in commercial text: mostly the preposition ' in' (or ' on') right after pay/paid stating how or when payment is made ('paid in cash', 'pay ... in monthly installments', 'on credit'), plus 'pay' itself and 'Payment Terms :'. A related offshoot is the number in refund/return windows ('within 30 days').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

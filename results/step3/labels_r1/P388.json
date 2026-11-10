@@ -1,0 +1,9 @@
+{
+ "id": "P388",
+ "explanation": "In step-by-step math reasoning, fires at the start of the next line after an equation line: the bullet marker ' *' (or the newline/indent/list number) that begins the next step in a run of algebra steps. A few hits are tokens inside LaTeX expressions instead.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P188",
+ "explanation": "Fires on tokens in machine-formatted text: the last segment of an underscore- or hyphen-joined identifier or URL slug (rm_trig_labels, policy_maps, cosmetic-procedures-wrinkles, skin_infections, next-level), loop and call tokens in code, and table-cell values. A second, weaker trigger is the final word of a quoted problem statement just before the closing quote ('each other\"', 'in a row\"').",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

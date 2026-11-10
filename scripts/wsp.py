@@ -57,3 +57,50 @@ class NeuronTap:
     def close(self):
         for h in self.hooks:
             h.remove()
+
+
+def grouped_attention_forward(module, query, key, value, attention_mask, dropout=0.0, scaling=None,
+                              is_causal=None, **kwargs):
+    """Grouped-query attention without materialising the repeated key/value heads.
+
+    Same result as the default path (which expands 2 key/value heads to 8 on every call, copying the whole cache
+    each generated token). query [B, H, T, D]; key, value [B, G, L, D]; head h uses group h // (H // G).
+    """
+    B, H, T, D = query.shape
+    G, L = key.shape[1], key.shape[2]
+    R = H // G
+    scaling = D ** -0.5 if scaling is None else scaling
+    q = query.reshape(B * G, R * T, D)
+    k = key.reshape(B * G, L, D)
+    v = value.reshape(B * G, L, D)
+    # scores^T = k @ q^T keeps the big operand contiguous; [BG, L, RT] -> [B, G, R, T, L]
+    scores = torch.bmm(k, q.transpose(1, 2)).transpose(1, 2).reshape(B, G, R, T, L) * scaling
+    if attention_mask is not None:
+        m = attention_mask[..., :L]
+        if m.dtype == torch.bool:
+            scores = scores.masked_fill(~m.reshape(B, 1, 1, m.shape[-2], L), float("-inf"))
+        else:
+            scores = scores + m.reshape(B, 1, 1, m.shape[-2], L).to(scores.dtype)
+    elif T > 1 and (is_causal if is_causal is not None else getattr(module, "is_causal", True)):
+        past = L - T
+        allowed = torch.arange(L, device=query.device)[None, :] <= (past + torch.arange(T, device=query.device))[:, None]
+        scores = scores.masked_fill(~allowed, float("-inf"))
+    p = torch.softmax(scores, dim=-1)
+    out = torch.bmm(p.reshape(B * G, R * T, L), v).reshape(B, H, T, D)
+    return out.transpose(1, 2).contiguous(), None
+
+
+def enable_grouped_attention(model):
+    """Route the full-attention layers through grouped_attention_forward."""
+    from transformers.modeling_utils import ALL_ATTENTION_FUNCTIONS
+    ALL_ATTENTION_FUNCTIONS.register("grouped", grouped_attention_forward)
+    for l in layers(model):
+        if hasattr(l, "self_attn"):
+            l.self_attn.config = _with_impl(l.self_attn.config, "grouped")
+
+
+def _with_impl(config, name):
+    import copy
+    c = copy.copy(config)
+    c._attn_implementation_internal = name
+    return c

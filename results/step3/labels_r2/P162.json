@@ -1,0 +1,9 @@
+{
+ "id": "P162",
+ "explanation": "Fires on the subject pronoun ' I' (or the following \"'ve\") in the self-check phrase 'that's/this is (exactly) what I did/used/found/have' in math reasoning, and in the similar 'the point I've been making'. Moderate activations are weak and scattered (' he', ' have' after 'I', unrelated tokens).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

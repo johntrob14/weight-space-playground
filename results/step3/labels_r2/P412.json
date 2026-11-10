@@ -1,0 +1,9 @@
+{
+ "id": "P412",
+ "explanation": "Fires on the last token of a fronted phrase or subject, at the boundary before the main clause or predicate continues: '...bounded above by $M$, then', 'For other $n$, we cannot', 'the set of 6, then', 'Amanda - she loves', 'Stephanie Gross spends'. The pattern is loose.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

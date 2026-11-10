@@ -1,0 +1,9 @@
+{
+ "id": "P230",
+ "explanation": "Fires in the middle of LaTeX math expressions on the token just before the expression continues with an operator or further term (e.g. the '1' before '\\pmod', ')' or '^' before '2 +', '_' before a subscript). Trigger is a generic mid-formula position rather than a specific token.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.9,
+ "repetition_related": false
+}

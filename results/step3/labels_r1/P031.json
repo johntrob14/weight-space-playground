@@ -1,0 +1,9 @@
+{
+ "id": "P031",
+ "explanation": "No describable trigger. Tokens include nouns (' clubs', ' soldiers'), ' higher', a digit, commas inside a quoted problem sentence ('the length[[,]] in units'), ' and', '(', a name fragment and assorted math symbols, with no shared token, position or topic.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.2,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

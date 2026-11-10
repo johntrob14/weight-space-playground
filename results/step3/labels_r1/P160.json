@@ -1,0 +1,9 @@
+{
+ "id": "P160",
+ "explanation": "In worked math, fires on an operator or opening delimiter (-, +, =, /, '(', '|', or the opening ' $') inside an expression where concrete numbers are being substituted or evaluated, immediately before the next numeric operand.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P171",
+ "explanation": "Fires on the pronoun or copula ('they', 'are', 'be', \"aren't\") just before a predicate stating that two things are the same, equal, interchangeable, merging or parallel, e.g. 'Are [they] the same?', 'the exponents must [be] equal', 'if the degrees [are] equal'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

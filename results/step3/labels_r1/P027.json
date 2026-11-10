@@ -1,0 +1,9 @@
+{
+ "id": "P027",
+ "explanation": "Fires on sentence- or clause-ending punctuation (mostly the period, sometimes a comma) in informal first- or second-person narrative web prose such as blogs and personal anecdotes, at the boundary before the next sentence, which often starts with 'I'. Weaker cases are clause-linking words (' since', ' that', ' in', ' to') in the same kind of prose.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P211",
+ "explanation": "Fires on the newline that ends a complete sentence or entry in web text right before an unrelated new item begins, typically one starting with a capitalised name or title (list entries, product blurbs, news items). Weaker activations include blank-line breaks between sections of math reasoning.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

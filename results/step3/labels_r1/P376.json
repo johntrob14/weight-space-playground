@@ -1,0 +1,9 @@
+{
+ "id": "P376",
+ "explanation": "In math, the token immediately before a negative number, usually one in parentheses: '10 [-] (-16)', '1(1) + [1](-1)', '[+] (-5)(1)', '4[*](-2)', '7[,] -11', '\\[cdot] (-2)'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

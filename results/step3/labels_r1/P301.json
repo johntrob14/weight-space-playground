@@ -1,0 +1,9 @@
+{
+ "id": "P301",
+ "explanation": "Unrelated tokens: ' past' or 'ast' in 'pastels' and 'pastoral' (three), ' raw' and ' Raw' (two), the '+' after '25x^2' in a repeated polynomial (two), and single cases such as ' Dante', 'R', 'epend'. The moderate excerpts share nothing with these.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

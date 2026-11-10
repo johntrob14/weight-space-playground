@@ -1,0 +1,9 @@
+{
+ "id": "P216",
+ "explanation": "Loosely, fires on the token just before a number or numeric argument in math reasoning: the space before a number ('Wait, 22', 'cos 20', '- 2x'), an '=' before a result, or the '{' opening a denominator or exponent, plus a few digits or separators inside numbers and timestamps in web text. The pattern is loose and a few excerpts ('more than', 'is', a variable) fit only weakly.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

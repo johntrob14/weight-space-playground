@@ -1,0 +1,9 @@
+{
+ "id": "P336",
+ "explanation": "A summarising noun after a demonstrative that refers back to what was just said and becomes the subject of the next clause ('this freedom', 'these rankings', 'This amount', 'These goals', 'These coordinates', 'These numbers', 'a term which'), often re-using the earlier word. Related: the comma that closes a long subject/appositive just before its predicate.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

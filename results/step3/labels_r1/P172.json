@@ -1,0 +1,9 @@
+{
+ "id": "P172",
+ "explanation": "Most often fires on the opening ' $' of a second inline math expression that directly follows a preceding statement, comma or 'Wait,' in math reasoning; the other half of the excerpts are scattered tokens (a digit, a decimal point, '{-', a newline, the word 'book') with no shared trigger.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

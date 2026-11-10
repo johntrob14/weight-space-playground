@@ -1,0 +1,9 @@
+{
+ "id": "P295",
+ "explanation": "The word ' absolute' in 'absolute value' in math reasoning, and to a lesser degree ' eigen' in 'eigenvalue(s)'. Two moderate excerpts ('P(3) =', '3^4 =') do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

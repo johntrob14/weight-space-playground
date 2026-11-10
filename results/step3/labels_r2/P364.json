@@ -1,0 +1,9 @@
+{
+ "id": "P364",
+ "explanation": "Generic placeholder objects and event verbs: the pronoun 'it'/'them' as object right after a verb, especially 'do it' / 'read it' / 'started it', and semantically light intransitive verbs after a subject ('everything goes', 'time can go', 'they happen', 'toys come').",
+ "category": "two_or_three_related_jobs",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

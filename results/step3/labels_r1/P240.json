@@ -1,0 +1,9 @@
+{
+ "id": "P240",
+ "explanation": "Fires inside short inline math statements of a condition or value for a variable in math reasoning, mostly on an exponent digit or variable/value token in forms like 'x^4=2', 'a^2', '$x=5$', 'k=2', 'a > 3'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

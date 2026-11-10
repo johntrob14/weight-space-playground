@@ -1,0 +1,9 @@
+{
+ "id": "P040",
+ "explanation": "Text about sensing, imaging and detection instruments (ultrasound echoes, remote-sensing resolution, gamma-ray spectrometry, CT detectors, cameras detecting changes); it fires on various tokens inside descriptions of what is being measured or detected. Topic-driven rather than token-specific.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

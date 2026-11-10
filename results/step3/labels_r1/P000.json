@@ -1,0 +1,9 @@
+{
+ "id": "P000",
+ "explanation": "In math reasoning, fires on the punctuation (period, question mark, colon, closing quote, newline) that ends a clause announcing a re-check or alternative reading of the problem ('Let's reconsider.', 'Is there any other way to interpret ...?', 'I see a potential trap.'), i.e. right before the model starts re-examining the problem statement.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P001",
+ "explanation": "Fires on function words, verbs and number digits that sit just before a noun naming purchasable or collectible goods, most often books and media ('sold, well, books', 'thousands of movies', 'box of chocolates', 'stack of books', '530,000 books'). Weaker cases are commas inside lists of physical items (handbags, money, smartphones; magazines, coloured paper).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

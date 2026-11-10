@@ -1,0 +1,9 @@
+{
+ "id": "P505",
+ "explanation": "Two unrelated triggers: (1) the backslash that starts '\\implies' or '\\Rightarrow' directly after a completed equation in math working (weaker on other backslash commands like '\\le'); (2) the object pronoun after the verb take/give in web text ('took me off guard', 'take me out', 'take them by surprise', 'give you their').",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

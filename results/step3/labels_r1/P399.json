@@ -1,0 +1,9 @@
+{
+ "id": "P399",
+ "explanation": "Two unrelated triggers: the math-mode opener at the start of an expression ('$$' on a new indented line of display math; weaker on inline ' $' after 'So'/'Since'), and the token ' pop' (populating, pop., popups). '\\hline' and ' fact' fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

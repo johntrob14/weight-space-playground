@@ -1,0 +1,9 @@
+{
+ "id": "P176",
+ "explanation": "Two unrelated triggers: the word ' associated' in machine-spun web text where 'associated with' stands in for 'of'; and tokens inside math expressions, most consistently the opening ' $' of an inline formula after words like 'Let' or 'polynomial', along with exponents and '=' signs.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

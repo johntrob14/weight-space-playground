@@ -1,0 +1,9 @@
+{
+ "id": "P354",
+ "explanation": "Mixture: the decimal point or space/equals right before a numeric result in math ('\\approx 0[.]04', '= [ ]2520'), the words ' optional'/' optical' in web text, and assorted mid-phrase function words (' in' use, ' aimed' at, used ' to'). No shared trigger is evident.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

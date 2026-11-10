@@ -1,0 +1,9 @@
+{
+ "id": "P114",
+ "explanation": "Fires on the first token of a multi-word proper name of an organisation, product or place, usually right after a determiner or preposition (OSRS Mobile, Thanks Nature Cafe, Trinidad & Tobago, The Conversation, Royal Mail, Saucon Valley, Runescape, MyPlate, Team SPICE). Related variants are first tokens of common compounds (figure skater, stand-up, long-distance).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

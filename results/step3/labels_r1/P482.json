@@ -1,0 +1,9 @@
+{
+ "id": "P482",
+ "explanation": "The token ' so' in web prose, chiefly as a conjunction opening a purpose/result clause ('so they can', 'so that we could', ', so we call it'), with weaker firing on ' if' and ' you' that open conditional or parenthetical asides ('if possible', 'if you consider', 'you see').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

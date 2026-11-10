@@ -1,0 +1,9 @@
+{
+ "id": "P496",
+ "explanation": "An unusual, non-standard or mis-encoded punctuation character sitting inside or attached to a word: an acute accent or backtick used as an apostrophe (I\u00b4m, they\u00b4ll, isn`t), mojibake replacement characters, middle dots and broken bars used as syllable or letter separators (M\u2219A\u2219C, pro\u00b7long\u00b7ing, tan\u00a6nia), asterisks censoring a name, and an escaped underscore.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

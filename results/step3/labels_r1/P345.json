@@ -1,0 +1,9 @@
+{
+ "id": "P345",
+ "explanation": "Metalinguistic contexts about which word or wording was used: the token leading into a cited term, as in 'never use that word', 'did not notice the \"mini\"', 'did not use the terrorism word', 'the prompt uses the term', 'is labeled XT2', 'titled CPC', and in math reasoning 'No, it explicitly says \"even\"' / 'specifically asks for'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

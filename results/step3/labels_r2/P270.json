@@ -1,0 +1,9 @@
+{
+ "id": "P270",
+ "explanation": "Weak pattern: fires on the token just before a token beginning with the letter T/t (G before TS, .R before T, F before TL, 'R' before ', T', before '3t', before theta, before tan, 'has' before 'three'). Moderate excerpts are mostly generic '$' and spacing tokens in math reasoning.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

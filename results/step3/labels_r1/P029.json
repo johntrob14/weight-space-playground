@@ -1,0 +1,9 @@
+{
+ "id": "P029",
+ "explanation": "Three unrelated triggers: the word right before a noun for a sudden loud noise ('with[[ a]] crunch', 'a[[ loud]] bang', 'the[[ subsequent]] cacophony', 'a odd bang'); the '9' in decade/century expressions ('1[[9]]70s', '1[[9]]30s', '1[[9]]th'); and mid-surname fragments in personal names (Geffner, Macfadyen, Gurnani, Gurney, Larroquette).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

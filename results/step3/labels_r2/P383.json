@@ -1,0 +1,9 @@
+{
+ "id": "P383",
+ "explanation": "Two unrelated triggers: the modal stems 'wouldn'/'couldn' just before the apostrophe-t of a negative contraction, and a hyphen/dash/plus joining numbers or a prefix to the next element ('multi-tenant', '5-1/4', '7 - 13 kg', '360 + 36').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

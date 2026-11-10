@@ -1,0 +1,9 @@
+{
+ "id": "P478",
+ "explanation": "Fires on the space (or leading '0.') token immediately before a numeric result is written after '=' or '\\approx' in arithmetic, i.e. the position where a computed number is about to appear; weaker firing before other numbers in web text ('super-sensitive 16-megapixel', 'short of 12v') and on some unrelated words.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

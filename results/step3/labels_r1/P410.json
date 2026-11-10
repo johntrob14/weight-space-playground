@@ -1,0 +1,9 @@
+{
+ "id": "P410",
+ "explanation": "Fires in statements of a ratio, fraction or proportion, on the token just before the ratio's value or terms are given ('the ratio A : B : C =', 'in ratio 2:1', 'ratios from 19.2/...', 'the fraction is 2/3', 'ratio of good is to bad').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

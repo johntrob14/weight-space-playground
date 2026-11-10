@@ -1,0 +1,9 @@
+{
+ "id": "P352",
+ "explanation": "No describable trigger: marked tokens are scattered across math reasoning (a few sit next to a \\neq comparison or inside 'last digit of subtrahend') and unrelated web text (name fragments, 'swat', 'usually').",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0,
+ "cover_moderate": 0,
+ "repetition_related": false
+}

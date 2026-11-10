@@ -1,0 +1,9 @@
+{
+ "id": "P466",
+ "explanation": "Mixture: the second 'step' in the quoted instruction 'reason step by step'; 'or' / '/or' / '/which' marking alternatives ('main.cf (or', 'and/or', 'fossils/which'); and ends of items in lists or slogans ('balustrades,', 'Passion Inspires,', 'Claim and Order'). Moderate excerpts are unrelated math tokens.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

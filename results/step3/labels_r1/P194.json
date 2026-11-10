@@ -1,0 +1,9 @@
+{
+ "id": "P194",
+ "explanation": "Fires on the question mark that ends a self-posed doubt or check in math reasoning (often opened by 'Wait,' and answered by 'No'/'Yes'). Weaker activations fall on other statement-final punctuation or newlines in the same reasoning style, with one unrelated web token.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

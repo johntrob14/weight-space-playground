@@ -1,0 +1,9 @@
+{
+ "id": "P332",
+ "explanation": "In descriptive/informational text listing the characteristics of a thing, fires on the function word that attaches or continues a property: 'They have', 'an area with', 'a place with', 'chassis with', 'allows for', 'and are able', and the commas/'or'/'and' joining listed attributes.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

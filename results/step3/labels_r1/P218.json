@@ -1,0 +1,9 @@
+{
+ "id": "P218",
+ "explanation": "Fires in first- or second-person conversational web text on the subject pronoun, negation or intensifier ('I', 'you', 'don't', 'really', 'actually') immediately before a verb of liking, wanting or preference (enjoy, love, need, try, prefer, think I would enjoy).",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

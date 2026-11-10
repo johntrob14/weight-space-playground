@@ -1,0 +1,9 @@
+{
+ "id": "P160",
+ "explanation": "Fires inside worked numeric substitutions in math reasoning, on the operator, bracket or opening '$' that sits immediately before a number being plugged in or computed (e.g. '(2[(]5)', '11[-]11.5', '[ $]0.25').",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

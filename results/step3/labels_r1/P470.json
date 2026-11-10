@@ -1,0 +1,9 @@
+{
+ "id": "P470",
+ "explanation": "Fires on ' let' in the idiom 'let alone' (usually after a comma, following a negative statement), with weaker activation on other clause-initial 'let' ('let me tell you', \"let's hope\", \"let's not forget\"). Most moderate excerpts are unrelated nouns.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

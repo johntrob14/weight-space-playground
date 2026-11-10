@@ -1,0 +1,9 @@
+{
+ "id": "P233",
+ "explanation": "Several distinct triggers: the closing asterisk of an emphasized word (*same*, *looks*, *possible*) and closing ' --' of an aside; the final period of abbreviations (U.S., p.m.); the '>' email-quote marker at line start; plus digits inside ISSN/zip codes and odd word pieces at lower activation.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

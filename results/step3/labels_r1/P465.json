@@ -1,0 +1,9 @@
+{
+ "id": "P465",
+ "explanation": "Fires on the comma (occasionally the verb) that ends a complete clause, typically a negative or evaluative statement, just before a qualifying or contrasting continuation ('hated that argument, yet', 'Nobody is doing this, certainly', 'nothing inherently wrong with the book, and', 'no right or wrong, do what you like'); often a comma splice.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.8,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

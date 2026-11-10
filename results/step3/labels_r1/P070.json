@@ -1,0 +1,9 @@
+{
+ "id": "P070",
+ "explanation": "Text about oil: punctuation, '$' and 'per' tokens in crude oil / gasoline price reports, and tokens next to mentions of cooking oil or CBD/hemp oil. The unit tracks an oil topic context rather than a specific token.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.9,
+ "repetition_related": false
+}

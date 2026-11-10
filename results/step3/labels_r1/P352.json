@@ -1,0 +1,9 @@
+{
+ "id": "P352",
+ "explanation": "No describable trigger: the marked tokens are scattered (' of', ' sub', ' limit', '/', ' over', ' sw', '-L', digits) across math reasoning and web text. The only weak cluster is tokens adjacent to a '\\neq' check in three math excerpts.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P320",
+ "explanation": "A determiner or possessive pronoun (their, our, your, the, its many) that opens the object noun phrase right after a verb or preposition, most strongly after 'forgive' / 'forget (about)' / 'keep' in religious or reflective prose. The moderate excerpts are mostly weak, unrelated firings on digits inside math expressions.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

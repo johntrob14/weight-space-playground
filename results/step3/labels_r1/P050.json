@@ -1,0 +1,9 @@
+{
+ "id": "P050",
+ "explanation": "No single trigger: in math it fires on the '$' or 'Let' introducing a new variable ('Let $u = 3..') and on words in parity statements ('two evens', 'only even prime', 'is even'); in web text on unrelated idiom or word pieces ('people's lives', 'merrymaking', 'opportunity of a lifetime', 'go on sale').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

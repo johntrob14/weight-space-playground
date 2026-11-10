@@ -1,0 +1,9 @@
+{
+ "id": "P355",
+ "explanation": "Two triggers: a comma late in a long enumeration of place names or letters (US states, countries, set elements such as {B, G, O[,] R, V}), and the token ' Hob' in Hoboken / Hobbit. Moderate excerpts are unrelated tokens in math reasoning.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

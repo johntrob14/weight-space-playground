@@ -1,0 +1,9 @@
+{
+ "id": "P053",
+ "explanation": "A gerund or noun used as a modifier directly before its head noun in a compound, most often 'working' ('working relationship', 'working title', 'working hours', 'working day') and also 'selling season', 'operating environment', 'baby naming'. Weaker on other noun-noun compounds ('logic voltage', 'temporary file', 'Flavoring Options').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

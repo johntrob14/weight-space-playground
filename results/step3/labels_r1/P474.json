@@ -1,0 +1,9 @@
+{
+ "id": "P474",
+ "explanation": "Fires in the slot between a subject and its main predicate, on the auxiliary/copula or an adjacent adverb ('he's finally', 'women are recognized', 'is now made', 'are often seen', \"They've also\", \"don't care\", \"Doesn't he\", 'has now appeared'), mostly in statements about current states or developments.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

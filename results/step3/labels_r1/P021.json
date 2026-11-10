@@ -1,0 +1,9 @@
+{
+ "id": "P021",
+ "explanation": "Two unrelated triggers: ' step' in the instruction phrase 'Reason(ing) step-by-step' as the model restates the task constraints in its math reasoning (5 strong excerpts), and assorted word-initial fragments or words in web text ('Log', 'cog', 'sed', 'sal', 'est', 'ult', 'jo', ' crack', ' food', ' New') with nothing evident in common.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

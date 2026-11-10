@@ -1,0 +1,9 @@
+{
+ "id": "P323",
+ "explanation": "Mostly math: the last token of an expression just before '\\implies' / '\\Rightarrow' (e.g. 'x=0 \\implies'), or the final term inside a parenthesised factor before the closing bracket ('(1-x))', '(n+1)}'). Separately it fires in prose on a pronoun/determiner after a fronted phrase ('In the back of her mind she', 'from her bag', 'download this').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

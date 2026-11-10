@@ -1,0 +1,9 @@
+{
+ "id": "P167",
+ "explanation": "Two unrelated triggers: tokens inside time-span expressions ('even [a] decade ago', 'just [a] season earlier', '[a] half century ago', '82 [years] old', 'as [time] goes on'), and the second coordinate/closing bracket of the first item in a pair-to-pair math notation such as '(4,[2])-(4,3)' or '(1-2[)] + (3-'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

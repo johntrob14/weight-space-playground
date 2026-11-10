@@ -1,0 +1,9 @@
+{
+ "id": "P173",
+ "explanation": "Two unrelated triggers: Chinese or Korean word tokens in CJK text, and the closing parenthesis-plus-delimiter of a coordinate pair ('0)$' or '0)`') just before ' to' or a comma in math reasoning. Moderate excerpts (spaces, commas, an exponent) fit neither.",
+ "category": "unrelated_mixture",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

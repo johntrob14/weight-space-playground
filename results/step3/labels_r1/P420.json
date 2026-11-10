@@ -1,0 +1,9 @@
+{
+ "id": "P420",
+ "explanation": "Fires on a token inside a span that restates text seen earlier: quoted problem statements in math reasoning ('Two treeks and one goolee', 'If 15 customers buy a television', 'Find the values of lambda'), a label copied from diagram code, repeated list lines (iBFT), and incrementing repeated lines (y=827, y=828). The marked token itself varies (name fragment, number, noun).",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

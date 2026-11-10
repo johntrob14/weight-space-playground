@@ -1,0 +1,9 @@
+{
+ "id": "P299",
+ "explanation": "Mainly the separator between items of a long enumeration: commas in keyword or place-name lists, newlines or dashes between list entries. A second, unrelated trigger is the number or space before a number in a duration phrase ('for six years', 'more than 20 minutes', 'about three months').",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P393",
+ "explanation": "Fires on ' a' used as 'per' in rate expressions: 'times a day', 'days a week', 'days a year', '$113,000 a year', '300 a week'. Weak activations occur on other tokens before time-unit words or on hyphens in math.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "high",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.3,
+ "repetition_related": false
+}

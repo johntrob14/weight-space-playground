@@ -1,0 +1,9 @@
+{
+ "id": "P485",
+ "explanation": "Two unrelated triggers: (1) the newline right after a colon or header that introduces a list or the next step in structured math reasoning ('I need to:\\n', '**Given Data:**\\n'); (2) the ' and' joining two parts of an organization or publication name ('Goodyear Tire and Rubber', 'Aviation Week and Space Technology', 'Forms%20and%20Updates'). Several moderate excerpts are unrelated function words.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P448",
+ "explanation": "No clear trigger: assorted function words and word fragments in unrelated web text ('caught a', 'there is', 'provide you', 'Sidenote'). About half the strong excerpts sit in fishing/animal contexts (walleye, farmed catfish, coral reef, veterinarians), but the marked tokens and the rest of the excerpts share nothing.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.5,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}

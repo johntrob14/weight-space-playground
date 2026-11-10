@@ -1,0 +1,9 @@
+{
+ "id": "P257",
+ "explanation": "Two unrelated groups: words in education/curriculum-standard text ('Make sense of problems', 'Look for and express', 'teach', 'place-based learning', 'children's understanding', 'explain'), and separately word-piece fragments Map/Cor/par/ap inside proper names or longer words (Mapo, Corzine, Montparnasse, COMPARISON).",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

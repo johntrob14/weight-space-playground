@@ -1,0 +1,9 @@
+{
+ "id": "P108",
+ "explanation": "Fires on 'body', 'body's' or 'your' (before body/brain/memory) in health text describing the human body as an agent or system that responds, adapts or has functions ('the body's immune system', 'your body adapts').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

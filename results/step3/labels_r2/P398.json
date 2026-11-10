@@ -1,0 +1,9 @@
+{
+ "id": "P398",
+ "explanation": "Fires inside calendar date expressions, on the preposition or day number that precedes a month or weekday name: 'last Monday in May', 'celebrated on November 9', '8 June', '23 December', 'through Easter Sunday', 'days in February'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

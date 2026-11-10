@@ -1,0 +1,9 @@
+{
+ "id": "P362",
+ "explanation": "Tokens in math where a number is being written as a power or under a root (the base '2' in 2^6 / 2^5, the '^', '\\times' inside an exponent) and the '\\' of '\\pm \\sqrt' in quadratic-formula roots; a chat-template token, a LaTeX table brace and the moderate excerpts do not fit.",
+ "category": "two_or_three_related_jobs",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

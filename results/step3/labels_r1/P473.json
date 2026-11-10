@@ -1,0 +1,9 @@
+{
+ "id": "P473",
+ "explanation": "No clear trigger. Most strong excerpts are short connective/function words in the middle of a set or coordinated phrase ('basking in', 'overturn or change', 'arising out of or in connection with', 'consider to be', 'bath and body', 'divided by'), but the moderate excerpts are content words in unrelated contexts.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

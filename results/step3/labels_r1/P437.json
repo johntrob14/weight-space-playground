@@ -1,0 +1,9 @@
+{
+ "id": "P437",
+ "explanation": "End of a line in math reasoning, usually the newline (or closing quote) right after a statement of a derived or quoted fact that the next line reacts to ('This implies a=0.\\n Wait', 'But ... = -2.\\n Contr'). Web excerpts ('Guessing game', 'Civitan Park') and some moderate ones (commas, 'the') do not fit.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

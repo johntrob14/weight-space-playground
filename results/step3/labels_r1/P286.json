@@ -1,0 +1,9 @@
+{
+ "id": "P286",
+ "explanation": "Fires mainly on 'all' used as a predeterminer before 'the/that/this/your/its' + noun ('all that gear', 'all the unhappiness', 'all your print requirements'). Related weaker cases are a verb or preposition right before a determiner-led object, often '... information' ('obtain this information', 'privacy of your Personal Information', 'use such technical information').",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

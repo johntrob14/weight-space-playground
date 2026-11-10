@@ -1,0 +1,9 @@
+{
+ "id": "P406",
+ "explanation": "Fires on a collective, quantity or kind noun that is immediately followed by 'of': 'a set of', 'years of', 'a pool of', 'a matter of', 'habit of', 'type of', 'amounts of', 'a group of'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

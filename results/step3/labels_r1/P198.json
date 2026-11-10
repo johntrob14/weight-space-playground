@@ -1,0 +1,9 @@
+{
+ "id": "P198",
+ "explanation": "Fires on the token that opens the next step of an algebraic derivation: the '$', indentation, '=' or opening parenthesis that begins the rewritten equation or right-hand side directly after the previous equation line. One strong excerpt is an unrelated web comma.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P494",
+ "explanation": "A function word that comes right before a noun naming an operation or action being carried out, most strongly ' the' in 'Perform the addition/subtraction/arithmetic operations', and also 'the result of the rotation', 'via rotation', 'After modifications', 'comes before Addition', 'at the time of transfer/booking', 'upon arriving'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

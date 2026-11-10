@@ -1,0 +1,9 @@
+{
+ "id": "P277",
+ "explanation": "Fires on the '-s' token (hyphen or slash plus s) that begins the second element of a hyphenated compound, e.g. previously-sent, good-sounding, Twitter-savvy, set-screw, pre-sell, victims/survivors. Moderate excerpts are unrelated.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

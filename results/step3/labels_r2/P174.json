@@ -1,0 +1,9 @@
+{
+ "id": "P174",
+ "explanation": "Two unrelated triggers: the token '-h'/'-H' in hyphenated compounds (much-hyped, now-historic, Go-to-Hell, pinch-hitting), and the words ' Something'/' is' in the self-correction phrase 'Something is (definitely) wrong' in math reasoning; the remaining excerpts are scattered.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P321",
+ "explanation": "In math reasoning, fires on a token inside the second of two parallel statements that reuses the template of the one just before it (\"$x$ is not a multiple of 5. $y$ is\", \"Second term\", \"consecutive even ... consecutive odd integers\", \"6_8 ... 7_8\", \"5 upper class ... 10 lower class\"). Moderate excerpts are weak firings on assorted digits and symbols in formulas without a visible parallel.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.2,
+ "repetition_related": true
+}

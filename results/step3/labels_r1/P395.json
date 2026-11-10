@@ -1,0 +1,9 @@
+{
+ "id": "P395",
+ "explanation": "Fires inside ALL-CAPS text, on a token that continues a capitalised word or headline (L|EMON, C|RAWLING, TE|ETH, DUST OR). Weaker hits are other mid-unit continuations: a line break in the middle of a hard-wrapped sentence, or a hyphen/slash joining compound words.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

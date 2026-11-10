@@ -1,0 +1,9 @@
+{
+ "id": "P454",
+ "explanation": "Fires in descriptions of sudden or rapid movement, on the motion verb or the word next to it ('the car sped past', 'sent him retreating', 'has absolutely soared', 'rockets coming out', 'a train came into', 'speeding away'), mostly in narrative or erotic prose.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 0.9,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

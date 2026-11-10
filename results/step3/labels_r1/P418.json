@@ -1,0 +1,9 @@
+{
+ "id": "P418",
+ "explanation": "Mainly the possessive 'your' (also 'own', 'my') in second-person consumer/instructional text about products, body care and orders; also fires on bullet dashes and connectives ('as well as', 'and') in product descriptions and instructions.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

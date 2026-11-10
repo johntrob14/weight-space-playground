@@ -1,0 +1,9 @@
+{
+ "id": "P043",
+ "explanation": "Weak, diffuse pattern: fires on a token inside a string that closely repeats or parallels something just written, e.g. successive lines '10!/131072', '10!/262144', repeated 'LHS: |-5(1/..)-1| =', '\\boxed{}' restated, the next item in '2002, 2003, 2004, 2005', repeated 'is it \"ELLIPSE\"'. Title fragments ('BEFORE WE WERE YOURS', 'The Calm After') fit only loosely.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "low",
+ "cover_strong": 0.7,
+ "cover_moderate": 0.8,
+ "repetition_related": true
+}

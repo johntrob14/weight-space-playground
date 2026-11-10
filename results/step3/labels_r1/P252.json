@@ -1,0 +1,9 @@
+{
+ "id": "P252",
+ "explanation": "Fires on a determiner ('any', 'some', 'the', 'what', 'a') that sits right before a generic category or quantity noun such as kind, sort, form, manner, extent, level, format, number/count ('of any kind', 'some sort of', 'to what extent', 'find the number of').",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

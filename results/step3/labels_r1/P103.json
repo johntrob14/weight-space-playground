@@ -1,0 +1,9 @@
+{
+ "id": "P103",
+ "explanation": "In the opening, problem-restating part of a math solution, fires on the noun (or copula) that names the mathematical object being introduced: 'the given [expression]', 'the given [equation] is', 'the distance [formula]', 'volume of a [cone]', 'the equations [are]'. Weaker on similar framing words such as 'the problem', 'alternative reading'.",
+ "category": "one_job_with_related_offshoots",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.8,
+ "repetition_related": false
+}

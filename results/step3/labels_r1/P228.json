@@ -1,0 +1,9 @@
+{
+ "id": "P228",
+ "explanation": "No single trigger: marked tokens are commas, 'and', ' based', ' on', name parts ('Giants', 'Voice') across unrelated contexts; several are in real-estate/legal-deal text but the marked tokens themselves share nothing.",
+ "category": "no_coherent_pattern",
+ "confidence": "low",
+ "cover_strong": 0.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P049",
+ "explanation": "The first token of a cited title of a literary or creative work (an opening quotation mark or the first word, typically 'The'), right after an author mention or a phrase like 'in', 'book', 'drama', 'movies include': 'The Tempest', 'The Divine Comedy', 'The Lord of the Rings'.",
+ "category": "one_job",
+ "confidence": "high",
+ "cover_strong": 1.0,
+ "cover_moderate": 1.0,
+ "repetition_related": false
+}

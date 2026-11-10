@@ -1,0 +1,9 @@
+{
+ "id": "P066",
+ "explanation": "Two distinct triggers: (1) the first token of the result right after '=' (or an operator) in an arithmetic line, e.g. '= [ ]31'; (2) the pronoun in comparison/aside clauses such as 'as [you] might guess', 'as [you] know', 'than [you] might expect', 'as [I]'d like'.",
+ "category": "unrelated_mixture",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

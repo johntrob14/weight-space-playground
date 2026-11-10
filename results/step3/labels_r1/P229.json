@@ -1,0 +1,9 @@
+{
+ "id": "P229",
+ "explanation": "Fires on a word-initial token that is the letter 'p' or 'P' (often with a leading space, hyphen or slash) beginning a word that continues in the next token (p-ity, p-enny, P-its, P-oultry, p-wned, p-olicy, p-urchased). The moderate excerpts do not share this and look diffuse.",
+ "category": "one_job",
+ "confidence": "medium",
+ "cover_strong": 1.0,
+ "cover_moderate": 0.0,
+ "repetition_related": false
+}

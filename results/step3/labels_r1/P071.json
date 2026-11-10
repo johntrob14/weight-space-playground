@@ -1,0 +1,9 @@
+{
+ "id": "P071",
+ "explanation": "Mixture: the '#' before preprocessor-style directives (#else, #endif, #set), the letter 'z' starting a term (z/OS, zNAS, zipped, Zilch), and digits or the decimal point inside numbers such as '10.73' or '2000'. No single description covers them.",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.6,
+ "repetition_related": false
+}

@@ -1,0 +1,9 @@
+{
+ "id": "P281",
+ "explanation": "Loose mixture: evaluative or affirming words ('best', 'really', 'Class'/'Classy', 'Yes', 'true') plus unrelated tokens ('arch', 'TREES', 'Tur', 'lying', 'directory', 'solutions').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.6,
+ "cover_moderate": 0.4,
+ "repetition_related": false
+}

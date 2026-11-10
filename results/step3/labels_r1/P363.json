@@ -1,0 +1,9 @@
+{
+ "id": "P363",
+ "explanation": "The LaTeX token 'sqrt' in root expressions, especially nth roots like '\\sqrt[8]{', covers three strong and one moderate excerpt. The rest are unrelated tokens (' $', 'AB', ' office', a bullet, ' there', ' to', ' speak', ' optimization').",
+ "category": "unrelated_mixture",
+ "confidence": "low",
+ "cover_strong": 0.3,
+ "cover_moderate": 0.2,
+ "repetition_related": false
+}
