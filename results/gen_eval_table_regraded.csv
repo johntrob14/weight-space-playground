@@ -1,0 +1,13 @@
+variant,n,looped,finished,correct_regraded
+none,36,26,1,1
+published,36,3,8,8
+write_top64_a6,36,5,1,1
+full_owndir_a6,36,6,1,1
+act_top64_a6,36,5,2,2
+random64_0_a6,36,18,2,2
+pubcols_owndir_a6,36,3,3,3
+writecols_pubdir_a6,36,3,4,4
+proj_incorrect_a6,36,0,7,6
+steer_incorrect_L15_c-2,36,0,18,7
+proj_cut_a6,36,2,6,6
+steer_incorrect_L15_c-1,36,0,12,12
