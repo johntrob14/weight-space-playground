@@ -56,6 +56,9 @@ def per_text_mean(r, key, c):
 def contrast(pos_rows, pos_cls, neg_rows, neg_cls, key):
     n1, m1, v1 = pooled(pos_rows, key, pos_cls)
     n0, m0, v0 = pooled(neg_rows, key, neg_cls)
+    if n1 == 0 or n0 == 0:          # contrast not available yet (partial data)
+        z = np.zeros(3584 if key.startswith("act") else 1024)
+        return {"n_pos": n1, "n_neg": n0, "diff": z, "d": z, "mean_pos": z, "mean_neg": z}
     diff = m1 - m0
     sd = np.sqrt((n1 * v1 + n0 * v0) / (n1 + n0))
     return {"n_pos": n1, "n_neg": n0, "diff": diff, "d": diff / np.maximum(sd, 1e-8), "mean_pos": m1, "mean_neg": m0}
@@ -76,7 +79,7 @@ def auroc_from_hist(hp, hn):
     hp, hn = hp.astype(np.float64), hn.astype(np.float64)
     cn = np.cumsum(hn, 1) - hn                      # negatives strictly below each bin
     u = (hp * (cn + 0.5 * hn)).sum(1)
-    return u / (hp.sum(1) * hn.sum(1))
+    return u / np.maximum(hp.sum(1) * hn.sum(1), 1)
 
 
 def score_ranking(score, truth_cols, n=3584):
