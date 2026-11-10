@@ -30,7 +30,7 @@ MID_TARGET = [34, 40, 46, 52, 58]
 tok = AutoTokenizer.from_pretrained(wsp.snapshot("instruct"))
 units = json.load(open(os.path.join(S3, "units.json")))
 meta = json.load(open(os.path.join(S3, "meta.json")))
-vals = np.load(os.path.join(S3, "values.npy"), mmap_mode="r")
+vals = np.load(os.path.join(S3, "values.npy"))
 tokens, doc, pos = (np.load(os.path.join(S3, f"{k}.npy")) for k in ("tokens", "doc", "pos"))
 src = np.array([d[0] for d in meta["docs"]])
 doc_start = np.concatenate([[0], np.cumsum([d[2] for d in meta["docs"]])])
