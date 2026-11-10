@@ -129,3 +129,9 @@ Additive steering after layer 15 hurts productive text more than loop text at ev
 about -0.03 / -0.045 for loop, incorrect and cut directions; random -0.00 / -0.014; c = -4 and -8 are destructive).
 Generation check queued: proj_incorrect_a6, steer_incorrect_L15_c-2, proj_cut_a6, steer_incorrect_L15_c-1,
 steer_loop_L15_c-2, steer_random_L15_c-2.
+
+## Difference-of-means baselines, generation check (36 problems, 8,192 cap; results/gen_eval_table_regraded.csv)
+Looped / finished / correct: unedited 26/1/1; published 3/8/8; incorrect-vs-correct rank-1 weight edit 0/7/6;
+cut-vs-finished weight edit 2/6/6; incorrect steering after L15 at c=-1 0/12/12, at c=-2 0/18/7 (12 texts emit
+<|endoftext|> and drift to invented problems). Harness stopped only on <|im_end|>; regrading with text cut at
+<|endoftext|> changed only the c=-2 row. The proxy ranked steering below weight edits; generation did not.
