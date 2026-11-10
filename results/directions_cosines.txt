@@ -1,0 +1,14 @@
+layer 15: rollouts per contrast loop 183/183, incorrect 185/15, cut 186/14, vsedited 200/200
+   raw difference norms: loop 1.878, incorrect 0.834, cut 0.898, vsedited 0.586
+   cosine matrix (rows/cols: loop, incorrect, cut, vsedited, published u):
+     loop       1.000  0.761  0.792  0.992  0.729
+     incorrect  0.761  1.000  0.989  0.767  0.696
+     cut        0.792  0.989  1.000  0.797  0.716
+     vsedited   0.992  0.767  0.797  1.000  0.745
+layer 19: rollouts per contrast loop 183/183, incorrect 185/15, cut 186/14, vsedited 200/200
+   raw difference norms: loop 3.169, incorrect 1.376, cut 1.461, vsedited 1.002
+   cosine matrix (rows/cols: loop, incorrect, cut, vsedited, published u):
+     loop       1.000  0.773  0.797  0.994  0.751
+     incorrect  0.773  1.000  0.988  0.777  0.690
+     cut        0.797  0.988  1.000  0.798  0.704
+     vsedited   0.994  0.777  0.798  1.000  0.767
