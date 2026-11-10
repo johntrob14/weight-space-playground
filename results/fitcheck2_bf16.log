@@ -1,0 +1,15 @@
+bf16: weights on GPU 1459 MiB, total 3715 MiB
+
+teacher-forced forward, hidden states only, taps on L15/L19 (acts moved to CPU by the caller):
+      1x1024:   1.14s,    895 tok/s, peak 1631 MiB, finite True
+      1x4096:   4.56s,    897 tok/s, peak 3000 MiB, finite True
+      1x8192: OOM
+      4x1024:   3.95s,   1037 tok/s, peak 2132 MiB, finite True
+
+sampled generation with KV cache (temperature 0.6, top_p 0.95, top_k 20), fixed new-token count:
+      1x512:   16.3s,    31 tok/s total, peak 1513 MiB
+      4x512:   44.1s,    46 tok/s total, peak 1644 MiB
+     1x2048:   65.6s,    31 tok/s total, peak 1571 MiB
+   tail of the 2048-token sample: "?\n    *   Let's check the expansion: $(x+3)(x-2) = x^2 + 3x - 2x - 6 = x^2 + x - 6$.\n    *   Yes, it is correct.\n    *   So the asymptotes are at $x = -3$ and $x = 2$.\n    *   Wait, $x^2 + x - 6 = (x+3)(x-2)$.\n    *   Wait, let me check the sign of the denominator again.\n    *   At $x = -3$, denominator is 0.\n    *   At $x = 2$, denominator is 0.\n    *   The function is undefined at these points.\n"
+
+done

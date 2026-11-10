@@ -1,0 +1,16 @@
+fp16: weights on GPU 1459 MiB, total 3715 MiB
+
+teacher-forced forward, hidden states only, taps on L15/L19 (acts moved to CPU by the caller):
+      1x1024:   3.10s,    330 tok/s, peak 1620 MiB, finite True
+      1x2048:   5.69s,    360 tok/s, peak 1756 MiB, finite True
+      1x4096:  11.81s,    347 tok/s, peak 2034 MiB, finite True
+      1x8192:  24.92s,    329 tok/s, peak 2587 MiB, finite True
+     1x16384: OOM
+     1x32768: OOM
+      4x1024:  11.31s,    362 tok/s, peak 2093 MiB, finite True
+      8x1024:  22.59s,    363 tok/s, peak 2726 MiB, finite True
+      4x2048:  22.92s,    357 tok/s, peak 2648 MiB, finite True
+
+sampled generation with KV cache (temperature 0.6, top_p 0.95, top_k 20), fixed new-token count:
+      1x512:   15.8s,    32 tok/s total, peak 1496 MiB
+      4x512:  137.5s,    15 tok/s total, peak 1623 MiB

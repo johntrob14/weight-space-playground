@@ -1,0 +1,63 @@
+{
+ "params_all": 852985920,
+ "params_text": 752393024,
+ "bf16_to_fp16_changed_entries": 267427,
+ "bf16_to_fp16_max_abs_err": 2.9802322387695312e-08,
+ "neuron_act_shape": [
+  166,
+  3584
+ ],
+ "gpu_fp16_weights_MiB": 1459,
+ "gpu_fp16_fwd_s": 1.0928324063618977,
+ "gpu_fp16": {
+  "finite": true,
+  "top1_agree": 1.0,
+  "kl_mean": 4.995068138669012e-06,
+  "kl_max": 6.259907968342304e-05,
+  "logit_max_abs_diff": 0.08110237121582031,
+  "act_L15_finite": true,
+  "act_L15_rel_err": 0.001690179342404008,
+  "act_L15_abs_max": 6.208789348602295,
+  "act_L19_finite": true,
+  "act_L19_rel_err": 0.0016985563561320305,
+  "act_L19_abs_max": 6.905874729156494
+ },
+ "gpu_bf16_weights_MiB": 1459,
+ "gpu_bf16_fwd_s": 0.30478739738464355,
+ "gpu_bf16": {
+  "finite": true,
+  "top1_agree": 0.9939758777618408,
+  "kl_mean": 0.0003456299309618771,
+  "kl_max": 0.012891450896859169,
+  "logit_max_abs_diff": 0.6097049713134766,
+  "act_L15_finite": true,
+  "act_L15_rel_err": 0.013298697769641876,
+  "act_L15_abs_max": 6.208789348602295,
+  "act_L19_finite": true,
+  "act_L19_rel_err": 0.013816134072840214,
+  "act_L19_abs_max": 6.905874729156494
+ },
+ "tf": {
+  "1024": {
+   "s": 4.062005519866943,
+   "peak_MiB": 3172,
+   "finite": true
+  },
+  "4096": {
+   "oom": true
+  }
+ },
+ "gen": {
+  "1": {
+   "s": 8.101176977157593,
+   "tok_per_s": 31.600346557275316,
+   "peak_MiB": 3485
+  },
+  "8": {
+   "oom": true
+  }
+ },
+ "gpu_total_MiB": 3715,
+ "torch": "2.15.0+cu132",
+ "device": "NVIDIA GeForce GTX 1650 Ti with Max-Q Design"
+}

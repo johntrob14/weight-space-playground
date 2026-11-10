@@ -1,0 +1,4 @@
+tensors: 488 differing: ['model.language_model.layers.15.mlp.down_proj.weight', 'model.language_model.layers.19.mlp.down_proj.weight']
+model.language_model.layers.15.mlp.down_proj.weight shape [out,in] = [1024, 3584] | changed entries 65260 | changed input columns 64 | changed output rows 1024 | edited sha matches model card: True | columns == Astra's selected_neurons: True
+model.language_model.layers.19.mlp.down_proj.weight shape [out,in] = [1024, 3584] | changed entries 64928 | changed input columns 64 | changed output rows 1023 | edited sha matches model card: True | columns == Astra's selected_neurons: True
+columns x rows total: 131072

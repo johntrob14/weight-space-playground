@@ -1,0 +1,38 @@
+params: all 852,985,920, language model 752,393,024 (embedding tied: True)
+top-level modules of model.model: ['visual', 'language_model']
+layer 15 mlp: Qwen3_5MLP(
+  (gate_proj): Linear(in_features=1024, out_features=3584, bias=False)
+  (up_proj): Linear(in_features=1024, out_features=3584, bias=False)
+  (down_proj): Linear(in_features=3584, out_features=1024, bias=False)
+  (act_fn): SiLUActivation()
+)
+1. bf16 -> fp16 cast: 267,427 of 752,393,024 language-model entries change value (max abs error 2.980e-08)
+
+--- rendered prompt (thinking on) ---
+<|im_start|>user
+How many vertical asymptotes does the graph of $y=\frac{2}{x^2+x-6}$ have?
+Please reason step by step, and put your final answer within \boxed{}.<|im_end|>
+<|im_start|>assistant
+<think>
+
+--- end ---
+prompt tokens: 51
+
+2. fp32 CPU reference forward on 166 tokens: 1.9s; neuron act shape L15 (166, 3584)
+
+3. gpu_fp16: weights on GPU 1459 MiB; forward 1.093s (first call 1.66s)
+   gpu_fp16: {'finite': True, 'top1_agree': 1.0, 'kl_mean': 4.995068138669012e-06, 'kl_max': 6.259907968342304e-05, 'logit_max_abs_diff': 0.08110237121582031, 'act_L15_finite': True, 'act_L15_rel_err': 0.001690179342404008, 'act_L15_abs_max': 6.208789348602295, 'act_L19_finite': True, 'act_L19_rel_err': 0.0016985563561320305, 'act_L19_abs_max': 6.905874729156494}
+
+3. gpu_bf16: weights on GPU 1459 MiB; forward 0.305s (first call 0.33s)
+   gpu_bf16: {'finite': True, 'top1_agree': 0.9939758777618408, 'kl_mean': 0.0003456299309618771, 'kl_max': 0.012891450896859169, 'logit_max_abs_diff': 0.6097049713134766, 'act_L15_finite': True, 'act_L15_rel_err': 0.013298697769641876, 'act_L15_abs_max': 6.208789348602295, 'act_L19_finite': True, 'act_L19_rel_err': 0.013816134072840214, 'act_L19_abs_max': 6.905874729156494}
+
+4. teacher-forced forward (fp16, batch 1, taps on L15/L19):
+     1024 tokens: 4.06s, peak 3172 MiB, finite True
+     4096 tokens: OOM
+
+5. sampled generation (fp16, temperature 0.6, top_p 0.95, top_k 20), 256 new tokens:
+   batch  1: 8.1s, 32 tok/s, peak 3485 MiB
+   sample: "Here's a thinking process that leads to the solution:\n\n1.  **Analyze the Request:**\n    *   **Function:** $y = \\frac{2}{x^2 + x - 6}$\n    *   **Question:** How many vertical asymptotes does the graph have?\n    *   **Requirement:** Step-by-step reasoning and the final answer in a box.\n\n2.  **Understa"
+   batch 8: OOM
+
+done
