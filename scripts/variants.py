@@ -88,6 +88,10 @@ class Context:
         m = re.fullmatch(r"pubcols_owndir_a([\d.]+)", name)
         if m:
             return {l: self.directional(l, pub[l], uh[l], float(m[1])) for l in LAYERS}
+        m = re.fullmatch(r"writecols_pubdir_a([\d.]+)", name)     # our top-64 neurons, the published direction
+        if m:
+            return {l: self.directional(l, self.rank(l, "write")[:64], self.truth[f"L{l}_u"], float(m[1]))
+                    for l in LAYERS}
         m = re.fullmatch(r"full_owndir_a([\d.]+)", name)
         if m:
             return {l: self.directional(l, allc, uh[l], float(m[1])) for l in LAYERS}
