@@ -75,11 +75,22 @@ def grade(pred, gold):
         return norm(pred) == norm(gold)
 
 
-def problems(tok, n, bs, seed=0):
+def load_rows(source):
+    if source == "practice":
+        path = os.path.join(wsp.ROOT, "ext/lm_understand-logs/exp8_math/practice/math_train.jsonl")
+        return [json.loads(l) for l in open(path)]
+    # MATH-500 problems whose published rollouts were NOT used to fit any direction or ranking here
+    from datasets import load_dataset
+    used = {json.loads(l)["id"] for l in open(os.path.join(wsp.ROOT, "results/data/gens_summary.jsonl"))}
+    ds = load_dataset("HuggingFaceH4/MATH-500", split="test")
+    return [{"id": r["unique_id"], "problem": r["problem"], "answer": r["answer"]} for r in ds
+            if r["unique_id"] not in used]
+
+
+def problems(tok, n, bs, seed=0, source="practice"):
     """n practice problems in groups of bs with identical prompt token length (so batches need no padding).
     Lengths are taken in order of closeness to the median prompt length, among lengths with at least bs problems."""
-    path = os.path.join(wsp.ROOT, "ext/lm_understand-logs/exp8_math/practice/math_train.jsonl")
-    rows = [json.loads(l) for l in open(path)]
+    rows = load_rows(source)
     ids = [tok(wsp.render(tok, r["problem"]), add_special_tokens=False).input_ids for r in rows]
     by = {}
     for r, x in zip(rows, ids):
@@ -99,6 +110,13 @@ def problems(tok, n, bs, seed=0):
 def main():
     args = sys.argv[1:]
     opt = {"--n": 32, "--max_new": 8192, "--batch": 16}
+    source = "practice"
+    if "--math500_heldout" in args:
+        args.remove("--math500_heldout")
+        source = "math500_heldout"
+    global OUT
+    if source != "practice":
+        OUT = os.path.join(wsp.ROOT, "results/gen_eval_m500.jsonl")
     names = []
     i = 0
     while i < len(args):
@@ -121,8 +139,10 @@ def main():
     model.eval().to("cuda")
     wsp.enable_grouped_attention(model)      # same outputs, no per-token copy of the key/value cache
     ctx = variants.Context(model)
-    enc = problems(tok, n, bs)
+    enc = problems(tok, n, bs, source=source)
     eos = tok.convert_tokens_to_ids("<|im_end|>")
+    eot = tok.convert_tokens_to_ids("<|endoftext|>")       # also stop here (added 2026-11-11 for the MATH-500 runs)
+    stops = [eos, eot] if source != "practice" else [eos]
     for name in names:
         ctx.apply(name)
         todo = [(p, ids) for p, ids in enc if (name, p["id"]) not in done]
@@ -142,12 +162,13 @@ def main():
             P = x.shape[1]
             with torch.no_grad():
                 g = model.generate(input_ids=x, attention_mask=torch.ones_like(x), max_new_tokens=max_new,
-                                   do_sample=True, temperature=0.6, top_p=0.95, top_k=20, eos_token_id=eos,
+                                   do_sample=True, temperature=0.6, top_p=0.95, top_k=20, eos_token_id=stops,
                                    pad_token_id=eos,
                                    logits_processor=LogitsProcessorList([PresencePenalty(1.5, P)]))
             for (p, _), row in zip(b, g[:, P:].tolist()):
-                fin = eos in row
-                gen = row[:row.index(eos)] if fin else row
+                cutpos = [row.index(t) for t in stops if t in row]
+                fin = bool(cutpos)
+                gen = row[:min(cutpos)] if fin else row
                 text = tok.decode(gen)
                 r = repeat_flags(gen)
                 on = onset(r)
