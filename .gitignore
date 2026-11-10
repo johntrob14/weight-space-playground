@@ -6,3 +6,6 @@ results/acts/state.pt
 results/acts/state.pt.tmp
 results/data/gens.pt
 results/bench/*.pt
+results/step3/values.npy
+results/step3/*.npy
+results/step3/SECRET_key.json

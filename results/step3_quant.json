@@ -1,0 +1,34 @@
+{
+ "L15_top": {
+  "edited_loop_share_mean": 0.09062500000000001,
+  "others_loop_share_mean": 0.010085227272727273,
+  "edited_single_token_share_mean": 0.38359375,
+  "others_single_token_share_mean": 0.4117613636363637,
+  "edited_distinct_texts_mean": 12.5625,
+  "others_distinct_texts_mean": 13.17159090909091
+ },
+ "L15_bottom": {
+  "edited_loop_share_mean": 0.0765625,
+  "others_loop_share_mean": 0.009559659090909093,
+  "edited_single_token_share_mean": 0.39687500000000003,
+  "others_single_token_share_mean": 0.4149715909090909,
+  "edited_distinct_texts_mean": 11.859375,
+  "others_distinct_texts_mean": 13.333238636363637
+ },
+ "L19_top": {
+  "edited_loop_share_mean": 0.0234375,
+  "others_loop_share_mean": 0.0024857954545454545,
+  "edited_single_token_share_mean": 0.43359375,
+  "others_single_token_share_mean": 0.4245596590909091,
+  "edited_distinct_texts_mean": 13.3125,
+  "others_distinct_texts_mean": 12.720170454545455
+ },
+ "L19_bottom": {
+  "edited_loop_share_mean": 0.03046875,
+  "others_loop_share_mean": 0.0028125000000000008,
+  "edited_single_token_share_mean": 0.446875,
+  "others_single_token_share_mean": 0.4276846590909091,
+  "edited_distinct_texts_mean": 12.9375,
+  "others_distinct_texts_mean": 12.789488636363636
+ }
+}
