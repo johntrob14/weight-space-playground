@@ -115,3 +115,17 @@ direction or the neuron choice carries the finishing effect.
 Cosine with the loop direction: incorrect-vs-correct 0.76 / 0.77 (L15 / L19), cut-vs-finished 0.79 / 0.80,
 unedited-vs-edited text 0.99 / 0.99. Cosine with the published u: loop 0.73 / 0.75, incorrect 0.70 / 0.69,
 cut 0.72 / 0.70. Only 15 correct and 14 finished rollouts among the 200.
+
+## Direction vs neuron choice (generation, 36 problems): underpowered
+published 3 looped / 8 finished; published neurons + our direction 3 / 3; our neurons + published direction 3 / 4;
+our neurons + our direction 5 / 1. No pairwise finishing difference among the first three is significant.
+Random-64 control: 18 looped / 2 finished (unedited 26 / 1), so single-sample noise is large.
+
+## Difference-of-means baselines, proxy screen (results/proxy_eval_table.csv; directions fit on all 200 rollouts)
+Rank-1 weight edit on all columns, alpha 6 (loop / productive log-prob change): loop direction -0.085 / -0.037;
+incorrect-vs-correct -0.108 / -0.033; cut-vs-finished -0.131 / -0.038; published u -0.135 / -0.059; random
+-0.002 / -0.005. Published 64-neuron edit: -0.075 / -0.020.
+Additive steering after layer 15 hurts productive text more than loop text at every strength tried (c = -1:
+about -0.03 / -0.045 for loop, incorrect and cut directions; random -0.00 / -0.014; c = -4 and -8 are destructive).
+Generation check queued: proj_incorrect_a6, steer_incorrect_L15_c-2, proj_cut_a6, steer_incorrect_L15_c-1,
+steer_loop_L15_c-2, steer_random_L15_c-2.
