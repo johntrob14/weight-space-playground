@@ -74,3 +74,22 @@ Reading: a ranking built without the published edit (activation difference x wri
 direction) matches the published edit at the same weight count. Activation difference alone gets about half.
 The full-direction edit needs about 50x the weights for the same loop effect and costs more on productive text.
 Next: confirm with generations (scripts/gen_eval.py).
+
+## Step 3 (2026-11-10): do the edited neurons have one clear function? Mostly, but less often than other neurons.
+512 units, blinded packets (10 strong + 5 moderate excerpts, positive pole) from 3.94 M tokens (2.0 M FineWeb,
+1.94 M unedited-model math reasoning). 16 labelling agents, 4 more relabelled a random quarter.
+Files: results/step3/analysis.log, labels_unblinded.csv, unit_stats.jsonl; scripts/step3_*.py.
+
+| Unit type (128 each) | One job | + related offshoots | One job, either | 95% CI | Repetition-related |
+| --- | --- | --- | --- | --- | --- |
+| Edited neurons | 25 | 57 | 82 (64%) | 56-72% | 18 |
+| Matched neurons (variance, index) | 34 | 59 | 93 (73%) | 64-80% | 6 |
+| Random neurons | 35 | 70 | 105 (82%) | 75-88% | 1 |
+| Random directions | 12 | 22 | 34 (27%) | 20-35% | 2 |
+
+- Fisher exact, one job either: edited vs matched p = 0.18; edited vs random p = 0.002; every neuron group vs
+  directions p < 0.001. Repetition-related, edited vs matched: p = 0.017.
+- Agreement between the two labelling passes (128 units): 90% on one-job-either, kappa 0.79. Same model both passes.
+- Hand check: I judged 30 random packets blind; 24/30 agree with the agents on one-job-either, 3 disagreements each way.
+- Density matters within type (denser units are labelled one job less often), as in the already-clean replication.
+- Limits: positive pole only; half the edited neurons have their largest activation at the negative pole.
