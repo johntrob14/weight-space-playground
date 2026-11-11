@@ -1,0 +1,175 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Neuron interpretability vs a steering vector on a known weight edit</title>
+<style>
+:root{--s1:#2a78d6;--s2:#eb6834;--s3:#1baf7a;--s4:#6250d6;--ink:#0b0b0b;--ink2:#52514e;--muted:#898781;--grid:#e1e0d9;--axis:#c3c2b7;--surface:#fcfcfb;--page:#f9f9f7;} @media (prefers-color-scheme: dark){:root{--s1:#3987e5;--s2:#d95926;--s3:#199e70;--s4:#9085e9;--ink:#f0efec;--ink2:#c3c2b7;--muted:#898781;--grid:#2c2c2a;--axis:#383835;--surface:#1a1a19;--page:#0d0d0d;}}
+body{margin:0;background:var(--page);color:var(--ink);font:17px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:1120px;margin:0 auto;padding:32px 24px 80px}
+h1{font-size:34px;line-height:1.2;margin:0 0 10px} h2{font-size:24px;margin:52px 0 6px}
+.lede{font-size:20px;color:var(--ink2);margin:0 0 24px;max-width:860px}
+.tiles{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:8px 0 20px}
+.tile,.card{background:var(--surface);border:1px solid var(--grid);border-radius:12px}
+.tile{padding:18px 22px} .big{font-size:44px;font-weight:650;line-height:1.1} .small{color:var(--ink2);margin-top:6px}
+.card{padding:18px 18px 8px;margin:12px 0} svg{width:100%;height:auto;display:block}
+.cap{color:var(--ink2);margin:10px 4px 14px;max-width:900px} .note{color:var(--ink2);max-width:900px}
+details{margin:6px 4px 10px;color:var(--ink2)} summary{cursor:pointer}
+table.t{border-collapse:collapse;margin:10px 0;font-size:16px} table.t th,table.t td{padding:6px 14px;border-bottom:1px solid var(--grid);text-align:left}
+table.t th{color:var(--ink2);font-weight:600}
+@media (max-width:760px){.tiles{grid-template-columns:1fr}}
+</style></head><body><main>
+<h1>A steering vector from incorrect vs correct rollouts beats the published weight edit</h1>
+<p class="lede">Qwen3.5-0.8B loops on most math problems. On the same 60 held-out MATH-500 problems, adding one
+difference-of-means vector after layer 15 gets 31 right; the published 64-neuron weight
+edit gets 20; the unedited model gets 7. The vector was built
+without knowing the failure was looping.</p>
+<div class="tiles">
+<div class="tile"><div class="big">31 / 60</div><div class="small">correct with the steering vector</div></div>
+<div class="tile"><div class="big">20 / 60</div><div class="small">correct with the published weight edit</div></div>
+<div class="tile"><div class="big">13 vs 2</div><div class="small">problems only one of the two gets right (sign test p = 0.007)</div></div>
+</div>
+<div class="card"><svg viewBox="0 0 980 276" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, sans-serif"><rect x="400" y="10" width="16" height="16" rx="3" fill="var(--s1)"/><text x="424" y="24" font-size="18" fill="var(--ink2)">Correct</text><rect x="521" y="10" width="16" height="16" rx="3" fill="var(--s2)"/><text x="545" y="24" font-size="18" fill="var(--ink2)">Looped</text><line x1="400.0" y1="44" x2="400.0" y2="236" stroke="var(--grid)" stroke-width="1"/><text x="400.0" y="262" font-size="17" text-anchor="middle" fill="var(--muted)">0</text><line x1="530.0" y1="44" x2="530.0" y2="236" stroke="var(--grid)" stroke-width="1"/><text x="530.0" y="262" font-size="17" text-anchor="middle" fill="var(--muted)">15</text><line x1="660.0" y1="44" x2="660.0" y2="236" stroke="var(--grid)" stroke-width="1"/><text x="660.0" y="262" font-size="17" text-anchor="middle" fill="var(--muted)">30</text><line x1="790.0" y1="44" x2="790.0" y2="236" stroke="var(--grid)" stroke-width="1"/><text x="790.0" y="262" font-size="17" text-anchor="middle" fill="var(--muted)">45</text><line x1="920.0" y1="44" x2="920.0" y2="236" stroke="var(--grid)" stroke-width="1"/><text x="920.0" y="262" font-size="17" text-anchor="middle" fill="var(--muted)">60</text><line x1="400" y1="44" x2="400" y2="236" stroke="var(--axis)" stroke-width="1.5"/><text x="386" y="82.0" font-size="18" text-anchor="end" fill="var(--ink)">Steering vector (incorrect vs correct)</text><path d="M400,54 h264.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-264.7 z" fill="var(--s1)"><title>Steering vector (incorrect vs correct): 31 of 60 correct</title></path><text x="676.7" y="69" font-size="16" fill="var(--ink2)">31</text><path d="M400,76 h4.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-4.7 z" fill="var(--s2)"><title>Steering vector (incorrect vs correct): 1 of 60 looped</title></path><text x="416.7" y="91" font-size="16" fill="var(--ink2)">1</text><text x="386" y="146.0" font-size="18" text-anchor="end" fill="var(--ink)">Published weight edit</text><path d="M400,118 h169.3 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-169.3 z" fill="var(--s1)"><title>Published weight edit: 20 of 60 correct</title></path><text x="581.3" y="133" font-size="16" fill="var(--ink2)">20</text><path d="M400,140 h48.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-48.0 z" fill="var(--s2)"><title>Published weight edit: 6 of 60 looped</title></path><text x="460.0" y="155" font-size="16" fill="var(--ink2)">6</text><text x="386" y="210.0" font-size="18" text-anchor="end" fill="var(--ink)">Unedited model</text><path d="M400,182 h56.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-56.7 z" fill="var(--s1)"><title>Unedited model: 7 of 60 correct</title></path><text x="468.7" y="197" font-size="16" fill="var(--ink2)">7</text><path d="M400,204 h429.3 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-429.3 z" fill="var(--s2)"><title>Unedited model: 50 of 60 looped</title></path><text x="841.3" y="219" font-size="16" fill="var(--ink2)">50</text></svg></div>
+<p class="cap">Held-out MATH-500 problems (not used to fit the vector), one sample each, 16,384-token cap, the post's
+sampling settings. "Looped" means a loop onset was detected before the cap.</p>
+<details><summary>Table</summary><table class="dataframe t">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Condition</th>
+      <th>Correct</th>
+      <th>Finished</th>
+      <th>Looped</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Steering vector (incorrect vs correct)</td>
+      <td>31 / 60</td>
+      <td>34 / 60</td>
+      <td>1 / 60</td>
+    </tr>
+    <tr>
+      <td>Published weight edit</td>
+      <td>20 / 60</td>
+      <td>23 / 60</td>
+      <td>6 / 60</td>
+    </tr>
+    <tr>
+      <td>Unedited model</td>
+      <td>7 / 60</td>
+      <td>7 / 60</td>
+      <td>50 / 60</td>
+    </tr>
+  </tbody>
+</table></details>
+<p class="note"><b>Limits.</b> The post's protocol uses a 32,768-token cap and four samples per problem; the shorter cap
+favours whichever method finishes sooner. The 60 problems skew toward short statements. The vector rests on 15 correct
+rollouts.</p>
+
+<h2>All interventions on 36 practice problems</h2>
+<div class="card"><svg viewBox="0 0 1100 980" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, sans-serif"><rect x="470" y="10" width="16" height="16" rx="3" fill="var(--s1)"/><text x="494" y="24" font-size="18" fill="var(--ink2)">Correct</text><rect x="591" y="10" width="16" height="16" rx="3" fill="var(--s2)"/><text x="615" y="24" font-size="18" fill="var(--ink2)">Looped</text><line x1="470.0" y1="44" x2="470.0" y2="940" stroke="var(--grid)" stroke-width="1"/><text x="470.0" y="966" font-size="17" text-anchor="middle" fill="var(--muted)">0</text><line x1="612.5" y1="44" x2="612.5" y2="940" stroke="var(--grid)" stroke-width="1"/><text x="612.5" y="966" font-size="17" text-anchor="middle" fill="var(--muted)">9</text><line x1="755.0" y1="44" x2="755.0" y2="940" stroke="var(--grid)" stroke-width="1"/><text x="755.0" y="966" font-size="17" text-anchor="middle" fill="var(--muted)">18</text><line x1="897.5" y1="44" x2="897.5" y2="940" stroke="var(--grid)" stroke-width="1"/><text x="897.5" y="966" font-size="17" text-anchor="middle" fill="var(--muted)">27</text><line x1="1040.0" y1="44" x2="1040.0" y2="940" stroke="var(--grid)" stroke-width="1"/><text x="1040.0" y="966" font-size="17" text-anchor="middle" fill="var(--muted)">36</text><line x1="470" y1="44" x2="470" y2="940" stroke="var(--axis)" stroke-width="1.5"/><text x="456" y="82.0" font-size="18" text-anchor="end" fill="var(--ink)">Steering, incorrect vs correct, strength −1</text><path d="M470,54 h186.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-186.0 z" fill="var(--s1)"><title>Steering, incorrect vs correct, strength −1: correct of 36</title></path><text x="668.0" y="69" font-size="16" fill="var(--ink2)">12</text><text x="478.0" y="91" font-size="16" fill="var(--ink2)">0</text><text x="456" y="146.0" font-size="18" text-anchor="end" fill="var(--ink)">Steering, incorrect vs correct, strength −2</text><path d="M470,118 h106.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-106.8 z" fill="var(--s1)"><title>Steering, incorrect vs correct, strength −2: correct of 36</title></path><text x="588.8" y="133" font-size="16" fill="var(--ink2)">7</text><text x="478.0" y="155" font-size="16" fill="var(--ink2)">0</text><text x="456" y="210.0" font-size="18" text-anchor="end" fill="var(--ink)">Published weight edit (64 neurons × 2)</text><path d="M470,182 h122.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-122.7 z" fill="var(--s1)"><title>Published weight edit (64 neurons × 2): correct of 36</title></path><text x="604.7" y="197" font-size="16" fill="var(--ink2)">8</text><path d="M470,204 h43.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-43.5 z" fill="var(--s2)"><title>Published weight edit (64 neurons × 2): looped of 36</title></path><text x="525.5" y="219" font-size="16" fill="var(--ink2)">3</text><text x="456" y="274.0" font-size="18" text-anchor="end" fill="var(--ink)">Weight edit, incorrect-vs-correct direction</text><path d="M470,246 h91.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-91.0 z" fill="var(--s1)"><title>Weight edit, incorrect-vs-correct direction: correct of 36</title></path><text x="573.0" y="261" font-size="16" fill="var(--ink2)">6</text><text x="478.0" y="283" font-size="16" fill="var(--ink2)">0</text><text x="456" y="338.0" font-size="18" text-anchor="end" fill="var(--ink)">Weight edit, hit-limit-vs-finished direction</text><path d="M470,310 h91.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-91.0 z" fill="var(--s1)"><title>Weight edit, hit-limit-vs-finished direction: correct of 36</title></path><text x="573.0" y="325" font-size="16" fill="var(--ink2)">6</text><path d="M470,332 h27.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-27.7 z" fill="var(--s2)"><title>Weight edit, hit-limit-vs-finished direction: looped of 36</title></path><text x="509.7" y="347" font-size="16" fill="var(--ink2)">2</text><text x="456" y="402.0" font-size="18" text-anchor="end" fill="var(--ink)">Our 64 neurons, published direction</text><path d="M470,374 h59.3 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-59.3 z" fill="var(--s1)"><title>Our 64 neurons, published direction: correct of 36</title></path><text x="541.3" y="389" font-size="16" fill="var(--ink2)">4</text><path d="M470,396 h43.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-43.5 z" fill="var(--s2)"><title>Our 64 neurons, published direction: looped of 36</title></path><text x="525.5" y="411" font-size="16" fill="var(--ink2)">3</text><text x="456" y="466.0" font-size="18" text-anchor="end" fill="var(--ink)">Published neurons, our loop direction</text><path d="M470,438 h43.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-43.5 z" fill="var(--s1)"><title>Published neurons, our loop direction: correct of 36</title></path><text x="525.5" y="453" font-size="16" fill="var(--ink2)">3</text><path d="M470,460 h43.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-43.5 z" fill="var(--s2)"><title>Published neurons, our loop direction: looped of 36</title></path><text x="525.5" y="475" font-size="16" fill="var(--ink2)">3</text><text x="456" y="530.0" font-size="18" text-anchor="end" fill="var(--ink)">Our 64 neurons (activation only), loop direction</text><path d="M470,502 h27.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-27.7 z" fill="var(--s1)"><title>Our 64 neurons (activation only), loop direction: correct of 36</title></path><text x="509.7" y="517" font-size="16" fill="var(--ink2)">2</text><path d="M470,524 h75.2 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-75.2 z" fill="var(--s2)"><title>Our 64 neurons (activation only), loop direction: looped of 36</title></path><text x="557.2" y="539" font-size="16" fill="var(--ink2)">5</text><text x="456" y="594.0" font-size="18" text-anchor="end" fill="var(--ink)">Our 64 neurons, loop direction</text><path d="M470,566 h11.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-11.8 z" fill="var(--s1)"><title>Our 64 neurons, loop direction: correct of 36</title></path><text x="493.8" y="581" font-size="16" fill="var(--ink2)">1</text><path d="M470,588 h75.2 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-75.2 z" fill="var(--s2)"><title>Our 64 neurons, loop direction: looped of 36</title></path><text x="557.2" y="603" font-size="16" fill="var(--ink2)">5</text><text x="456" y="658.0" font-size="18" text-anchor="end" fill="var(--ink)">Weight edit, loop direction, all neurons</text><path d="M470,630 h11.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-11.8 z" fill="var(--s1)"><title>Weight edit, loop direction, all neurons: correct of 36</title></path><text x="493.8" y="645" font-size="16" fill="var(--ink2)">1</text><path d="M470,652 h91.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-91.0 z" fill="var(--s2)"><title>Weight edit, loop direction, all neurons: looped of 36</title></path><text x="573.0" y="667" font-size="16" fill="var(--ink2)">6</text><text x="456" y="722.0" font-size="18" text-anchor="end" fill="var(--ink)">Steering, loop direction, strength −2</text><text x="478.0" y="709" font-size="16" fill="var(--ink2)">0</text><path d="M470,716 h11.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-11.8 z" fill="var(--s2)"><title>Steering, loop direction, strength −2: looped of 36</title></path><text x="493.8" y="731" font-size="16" fill="var(--ink2)">1</text><text x="456" y="786.0" font-size="18" text-anchor="end" fill="var(--ink)">64 random neurons, loop direction</text><path d="M470,758 h27.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-27.7 z" fill="var(--s1)"><title>64 random neurons, loop direction: correct of 36</title></path><text x="509.7" y="773" font-size="16" fill="var(--ink2)">2</text><path d="M470,780 h281.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-281.0 z" fill="var(--s2)"><title>64 random neurons, loop direction: looped of 36</title></path><text x="763.0" y="795" font-size="16" fill="var(--ink2)">18</text><text x="456" y="850.0" font-size="18" text-anchor="end" fill="var(--ink)">Steering, random direction, strength −2</text><path d="M470,822 h11.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-11.8 z" fill="var(--s1)"><title>Steering, random direction, strength −2: correct of 36</title></path><text x="493.8" y="837" font-size="16" fill="var(--ink2)">1</text><path d="M470,844 h486.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-486.8 z" fill="var(--s2)"><title>Steering, random direction, strength −2: looped of 36</title></path><text x="968.8" y="859" font-size="16" fill="var(--ink2)">31</text><text x="456" y="914.0" font-size="18" text-anchor="end" fill="var(--ink)">Unedited model</text><path d="M470,886 h11.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-11.8 z" fill="var(--s1)"><title>Unedited model: correct of 36</title></path><text x="493.8" y="901" font-size="16" fill="var(--ink2)">1</text><path d="M470,908 h407.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-407.7 z" fill="var(--s2)"><title>Unedited model: looped of 36</title></path><text x="889.7" y="923" font-size="16" fill="var(--ink2)">26</text></svg></div>
+<p class="cap">MATH train practice problems, one sample each, 8,192-token cap. Directions built from correctness or from
+hitting the token limit both remove loops and reach answers. Directions built from loop labels remove loops but rarely
+reach an answer. Random directions and random neurons are the controls. With 36 problems, gaps of a few problems are
+noise.</p>
+
+<h2>Can activation differences find the edited neurons?</h2>
+<div class="card"><svg viewBox="0 0 1100 596" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, sans-serif"><rect x="520" y="10" width="16" height="16" rx="3" fill="var(--s3)"/><text x="544" y="24" font-size="18" fill="var(--ink2)">Layer 15</text><rect x="652" y="10" width="16" height="16" rx="3" fill="var(--s4)"/><text x="676" y="24" font-size="18" fill="var(--ink2)">Layer 19</text><line x1="520.0" y1="44" x2="520.0" y2="556" stroke="var(--grid)" stroke-width="1"/><text x="520.0" y="582" font-size="17" text-anchor="middle" fill="var(--muted)">0</text><line x1="650.0" y1="44" x2="650.0" y2="556" stroke="var(--grid)" stroke-width="1"/><text x="650.0" y="582" font-size="17" text-anchor="middle" fill="var(--muted)">16</text><line x1="780.0" y1="44" x2="780.0" y2="556" stroke="var(--grid)" stroke-width="1"/><text x="780.0" y="582" font-size="17" text-anchor="middle" fill="var(--muted)">32</text><line x1="910.0" y1="44" x2="910.0" y2="556" stroke="var(--grid)" stroke-width="1"/><text x="910.0" y="582" font-size="17" text-anchor="middle" fill="var(--muted)">48</text><line x1="1040.0" y1="44" x2="1040.0" y2="556" stroke="var(--grid)" stroke-width="1"/><text x="1040.0" y="582" font-size="17" text-anchor="middle" fill="var(--muted)">64</text><line x1="520" y1="44" x2="520" y2="556" stroke="var(--axis)" stroke-width="1.5"/><text x="506" y="82.0" font-size="18" text-anchor="end" fill="var(--ink)">Activation difference × write along published direction</text><path d="M520,54 h377.9 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-377.9 z" fill="var(--s3)"><title>Activation difference × write along published direction: layer 15, of 64</title></path><text x="909.9" y="69" font-size="16" fill="var(--ink2)">47</text><path d="M520,76 h296.6 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-296.6 z" fill="var(--s4)"><title>Activation difference × write along published direction: layer 19, of 64</title></path><text x="828.6" y="91" font-size="16" fill="var(--ink2)">37</text><text x="506" y="146.0" font-size="18" text-anchor="end" fill="var(--ink)">Activation difference × write along our direction</text><path d="M520,118 h312.9 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-312.9 z" fill="var(--s3)"><title>Activation difference × write along our direction: layer 15, of 64</title></path><text x="844.9" y="133" font-size="16" fill="var(--ink2)">39</text><path d="M520,140 h223.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-223.5 z" fill="var(--s4)"><title>Activation difference × write along our direction: layer 19, of 64</title></path><text x="755.5" y="155" font-size="16" fill="var(--ink2)">28</text><text x="506" y="210.0" font-size="18" text-anchor="end" fill="var(--ink)">Weights only (uses published direction)</text><path d="M520,182 h247.9 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-247.9 z" fill="var(--s3)"><title>Weights only (uses published direction): layer 15, of 64</title></path><text x="779.9" y="197" font-size="16" fill="var(--ink2)">31</text><path d="M520,204 h142.2 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-142.2 z" fill="var(--s4)"><title>Weights only (uses published direction): layer 19, of 64</title></path><text x="674.2" y="219" font-size="16" fill="var(--ink2)">18</text><text x="506" y="274.0" font-size="18" text-anchor="end" fill="var(--ink)">Activation difference, loop vs productive tokens</text><path d="M520,246 h223.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-223.5 z" fill="var(--s3)"><title>Activation difference, loop vs productive tokens: layer 15, of 64</title></path><text x="755.5" y="261" font-size="16" fill="var(--ink2)">28</text><path d="M520,268 h142.2 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-142.2 z" fill="var(--s4)"><title>Activation difference, loop vs productive tokens: layer 19, of 64</title></path><text x="674.2" y="283" font-size="16" fill="var(--ink2)">18</text><text x="506" y="338.0" font-size="18" text-anchor="end" fill="var(--ink)">Baseline: largest mean activation</text><path d="M520,310 h158.5 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-158.5 z" fill="var(--s3)"><title>Baseline: largest mean activation: layer 15, of 64</title></path><text x="690.5" y="325" font-size="16" fill="var(--ink2)">20</text><path d="M520,332 h69.1 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-69.1 z" fill="var(--s4)"><title>Baseline: largest mean activation: layer 19, of 64</title></path><text x="601.1" y="347" font-size="16" fill="var(--ink2)">9</text><text x="506" y="402.0" font-size="18" text-anchor="end" fill="var(--ink)">Activation difference, looped vs non-looped prompts</text><path d="M520,374 h126.0 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-126.0 z" fill="var(--s3)"><title>Activation difference, looped vs non-looped prompts: layer 15, of 64</title></path><text x="658.0" y="389" font-size="16" fill="var(--ink2)">16</text><path d="M520,396 h52.9 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-52.9 z" fill="var(--s4)"><title>Activation difference, looped vs non-looped prompts: layer 19, of 64</title></path><text x="584.9" y="411" font-size="16" fill="var(--ink2)">7</text><text x="506" y="466.0" font-size="18" text-anchor="end" fill="var(--ink)">Baseline: lowest neuron index</text><path d="M520,438 h117.9 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-117.9 z" fill="var(--s3)"><title>Baseline: lowest neuron index: layer 15, of 64</title></path><text x="649.9" y="453" font-size="16" fill="var(--ink2)">15</text><path d="M520,460 h101.6 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-101.6 z" fill="var(--s4)"><title>Baseline: lowest neuron index: layer 19, of 64</title></path><text x="633.6" y="475" font-size="16" fill="var(--ink2)">13</text><text x="506" y="530.0" font-size="18" text-anchor="end" fill="var(--ink)">Baseline: random</text><path d="M520,502 h4.1 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-4.1 z" fill="var(--s3)"><title>Baseline: random: layer 15, of 64</title></path><text x="536.1" y="517" font-size="16" fill="var(--ink2)">1</text><path d="M520,524 h4.1 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-4.1 z" fill="var(--s4)"><title>Baseline: random: layer 19, of 64</title></path><text x="536.1" y="539" font-size="16" fill="var(--ink2)">1</text></svg></div>
+<p class="cap">Number of the 64 edited neurons that appear in each ranking's top 64 (3,584 neurons per layer). Activation
+difference alone finds 28 and 18. The edited neurons are high-variance, low-index neurons, so simple baselines already
+find 9 to 20.</p>
+
+<h2>Do the edited neurons have one clear job?</h2>
+<div class="card"><svg viewBox="0 0 980 236" role="img" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, sans-serif"><line x1="330.0" y1="12" x2="330.0" y2="196" stroke="var(--grid)" stroke-width="1"/><text x="330.0" y="222" font-size="17" text-anchor="middle" fill="var(--muted)">0%</text><line x1="477.5" y1="12" x2="477.5" y2="196" stroke="var(--grid)" stroke-width="1"/><text x="477.5" y="222" font-size="17" text-anchor="middle" fill="var(--muted)">25%</text><line x1="625.0" y1="12" x2="625.0" y2="196" stroke="var(--grid)" stroke-width="1"/><text x="625.0" y="222" font-size="17" text-anchor="middle" fill="var(--muted)">50%</text><line x1="772.5" y1="12" x2="772.5" y2="196" stroke="var(--grid)" stroke-width="1"/><text x="772.5" y="222" font-size="17" text-anchor="middle" fill="var(--muted)">75%</text><line x1="920.0" y1="12" x2="920.0" y2="196" stroke="var(--grid)" stroke-width="1"/><text x="920.0" y="222" font-size="17" text-anchor="middle" fill="var(--muted)">100%</text><line x1="330" y1="12" x2="330" y2="196" stroke="var(--axis)" stroke-width="1.5"/><text x="316" y="41.0" font-size="18" text-anchor="end" fill="var(--ink)">Edited neurons</text><path d="M330,22 h373.6 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-373.6 z" fill="var(--s1)"><title>Edited neurons: 82 of 128</title></path><text x="761.9" y="37" font-size="16" fill="var(--ink2)">64%</text><line x1="657.2" y1="32.0" x2="753.9" y2="32.0" stroke="var(--ink)" stroke-width="2"/><text x="316" y="87.0" font-size="18" text-anchor="end" fill="var(--ink)">Matched neurons</text><path d="M330,68 h426.7 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-426.7 z" fill="var(--s1)"><title>Matched neurons: 93 of 128</title></path><text x="807.8" y="83" font-size="16" fill="var(--ink2)">73%</text><line x1="709.7" y1="78.0" x2="799.8" y2="78.0" stroke="var(--ink)" stroke-width="2"/><text x="316" y="133.0" font-size="18" text-anchor="end" fill="var(--ink)">Random neurons</text><path d="M330,114 h479.8 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-479.8 z" fill="var(--s1)"><title>Random neurons: 105 of 128</title></path><text x="855.5" y="129" font-size="16" fill="var(--ink2)">82%</text><line x1="769.4" y1="124.0" x2="847.5" y2="124.0" stroke="var(--ink)" stroke-width="2"/><text x="316" y="179.0" font-size="18" text-anchor="end" fill="var(--ink)">Random directions</text><path d="M330,160 h155.3 a4,4 0 0 1 4,4 v12 a4,4 0 0 1 -4,4 h-155.3 z" fill="var(--s1)"><title>Random directions: 34 of 128</title></path><text x="543.4" y="175" font-size="16" fill="var(--ink2)">27%</text><line x1="446.1" y1="170.0" x2="535.4" y2="170.0" stroke="var(--ink)" stroke-width="2"/></svg></div>
+<p class="cap">Share of units that blinded labellers called one job, with or without related offshoots (128 units per
+type; lines are 95% intervals). Edited neurons are far cleaner than random directions but no cleaner than other
+neurons.</p>
+<details open><summary>Table</summary><table class="dataframe t">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Unit type</th>
+      <th>One job (with or without offshoots)</th>
+      <th>95% CI</th>
+      <th>Labelled repetition-related</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Edited neurons</td>
+      <td>82 / 128</td>
+      <td>55–72%</td>
+      <td>18</td>
+    </tr>
+    <tr>
+      <td>Matched neurons</td>
+      <td>93 / 128</td>
+      <td>64–80%</td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>Random neurons</td>
+      <td>105 / 128</td>
+      <td>74–88%</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Random directions</td>
+      <td>34 / 128</td>
+      <td>20–35%</td>
+      <td>2</td>
+    </tr>
+  </tbody>
+</table></details>
+
+<h2>Weight edits compared on a cheap proxy</h2>
+<p class="note">Change in log-probability per token on 24 held-out looping generations: loop text should fall, productive
+text should not. This proxy matched the published edit's size but did not predict which edits make the model finish, and
+it ranked steering below weight edits, which generations reversed.</p>
+<table class="dataframe t">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Edit</th>
+      <th>Weights changed</th>
+      <th>Loop text</th>
+      <th>Productive text</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Published edit</td>
+      <td>130,188</td>
+      <td>-0.074</td>
+      <td>-0.020</td>
+    </tr>
+    <tr>
+      <td>Our 64 neurons (activation × write)</td>
+      <td>130,526</td>
+      <td>-0.074</td>
+      <td>-0.019</td>
+    </tr>
+    <tr>
+      <td>Our 64 neurons (activation only)</td>
+      <td>126,958</td>
+      <td>-0.038</td>
+      <td>-0.011</td>
+    </tr>
+    <tr>
+      <td>Loop direction, all 3,584 neurons</td>
+      <td>6,950,713</td>
+      <td>-0.080</td>
+      <td>-0.036</td>
+    </tr>
+    <tr>
+      <td>Published neurons zeroed</td>
+      <td>131,072</td>
+      <td>-0.007</td>
+      <td>-0.005</td>
+    </tr>
+    <tr>
+      <td>64 random neurons</td>
+      <td>124,969</td>
+      <td>-0.002</td>
+      <td>-0.002</td>
+    </tr>
+  </tbody>
+</table>
+<p class="note">Source: <code>~/code/wsp-neurons/results</code>; notebook <code>notes/hypotheses.md</code>. Built by
+<code>scripts/make_dashboard.py</code>.</p>
+</main></body></html>
