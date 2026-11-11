@@ -135,3 +135,7 @@ Looped / finished / correct: unedited 26/1/1; published 3/8/8; incorrect-vs-corr
 cut-vs-finished weight edit 2/6/6; incorrect steering after L15 at c=-1 0/12/12, at c=-2 0/18/7 (12 texts emit
 <|endoftext|> and drift to invented problems). Harness stopped only on <|im_end|>; regrading with text cut at
 <|endoftext|> changed only the c=-2 row. The proxy ranked steering below weight edits; generation did not.
+
+## Held-out MATH-500, 16,384-token cap, 60 problems x 1 sample (results/gen_eval_m500.jsonl, _summary.txt)
+Problems not used to fit any direction; same 60 for every condition; stops on <|im_end|> or <|endoftext|>.
+See results/gen_eval_m500_summary.txt for counts and the paired sign test (steering c=-1 vs published edit).
